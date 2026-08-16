@@ -1,4 +1,4 @@
-const LOCALES = ['de', 'es', 'ja'];
+const LOCALES = ['de', 'ja', 'ko'];
 
 function hasLocalePrefix(pathname) {
   for (const loc of LOCALES) {
