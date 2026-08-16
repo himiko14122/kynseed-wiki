@@ -78,5 +78,5 @@ export const AD_SLOTS: Record<BannerType, BannerSlot> & { 'native-banner': Nativ
 
 // Adsterra gate key — hardcoded constant instead of process.env.NEXT_PUBLIC_AD_BANNER_KEY.
 // Next.js did NOT inline NEXT_PUBLIC_AD_BANNER_KEY into client bundles (server resolved it but
-// client saw undefined → hydration mismatch → ads never rendered client-side). british-railway 2026-08-15.
+// client saw undefined → hydration mismatch → ads never rendered client-side). kynseed 2026-08-16.
 export const AD_BANNER_KEY = 'ceba031d17913d935a26dac868e2b78f';

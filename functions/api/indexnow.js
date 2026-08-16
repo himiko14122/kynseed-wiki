@@ -1,5 +1,5 @@
 const INDEXNOW_KEY = 'c719147a1b0dab70d60183844a8dd218';
-const HOST = 'www.british-railway.wiki';
+const HOST = 'www.kynseed.wiki';
 const SEARCH_ENGINES = [
   'https://www.bing.com/indexnow',
   'https://api.indexnow.org/indexnow',
@@ -49,10 +49,10 @@ export async function onRequestPost(context) {
 
 export async function onRequestGet(context) {
   const baseUrl = `https://${HOST}`;
-  const locales = ['en', 'de', 'es', 'ja'];
+  const locales = ['en', 'de', 'ja', 'ko'];
   const categories = [
-    'guides', 'trains', 'routes', 'stations', 'gameplay',
-    'economy', 'tier-list', 'updates', 'operators', 'community',
+    'guides', 'combat', 'farming', 'business', 'relationships',
+    'crafting', 'dungeons', 'lore', 'updates',
   ];
   const allUrls = [];
 
