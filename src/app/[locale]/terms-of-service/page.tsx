@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   setRequestLocale(validLocale);
   const t = await getTranslations();
   return {
-    title: `${t('nav_termsOfService')} | ${t('site_title')}`,
+    title: t('nav_termsOfService'),
     description: t('page_termsOfService_description'),
     alternates: {
       canonical: `${SITE_URL}/terms-of-service`,
@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         'x-default': `${SITE_URL}/terms-of-service`,
       },
     },
-    keywords: ['British Railway Wiki Terms of Service', 'British Railway terms', 'British Railway usage terms'],
+    keywords: ['Kynseed Wiki Terms of Service', 'Kynseed terms', 'Kynseed usage terms'],
   };
 }
 

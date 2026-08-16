@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   setRequestLocale(validLocale);
   const t = await getTranslations();
   return {
-    title: `${t('nav_privacyPolicy')} | ${t('site_title')}`,
+    title: t('nav_privacyPolicy'),
     description: t('page_privacyPolicy_description'),
     alternates: {
       canonical: `${SITE_URL}/privacy-policy`,
@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
         'x-default': `${SITE_URL}/privacy-policy`,
       },
     },
-    keywords: ['British Railway Wiki Privacy Policy', 'British Railway privacy', 'British Railway data collection'],
+    keywords: ['Kynseed Wiki Privacy Policy', 'Kynseed privacy', 'Kynseed data collection'],
   };
 }
 

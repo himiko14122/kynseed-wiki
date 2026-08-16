@@ -64,7 +64,7 @@ export const BANNER_SLOTS: Record<BannerType, BannerSlot> = {
   },
 };
 
-// British Railway native banner
+// Kynseed native banner
 export const NATIVE_SLOT: NativeSlot = {
   type: 'native-banner',
   containerId: 'container-d35904a5ca4d66e2235ef08cfe33ad03',
