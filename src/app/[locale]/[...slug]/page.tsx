@@ -70,9 +70,6 @@ export default async function CatchAllPage({ params }: { params: Promise<{ local
   const adKey = AD_BANNER_KEY;
 
   if (isContentType(first)) {
-    if (CONTENT_TYPES_WITH_DEDICATED_PAGES.has(first as ContentType) && rest.length === 0) {
-      notFound();
-    }
     if (rest.length === 0) {
       const items = await getAllContent(first, validLocale);
       const nav = NAVIGATION_CONFIG.find((item) => item.key === first);

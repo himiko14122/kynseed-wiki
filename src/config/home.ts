@@ -41,7 +41,7 @@ export interface HeroCtaConfig {
 export const HOME_CONFIG = {
   hero: {
     // Official Kynseed trailer
-    videoId: 'dQw4w9WgXcQ', // Placeholder - should be updated with actual trailer
+    videoId: 'hcPWS06NSMM', // Kynseed gameplay video
     badgeKeys: [
       'home_hero_badge_release',
       'home_hero_badge_reviews',

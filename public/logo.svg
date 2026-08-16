@@ -1,24 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#1f3a5f"/>
-      <stop offset="1" stop-color="#14213d"/>
+      <stop offset="0" stop-color="#3a6b3f"/>
+      <stop offset="1" stop-color="#1f4023"/>
     </linearGradient>
-    <linearGradient id="nose" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#f5f7fa"/>
-      <stop offset="1" stop-color="#c9d2df"/>
+    <linearGradient id="leaf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9bd97e"/>
+      <stop offset="1" stop-color="#5fa148"/>
+    </linearGradient>
+    <linearGradient id="trunk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7a5230"/>
+      <stop offset="1" stop-color="#4a311a"/>
     </linearGradient>
   </defs>
   <rect width="512" height="512" rx="96" fill="url(#bg)"/>
-  <path d="M96 208 L416 208 L416 368 Q416 396 388 396 L124 396 Q96 396 96 368 Z" fill="#14213d"/>
-  <path d="M148 220 L364 220 L376 248 L136 248 Z" fill="#0e1a33"/>
-  <path d="M148 168 L364 168 L380 208 L132 208 Z" fill="url(#nose)"/>
-  <rect x="132" y="250" width="248" height="34" rx="10" fill="#e11d2e"/>
-  <path d="M180 300 L332 300 L318 322 L194 322 Z" fill="#e11d2e" opacity="0.85"/>
-  <circle cx="186" cy="196" r="26" fill="#fff7e6"/>
-  <circle cx="326" cy="196" r="26" fill="#fff7e6"/>
-  <circle cx="186" cy="196" r="13" fill="#ffd9a3"/>
-  <circle cx="326" cy="196" r="13" fill="#ffd9a3"/>
-  <rect x="252" y="150" width="8" height="20" rx="4" fill="#f5f7fa"/>
-  <rect x="128" y="396" width="256" height="14" rx="7" fill="#3b3f4a"/>
+  <!-- Tree trunk -->
+  <path d="M236 380 L276 380 L280 460 L232 460 Z" fill="url(#trunk)"/>
+  <!-- Tree foliage (3 layered leaves forming a stylized acorn/tree) -->
+  <ellipse cx="256" cy="200" rx="120" ry="100" fill="url(#leaf)" opacity="0.9"/>
+  <ellipse cx="180" cy="240" rx="80" ry="70" fill="url(#leaf)" opacity="0.85"/>
+  <ellipse cx="332" cy="240" rx="80" ry="70" fill="url(#leaf)" opacity="0.85"/>
+  <ellipse cx="256" cy="280" rx="100" ry="80" fill="url(#leaf)" opacity="0.95"/>
+  <!-- Acorn (Kynseed symbol) -->
+  <ellipse cx="256" cy="180" rx="28" ry="22" fill="#c08b58"/>
+  <path d="M226 178 Q256 154 286 178 Q286 168 256 164 Q226 168 226 178 Z" fill="#4a311a"/>
+  <line x1="256" y1="164" x2="256" y2="146" stroke="#4a311a" stroke-width="4" stroke-linecap="round"/>
+  <!-- Subtle sparkles -->
+  <circle cx="160" cy="140" r="4" fill="#fff7c2" opacity="0.7"/>
+  <circle cx="360" cy="160" r="3" fill="#fff7c2" opacity="0.6"/>
+  <circle cx="130" cy="320" r="3" fill="#fff7c2" opacity="0.5"/>
+  <circle cx="390" cy="340" r="4" fill="#fff7c2" opacity="0.7"/>
 </svg>
