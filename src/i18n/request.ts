@@ -4,10 +4,10 @@ import { routing } from './routing';
 
 import en from '@/locales/en.json';
 import de from '@/locales/de.json';
-import es from '@/locales/es.json';
 import ja from '@/locales/ja.json';
+import ko from '@/locales/ko.json';
 
-const messages = { en, de, es, ja } as const;
+const messages = { en, de, ja, ko } as const;
 
 type Messages = typeof en;
 
