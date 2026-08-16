@@ -23,13 +23,19 @@ export async function generateStaticParams() {
       slug: item.path.slice(1).split('/'),
     }))
   );
+  const contentCategoryParams = routing.locales.flatMap((locale) =>
+    NAVIGATION_CONFIG.filter((item) => 'isContentType' in item && item.isContentType).map((item) => ({
+      locale,
+      slug: [item.key],
+    }))
+  );
   const contentParams = getAllContentPaths('en').flatMap((item) =>
     routing.locales.map((locale) => ({
       locale,
       slug: [item.contentType, ...item.segments],
     }))
   );
-  return [...staticParams, ...contentParams];
+  return [...staticParams, ...contentCategoryParams, ...contentParams];
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string[] }> }): Promise<Metadata> {
