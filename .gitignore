@@ -1,0 +1,20 @@
+node_modules/
+.next/
+.env
+.env.*
+!.env.production
+.env*.local
+out/
+.astro/
+.codeflicker/
+package-lock.json
+
+# 备份/失败产物
+*.bak
+*.failed.json
+.pre_locale_trans_*
+
+# 构建无关的本地进度文件
+.write_progress.json
+.call_llm_write.failed.json
+tsconfig.tsbuildinfo

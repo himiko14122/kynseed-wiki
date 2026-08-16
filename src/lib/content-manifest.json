@@ -1,0 +1,6786 @@
+{
+  "contentPaths": [
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "added-content",
+      "segments": [
+        "added-content"
+      ],
+      "importPath": "AddedContent",
+      "title": "Kynseed New Content: Updates and Features"
+    },
+    {
+      "locale": "de",
+      "contentType": "updates",
+      "slug": "added-content",
+      "segments": [
+        "added-content"
+      ],
+      "importPath": "AddedContent",
+      "title": "Kynseed Neue Inhalte: Updates und Funktionen"
+    },
+    {
+      "locale": "ja",
+      "contentType": "updates",
+      "slug": "added-content",
+      "segments": [
+        "added-content"
+      ],
+      "importPath": "AddedContent",
+      "title": "Kynseedの新コンテンツ：アップデートと機能"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "beginner-guide",
+      "segments": [
+        "beginner-guide"
+      ],
+      "importPath": "Beginner-Guide",
+      "title": "Kynseed beginner guide: first day tasks and life skills"
+    },
+    {
+      "locale": "de",
+      "contentType": "guides",
+      "slug": "beginner-guide",
+      "segments": [
+        "beginner-guide"
+      ],
+      "importPath": "Beginner-Guide",
+      "title": "Kynseed-Anfängerleitfaden: Aufgaben am ersten Tag und Lebensfertigkeiten"
+    },
+    {
+      "locale": "ja",
+      "contentType": "guides",
+      "slug": "beginner-guide",
+      "segments": [
+        "beginner-guide"
+      ],
+      "importPath": "Beginner-Guide",
+      "title": "Kynseed初心者ガイド：初日のタスクと生活スキル"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "beginner-walkthrough",
+      "segments": [
+        "beginner-walkthrough"
+      ],
+      "importPath": "Beginner-Walkthrough",
+      "title": "Kynseed beginner walkthrough: first generation milestones"
+    },
+    {
+      "locale": "de",
+      "contentType": "guides",
+      "slug": "beginner-walkthrough",
+      "segments": [
+        "beginner-walkthrough"
+      ],
+      "importPath": "Beginner-Walkthrough",
+      "title": "Kynseed-Anfängerleitfaden: Meilensteine der ersten Generation"
+    },
+    {
+      "locale": "ja",
+      "contentType": "guides",
+      "slug": "beginner-walkthrough",
+      "segments": [
+        "beginner-walkthrough"
+      ],
+      "importPath": "Beginner-Walkthrough",
+      "title": "Kynseed初心者ウォークスルー：第一世代のマイルストーン"
+    },
+    {
+      "locale": "en",
+      "contentType": "business",
+      "slug": "business-guide",
+      "segments": [
+        "business-guide"
+      ],
+      "importPath": "Business-Guide",
+      "title": "Kynseed business guide: tavern, apothecary, and blacksmith"
+    },
+    {
+      "locale": "de",
+      "contentType": "business",
+      "slug": "business-guide",
+      "segments": [
+        "business-guide"
+      ],
+      "importPath": "Business-Guide",
+      "title": "Kynseed-Wirtschaftsführer: Taverne, Apotheke und Schmiede"
+    },
+    {
+      "locale": "ja",
+      "contentType": "business",
+      "slug": "business-guide",
+      "segments": [
+        "business-guide"
+      ],
+      "importPath": "Business-Guide",
+      "title": "Kynseedビジネスガイド：酒場、薬屋、鍛冶屋"
+    },
+    {
+      "locale": "en",
+      "contentType": "business",
+      "slug": "business-management",
+      "segments": [
+        "business-management"
+      ],
+      "importPath": "Business-Management",
+      "title": "Kynseed business management: best shops for steady gold"
+    },
+    {
+      "locale": "de",
+      "contentType": "business",
+      "slug": "business-management",
+      "segments": [
+        "business-management"
+      ],
+      "importPath": "Business-Management",
+      "title": "Kynseed Unternehmensführung: die besten Geschäfte für stabiles Gold"
+    },
+    {
+      "locale": "ja",
+      "contentType": "business",
+      "slug": "business-management",
+      "segments": [
+        "business-management"
+      ],
+      "importPath": "Business-Management",
+      "title": "Kynseedのビジネス管理：安定したゴールドを得るための最適なショップ"
+    },
+    {
+      "locale": "en",
+      "contentType": "business",
+      "slug": "business-upgrades",
+      "segments": [
+        "business-upgrades"
+      ],
+      "importPath": "Business-Upgrades",
+      "title": "Kynseed business upgrades: decor, layout, and efficiency"
+    },
+    {
+      "locale": "de",
+      "contentType": "business",
+      "slug": "business-upgrades",
+      "segments": [
+        "business-upgrades"
+      ],
+      "importPath": "Business-Upgrades",
+      "title": "Kynseed-Geschäftsverbesserungen: Dekor, Layout und Effizienz"
+    },
+    {
+      "locale": "ja",
+      "contentType": "business",
+      "slug": "business-upgrades",
+      "segments": [
+        "business-upgrades"
+      ],
+      "importPath": "Business-Upgrades",
+      "title": "Kynseed ビジネスアップグレード：装飾、レイアウト、効率化"
+    },
+    {
+      "locale": "en",
+      "contentType": "dungeons",
+      "slug": "chest-locations",
+      "segments": [
+        "chest-locations"
+      ],
+      "importPath": "ChestLocations",
+      "title": "Kynseed Chest Locations: Find All Treasure Chests"
+    },
+    {
+      "locale": "de",
+      "contentType": "dungeons",
+      "slug": "chest-locations",
+      "segments": [
+        "chest-locations"
+      ],
+      "importPath": "ChestLocations",
+      "title": "Kynseed Truhen-Standorte: Finde alle Schatztruhen"
+    },
+    {
+      "locale": "ja",
+      "contentType": "dungeons",
+      "slug": "chest-locations",
+      "segments": [
+        "chest-locations"
+      ],
+      "importPath": "ChestLocations",
+      "title": "Kynseedの宝箱の場所：すべての宝箱を見つける完全ガイド"
+    },
+    {
+      "locale": "en",
+      "contentType": "farming",
+      "slug": "chicken-guide",
+      "segments": [
+        "chicken-guide"
+      ],
+      "importPath": "Chicken-Guide",
+      "title": "the game Kynseed Chicken Guide: Eggs, Care & Profit"
+    },
+    {
+      "locale": "de",
+      "contentType": "farming",
+      "slug": "chicken-guide",
+      "segments": [
+        "chicken-guide"
+      ],
+      "importPath": "Chicken-Guide",
+      "title": "Kynseed-Hühner-Guide: Eier, Pflege & Profit"
+    },
+    {
+      "locale": "ja",
+      "contentType": "farming",
+      "slug": "chicken-guide",
+      "segments": [
+        "chicken-guide"
+      ],
+      "importPath": "Chicken-Guide",
+      "title": "Kynseed 鶏ガイド：卵、飼育、そして利益"
+    },
+    {
+      "locale": "en",
+      "contentType": "combat",
+      "slug": "combat-guide",
+      "segments": [
+        "combat-guide"
+      ],
+      "importPath": "Combat-Guide",
+      "title": "Kynseed combat guide: melee, ranged, and skill tree"
+    },
+    {
+      "locale": "de",
+      "contentType": "combat",
+      "slug": "combat-guide",
+      "segments": [
+        "combat-guide"
+      ],
+      "importPath": "Combat-Guide",
+      "title": "Kynseed-Kampfguide: Nahkampf, Fernkampf und Fertigkeitenbaum"
+    },
+    {
+      "locale": "ja",
+      "contentType": "combat",
+      "slug": "combat-guide",
+      "segments": [
+        "combat-guide"
+      ],
+      "importPath": "Combat-Guide",
+      "title": "Kynseed 戦闘ガイド：近接、遠距離、スキルツリー"
+    },
+    {
+      "locale": "en",
+      "contentType": "combat",
+      "slug": "combat-strategy",
+      "segments": [
+        "combat-strategy"
+      ],
+      "importPath": "Combat-Strategy",
+      "title": "Kynseed combat strategy: boss fights and enemy tactics"
+    },
+    {
+      "locale": "de",
+      "contentType": "combat",
+      "slug": "combat-strategy",
+      "segments": [
+        "combat-strategy"
+      ],
+      "importPath": "Combat-Strategy",
+      "title": "Kynseed-Kampfstrategie: Bosskämpfe und Feindtaktiken"
+    },
+    {
+      "locale": "ja",
+      "contentType": "combat",
+      "slug": "combat-strategy",
+      "segments": [
+        "combat-strategy"
+      ],
+      "importPath": "Combat-Strategy",
+      "title": "Kynseedの戦闘戦略：ボス戦と敵の戦術"
+    },
+    {
+      "locale": "en",
+      "contentType": "combat",
+      "slug": "combat-styles",
+      "segments": [
+        "combat-styles"
+      ],
+      "importPath": "Combat-Styles",
+      "title": "Kynseed combat styles: armor, gear, and damage tips"
+    },
+    {
+      "locale": "de",
+      "contentType": "combat",
+      "slug": "combat-styles",
+      "segments": [
+        "combat-styles"
+      ],
+      "importPath": "Combat-Styles",
+      "title": "Kynseed-Kampfstile: Rüstung, Ausrüstung und Schadenstipps"
+    },
+    {
+      "locale": "ja",
+      "contentType": "combat",
+      "slug": "combat-styles",
+      "segments": [
+        "combat-styles"
+      ],
+      "importPath": "Combat-Styles",
+      "title": "Kynseedの戦闘スタイル：防具、装備、ダメージ計算のコツ"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "complete-guide",
+      "segments": [
+        "complete-guide"
+      ],
+      "importPath": "CompleteGuide",
+      "title": "Kynseed Complete Guide: Full Walkthrough"
+    },
+    {
+      "locale": "de",
+      "contentType": "guides",
+      "slug": "complete-guide",
+      "segments": [
+        "complete-guide"
+      ],
+      "importPath": "CompleteGuide",
+      "title": "Kynseed Komplettlösung: Vollständiger Durchspiel-Guide"
+    },
+    {
+      "locale": "ja",
+      "contentType": "guides",
+      "slug": "complete-guide",
+      "segments": [
+        "complete-guide"
+      ],
+      "importPath": "CompleteGuide",
+      "title": "Kynseed完全ガイド：徹底攻略ウォークスルー"
+    },
+    {
+      "locale": "en",
+      "contentType": "crafting",
+      "slug": "crafting-guide",
+      "segments": [
+        "crafting-guide"
+      ],
+      "importPath": "Crafting-Guide",
+      "title": "Kynseed Crafting Guide — Master the Art of Creation"
+    },
+    {
+      "locale": "de",
+      "contentType": "crafting",
+      "slug": "crafting-guide",
+      "segments": [
+        "crafting-guide"
+      ],
+      "importPath": "Crafting-Guide",
+      "title": "Kynseed-Handwerksführer – Meistere die Kunst des Erschaffens"
+    },
+    {
+      "locale": "ja",
+      "contentType": "crafting",
+      "slug": "crafting-guide",
+      "segments": [
+        "crafting-guide"
+      ],
+      "importPath": "Crafting-Guide",
+      "title": "Kynseed クラフトガイド — 創造の技を極める"
+    },
+    {
+      "locale": "en",
+      "contentType": "lore",
+      "slug": "creatures-guide",
+      "segments": [
+        "creatures-guide"
+      ],
+      "importPath": "Creatures-Guide",
+      "title": "Creatures Guide"
+    },
+    {
+      "locale": "de",
+      "contentType": "lore",
+      "slug": "creatures-guide",
+      "segments": [
+        "creatures-guide"
+      ],
+      "importPath": "Creatures-Guide",
+      "title": "Kreaturenführer"
+    },
+    {
+      "locale": "ja",
+      "contentType": "lore",
+      "slug": "creatures-guide",
+      "segments": [
+        "creatures-guide"
+      ],
+      "importPath": "Creatures-Guide",
+      "title": "クリーチャーガイド"
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "dev-updates",
+      "segments": [
+        "dev-updates"
+      ],
+      "importPath": "DevUpdates",
+      "title": "Kynseed Developer Updates: Community News"
+    },
+    {
+      "locale": "de",
+      "contentType": "updates",
+      "slug": "dev-updates",
+      "segments": [
+        "dev-updates"
+      ],
+      "importPath": "DevUpdates",
+      "title": "Kynseed-Entwickler-Updates: Neuigkeiten aus der Community"
+    },
+    {
+      "locale": "ja",
+      "contentType": "updates",
+      "slug": "dev-updates",
+      "segments": [
+        "dev-updates"
+      ],
+      "importPath": "DevUpdates",
+      "title": "Kynseed 開発者アップデート：コミュニティニュース"
+    },
+    {
+      "locale": "en",
+      "contentType": "relationships",
+      "slug": "dialogue-guide",
+      "segments": [
+        "dialogue-guide"
+      ],
+      "importPath": "Dialogue-Guide",
+      "title": "Kynseed dialogue guide: win dates with perfect lines"
+    },
+    {
+      "locale": "de",
+      "contentType": "relationships",
+      "slug": "dialogue-guide",
+      "segments": [
+        "dialogue-guide"
+      ],
+      "importPath": "Dialogue-Guide",
+      "title": "Kynseed-Dialogführer: Gewinnen Sie Dates mit perfekten Antworten"
+    },
+    {
+      "locale": "ja",
+      "contentType": "relationships",
+      "slug": "dialogue-guide",
+      "segments": [
+        "dialogue-guide"
+      ],
+      "importPath": "Dialogue-Guide",
+      "title": "Kynseed会話ガイド：完璧なセリフでデートを勝ち取る"
+    },
+    {
+      "locale": "en",
+      "contentType": "dungeons",
+      "slug": "dungeon-guide",
+      "segments": [
+        "dungeon-guide"
+      ],
+      "importPath": "DungeonGuide",
+      "title": "Kynseed Dungeon Guide: Master Cave Exploration"
+    },
+    {
+      "locale": "de",
+      "contentType": "dungeons",
+      "slug": "dungeon-guide",
+      "segments": [
+        "dungeon-guide"
+      ],
+      "importPath": "DungeonGuide",
+      "title": "Kynseed Dungeon-Guide: Meistere die Höhlen-Erkundung"
+    },
+    {
+      "locale": "ja",
+      "contentType": "dungeons",
+      "slug": "dungeon-guide",
+      "segments": [
+        "dungeon-guide"
+      ],
+      "importPath": "DungeonGuide",
+      "title": "Kynseedダンジョンガイド：洞窟探索の極意"
+    },
+    {
+      "locale": "en",
+      "contentType": "farming",
+      "slug": "efficient-farming",
+      "segments": [
+        "efficient-farming"
+      ],
+      "importPath": "Efficient-Farming",
+      "title": "Kynseed efficient farming: layout, irrigation, fertilizer"
+    },
+    {
+      "locale": "de",
+      "contentType": "farming",
+      "slug": "efficient-farming",
+      "segments": [
+        "efficient-farming"
+      ],
+      "importPath": "Efficient-Farming",
+      "title": "Kynseed effiziente Landwirtschaft: Layout, Bewässerung, Dünger"
+    },
+    {
+      "locale": "ja",
+      "contentType": "farming",
+      "slug": "efficient-farming",
+      "segments": [
+        "efficient-farming"
+      ],
+      "importPath": "Efficient-Farming",
+      "title": "Kynseedの効率的な農業：レイアウト、灌漑、肥料"
+    },
+    {
+      "locale": "en",
+      "contentType": "combat",
+      "slug": "enemy-list",
+      "segments": [
+        "enemy-list"
+      ],
+      "importPath": "Enemy-List",
+      "title": "Kynseed enemy list: stats, strength, and agility data"
+    },
+    {
+      "locale": "de",
+      "contentType": "combat",
+      "slug": "enemy-list",
+      "segments": [
+        "enemy-list"
+      ],
+      "importPath": "Enemy-List",
+      "title": "Kynseed-Gegnerliste: Stärke-, Kraft- und Beweglichkeitsdaten"
+    },
+    {
+      "locale": "ja",
+      "contentType": "combat",
+      "slug": "enemy-list",
+      "segments": [
+        "enemy-list"
+      ],
+      "importPath": "Enemy-List",
+      "title": "Kynseed敵リスト：ステータス、強さ、敏捷性データ"
+    },
+    {
+      "locale": "en",
+      "contentType": "relationships",
+      "slug": "family-guide",
+      "segments": [
+        "family-guide"
+      ],
+      "importPath": "Family-Guide",
+      "title": "Kynseed family guide: legacy, inheritance, and generations"
+    },
+    {
+      "locale": "de",
+      "contentType": "relationships",
+      "slug": "family-guide",
+      "segments": [
+        "family-guide"
+      ],
+      "importPath": "Family-Guide",
+      "title": "Kynseed-Familienführer: Vermächtnis, Erbschaft und Generationen"
+    },
+    {
+      "locale": "ja",
+      "contentType": "relationships",
+      "slug": "family-guide",
+      "segments": [
+        "family-guide"
+      ],
+      "importPath": "Family-Guide",
+      "title": "Kynseed 家族ガイド：遺産、継承、そして世代"
+    },
+    {
+      "locale": "en",
+      "contentType": "farming",
+      "slug": "farming-guide",
+      "segments": [
+        "farming-guide"
+      ],
+      "importPath": "Farming-Guide",
+      "title": "Kynseed Farming Guide: Efficient Agriculture"
+    },
+    {
+      "locale": "de",
+      "contentType": "farming",
+      "slug": "farming-guide",
+      "segments": [
+        "farming-guide"
+      ],
+      "importPath": "Farming-Guide",
+      "title": "Kynseed Landwirtschafts-Guide: Effiziente Landwirtschaft"
+    },
+    {
+      "locale": "ja",
+      "contentType": "farming",
+      "slug": "farming-guide",
+      "segments": [
+        "farming-guide"
+      ],
+      "importPath": "Farming-Guide",
+      "title": "Kynseed農業ガイド：効率的な農業経営"
+    },
+    {
+      "locale": "en",
+      "contentType": "lore",
+      "slug": "folklore-guide",
+      "segments": [
+        "folklore-guide"
+      ],
+      "importPath": "Folklore-Guide",
+      "title": "Kynseed folklore guide: dark tales and world events"
+    },
+    {
+      "locale": "de",
+      "contentType": "lore",
+      "slug": "folklore-guide",
+      "segments": [
+        "folklore-guide"
+      ],
+      "importPath": "Folklore-Guide",
+      "title": "Kynseed-Folklore-Guide: Dunkle Märchen und Weltereignisse"
+    },
+    {
+      "locale": "ja",
+      "contentType": "lore",
+      "slug": "folklore-guide",
+      "segments": [
+        "folklore-guide"
+      ],
+      "importPath": "Folklore-Guide",
+      "title": "Kynseed伝承ガイド：ダークな童話と世界イベント"
+    },
+    {
+      "locale": "en",
+      "contentType": "business",
+      "slug": "food-recipes",
+      "segments": [
+        "food-recipes"
+      ],
+      "importPath": "Food-Recipes",
+      "title": "Kynseed food recipes: drinks, crafting, and shop layouts"
+    },
+    {
+      "locale": "de",
+      "contentType": "business",
+      "slug": "food-recipes",
+      "segments": [
+        "food-recipes"
+      ],
+      "importPath": "Food-Recipes",
+      "title": "Kynseed-Rezepte: Getränke, Handwerk und Ladenlayouts"
+    },
+    {
+      "locale": "ja",
+      "contentType": "business",
+      "slug": "food-recipes",
+      "segments": [
+        "food-recipes"
+      ],
+      "importPath": "Food-Recipes",
+      "title": "Kynseedの料理レシピ：ドリンク、クラフト、ショップレイアウト"
+    },
+    {
+      "locale": "en",
+      "contentType": "relationships",
+      "slug": "friendship-guide",
+      "segments": [
+        "friendship-guide"
+      ],
+      "importPath": "Friendship-Guide",
+      "title": "Kynseed friendship guide: top gifts for every villager"
+    },
+    {
+      "locale": "de",
+      "contentType": "relationships",
+      "slug": "friendship-guide",
+      "segments": [
+        "friendship-guide"
+      ],
+      "importPath": "Friendship-Guide",
+      "title": "Kynseed-Freundschaftsführer: Die besten Geschenke für jeden Dorfbewohner"
+    },
+    {
+      "locale": "ja",
+      "contentType": "relationships",
+      "slug": "friendship-guide",
+      "segments": [
+        "friendship-guide"
+      ],
+      "importPath": "Friendship-Guide",
+      "title": "Kynseed友情ガイド：すべての村人への最高の贈り物"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "game-guide",
+      "segments": [
+        "game-guide"
+      ],
+      "importPath": "GameGuide",
+      "title": "Kynseed Game Guide: Complete Overview"
+    },
+    {
+      "locale": "de",
+      "contentType": "guides",
+      "slug": "game-guide",
+      "segments": [
+        "game-guide"
+      ],
+      "importPath": "GameGuide",
+      "title": "Kynseed-Spielanleitung: Vollständiger Überblick"
+    },
+    {
+      "locale": "ja",
+      "contentType": "guides",
+      "slug": "game-guide",
+      "segments": [
+        "game-guide"
+      ],
+      "importPath": "GameGuide",
+      "title": "Kynseedゲームガイド：完全解説"
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "game-version",
+      "segments": [
+        "game-version"
+      ],
+      "importPath": "Game-Version",
+      "title": "Kynseed game version: current release and changelog info"
+    },
+    {
+      "locale": "de",
+      "contentType": "updates",
+      "slug": "game-version",
+      "segments": [
+        "game-version"
+      ],
+      "importPath": "Game-Version",
+      "title": "Kynseed-Spielversion: Aktuelle Version und Änderungsprotokoll-Infos"
+    },
+    {
+      "locale": "ja",
+      "contentType": "updates",
+      "slug": "game-version",
+      "segments": [
+        "game-version"
+      ],
+      "importPath": "Game-Version",
+      "title": "Kynseedのゲームバージョン：最新リリースと変更ログ情報"
+    },
+    {
+      "locale": "en",
+      "contentType": "lore",
+      "slug": "game-world",
+      "segments": [
+        "game-world"
+      ],
+      "importPath": "Game-World",
+      "title": "Kynseed game world: village history and fairy tales"
+    },
+    {
+      "locale": "de",
+      "contentType": "lore",
+      "slug": "game-world",
+      "segments": [
+        "game-world"
+      ],
+      "importPath": "Game-World",
+      "title": "Kynseed-Spielwelt: Dorfgeschichte und Märchen"
+    },
+    {
+      "locale": "ja",
+      "contentType": "lore",
+      "slug": "game-world",
+      "segments": [
+        "game-world"
+      ],
+      "importPath": "Game-World",
+      "title": "Kynseedのゲーム世界：村の歴史と妖精物語"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "gameplay-basics",
+      "segments": [
+        "gameplay-basics"
+      ],
+      "importPath": "GameplayBasics",
+      "title": "Kynseed Gameplay Basics: Controls Guide"
+    },
+    {
+      "locale": "de",
+      "contentType": "guides",
+      "slug": "gameplay-basics",
+      "segments": [
+        "gameplay-basics"
+      ],
+      "importPath": "GameplayBasics",
+      "title": "Kynseed Gameplay-Grundlagen: Steuerungsanleitung"
+    },
+    {
+      "locale": "ja",
+      "contentType": "guides",
+      "slug": "gameplay-basics",
+      "segments": [
+        "gameplay-basics"
+      ],
+      "importPath": "GameplayBasics",
+      "title": "Kynseedの基本ゲームプレイ：操作ガイド"
+    },
+    {
+      "locale": "en",
+      "contentType": "dungeons",
+      "slug": "gear-check",
+      "segments": [
+        "gear-check"
+      ],
+      "importPath": "GearCheck",
+      "title": "Kynseed Dungeon Gear Checklist"
+    },
+    {
+      "locale": "de",
+      "contentType": "dungeons",
+      "slug": "gear-check",
+      "segments": [
+        "gear-check"
+      ],
+      "importPath": "GearCheck",
+      "title": "Kynseed Dungeon Ausrüstungs-Checkliste"
+    },
+    {
+      "locale": "ja",
+      "contentType": "dungeons",
+      "slug": "gear-check",
+      "segments": [
+        "gear-check"
+      ],
+      "importPath": "GearCheck",
+      "title": "Kynseedダンジョン装備チェックリスト"
+    },
+    {
+      "locale": "en",
+      "contentType": "crafting",
+      "slug": "gem-guide",
+      "segments": [
+        "gem-guide"
+      ],
+      "importPath": "Gem-Guide",
+      "title": "Kynseed Gem Guide — Types, Uses, and Crafting"
+    },
+    {
+      "locale": "de",
+      "contentType": "crafting",
+      "slug": "gem-guide",
+      "segments": [
+        "gem-guide"
+      ],
+      "importPath": "Gem-Guide",
+      "title": "Kynseed-Edelsteinführer – Typen, Verwendungen und Handwerk"
+    },
+    {
+      "locale": "ja",
+      "contentType": "crafting",
+      "slug": "gem-guide",
+      "segments": [
+        "gem-guide"
+      ],
+      "importPath": "Gem-Guide",
+      "title": "Kynseed 宝石ガイド — 種類、用途、クラフト"
+    },
+    {
+      "locale": "en",
+      "contentType": "combat",
+      "slug": "health-guide",
+      "segments": [
+        "health-guide"
+      ],
+      "importPath": "Health-Guide",
+      "title": "Kynseed Health Guide: HP and Damage System"
+    },
+    {
+      "locale": "de",
+      "contentType": "combat",
+      "slug": "health-guide",
+      "segments": [
+        "health-guide"
+      ],
+      "importPath": "Health-Guide",
+      "title": "Kynseed Gesundheitsführer: HP- und Schadenssystem"
+    },
+    {
+      "locale": "ja",
+      "contentType": "combat",
+      "slug": "health-guide",
+      "segments": [
+        "health-guide"
+      ],
+      "importPath": "Health-Guide",
+      "title": "Kynseed 健康ガイド：HPとダメージシステム"
+    },
+    {
+      "locale": "en",
+      "contentType": "farming",
+      "slug": "horse-guide",
+      "segments": [
+        "horse-guide"
+      ],
+      "importPath": "Horse-Guide",
+      "title": "Kynseed horse guide: pets, dogs, cats, and farm income"
+    },
+    {
+      "locale": "de",
+      "contentType": "farming",
+      "slug": "horse-guide",
+      "segments": [
+        "horse-guide"
+      ],
+      "importPath": "Horse-Guide",
+      "title": "Kynseed-Pferdeführer: Haustiere, Hunde, Katzen und Hofeinkommen"
+    },
+    {
+      "locale": "ja",
+      "contentType": "farming",
+      "slug": "horse-guide",
+      "segments": [
+        "horse-guide"
+      ],
+      "importPath": "Horse-Guide",
+      "title": "Kynseed 馬ガイド：ペット、犬、猫、そして農場収入"
+    },
+    {
+      "locale": "en",
+      "contentType": "crafting",
+      "slug": "ingredient-guide",
+      "segments": [
+        "ingredient-guide"
+      ],
+      "importPath": "Ingredient-Guide",
+      "title": "Kynseed ingredient guide: gathering, mining, fishing"
+    },
+    {
+      "locale": "de",
+      "contentType": "crafting",
+      "slug": "ingredient-guide",
+      "segments": [
+        "ingredient-guide"
+      ],
+      "importPath": "Ingredient-Guide",
+      "title": "Kynseed Zutaten-Guide: Sammeln, Bergbau, Angeln"
+    },
+    {
+      "locale": "ja",
+      "contentType": "crafting",
+      "slug": "ingredient-guide",
+      "segments": [
+        "ingredient-guide"
+      ],
+      "importPath": "Ingredient-Guide",
+      "title": "Kynseed素材ガイド：採取、採掘、釣り"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "kynseed-introduction",
+      "segments": [
+        "kynseed-introduction"
+      ],
+      "importPath": "KynseedIntroduction",
+      "title": "Kynseed Introduction: Life Cycle RPG"
+    },
+    {
+      "locale": "de",
+      "contentType": "guides",
+      "slug": "kynseed-introduction",
+      "segments": [
+        "kynseed-introduction"
+      ],
+      "importPath": "KynseedIntroduction",
+      "title": "Kynseed Einführung: Lebenszyklus-Rollenspiel"
+    },
+    {
+      "locale": "ja",
+      "contentType": "guides",
+      "slug": "kynseed-introduction",
+      "segments": [
+        "kynseed-introduction"
+      ],
+      "importPath": "KynseedIntroduction",
+      "title": "Kynseed入門：ライフサイクルRPG"
+    },
+    {
+      "locale": "en",
+      "contentType": "lore",
+      "slug": "lore-guide",
+      "segments": [
+        "lore-guide"
+      ],
+      "importPath": "Lore-Guide",
+      "title": "The Lore and Story of Kynseed – A Comprehensive Guide"
+    },
+    {
+      "locale": "de",
+      "contentType": "lore",
+      "slug": "lore-guide",
+      "segments": [
+        "lore-guide"
+      ],
+      "importPath": "Lore-Guide",
+      "title": "Die Überlieferung und Geschichte von Kynseed – Ein umfassender Leitfaden"
+    },
+    {
+      "locale": "ja",
+      "contentType": "lore",
+      "slug": "lore-guide",
+      "segments": [
+        "lore-guide"
+      ],
+      "importPath": "Lore-Guide",
+      "title": "Kynseedの世界観と物語 – 総合ガイド"
+    },
+    {
+      "locale": "en",
+      "contentType": "combat",
+      "slug": "magic-combat",
+      "segments": [
+        "magic-combat"
+      ],
+      "importPath": "Magic-Combat",
+      "title": "Kynseed Magic Combat: Spells Guide"
+    },
+    {
+      "locale": "de",
+      "contentType": "combat",
+      "slug": "magic-combat",
+      "segments": [
+        "magic-combat"
+      ],
+      "importPath": "Magic-Combat",
+      "title": "Kynseed Magie-Kampf: Zauber-Guide"
+    },
+    {
+      "locale": "ja",
+      "contentType": "combat",
+      "slug": "magic-combat",
+      "segments": [
+        "magic-combat"
+      ],
+      "importPath": "Magic-Combat",
+      "title": "Kynseed魔法戦闘：スペルガイド"
+    },
+    {
+      "locale": "en",
+      "contentType": "business",
+      "slug": "making-money",
+      "segments": [
+        "making-money"
+      ],
+      "importPath": "Making-Money",
+      "title": "Kynseed making money: pricing, customers, and staff tips"
+    },
+    {
+      "locale": "de",
+      "contentType": "business",
+      "slug": "making-money",
+      "segments": [
+        "making-money"
+      ],
+      "importPath": "Making-Money",
+      "title": "Kynseed Geld verdienen: Preise, Kunden und Mitarbeiter-Tipps"
+    },
+    {
+      "locale": "ja",
+      "contentType": "business",
+      "slug": "making-money",
+      "segments": [
+        "making-money"
+      ],
+      "importPath": "Making-Money",
+      "title": "Kynseedでお金を稼ぐ：価格設定、顧客、スタッフのコツ"
+    },
+    {
+      "locale": "en",
+      "contentType": "lore",
+      "slug": "mystical-guide",
+      "segments": [
+        "mystical-guide"
+      ],
+      "importPath": "Mystical-Guide",
+      "title": "Kynseed mystical guide: magic, gods, and fae spirits"
+    },
+    {
+      "locale": "de",
+      "contentType": "lore",
+      "slug": "mystical-guide",
+      "segments": [
+        "mystical-guide"
+      ],
+      "importPath": "Mystical-Guide",
+      "title": "Kynseed-Mystikführer: Magie, Götter und Feen-Geister"
+    },
+    {
+      "locale": "ja",
+      "contentType": "lore",
+      "slug": "mystical-guide",
+      "segments": [
+        "mystical-guide"
+      ],
+      "importPath": "Mystical-Guide",
+      "title": "Kynseed神秘ガイド：魔法、神々、そして妖精の精霊"
+    },
+    {
+      "locale": "en",
+      "contentType": "relationships",
+      "slug": "npc-schedules",
+      "segments": [
+        "npc-schedules"
+      ],
+      "importPath": "Npc-Schedules",
+      "title": "Kynseed NPC schedules: daily routines and locations"
+    },
+    {
+      "locale": "de",
+      "contentType": "relationships",
+      "slug": "npc-schedules",
+      "segments": [
+        "npc-schedules"
+      ],
+      "importPath": "Npc-Schedules",
+      "title": "Kynseed-NPC-Zeitpläne: Tagesabläufe und Standorte"
+    },
+    {
+      "locale": "ja",
+      "contentType": "relationships",
+      "slug": "npc-schedules",
+      "segments": [
+        "npc-schedules"
+      ],
+      "importPath": "Npc-Schedules",
+      "title": "KynseedのNPCスケジュール：毎日のルーティンと居場所"
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "patch-notes",
+      "segments": [
+        "patch-notes"
+      ],
+      "importPath": "Patch-Notes",
+      "title": "Kynseed patch notes: latest update and new content 2024"
+    },
+    {
+      "locale": "de",
+      "contentType": "updates",
+      "slug": "patch-notes",
+      "segments": [
+        "patch-notes"
+      ],
+      "importPath": "Patch-Notes",
+      "title": "Kynseed-Patchnotizen: neuestes Update und neue Inhalte 2024"
+    },
+    {
+      "locale": "ja",
+      "contentType": "updates",
+      "slug": "patch-notes",
+      "segments": [
+        "patch-notes"
+      ],
+      "importPath": "Patch-Notes",
+      "title": "Kynseed パッチノート：2024年の最新アップデートと新コンテンツ"
+    },
+    {
+      "locale": "en",
+      "contentType": "crafting",
+      "slug": "potion-making",
+      "segments": [
+        "potion-making"
+      ],
+      "importPath": "Potion-Making",
+      "title": "Kynseed Potion Making — Alchemy for Beginners"
+    },
+    {
+      "locale": "de",
+      "contentType": "crafting",
+      "slug": "potion-making",
+      "segments": [
+        "potion-making"
+      ],
+      "importPath": "Potion-Making",
+      "title": "Kynseed Tränke herstellen – Alchemie für Anfänger"
+    },
+    {
+      "locale": "ja",
+      "contentType": "crafting",
+      "slug": "potion-making",
+      "segments": [
+        "potion-making"
+      ],
+      "importPath": "Potion-Making",
+      "title": "Kynseedのポーション作成 — 初心者のための錬金術ガイド"
+    },
+    {
+      "locale": "en",
+      "contentType": "business",
+      "slug": "profit-maximization",
+      "segments": [
+        "profit-maximization"
+      ],
+      "importPath": "Profit-Maximization",
+      "title": "Kynseed profit maximization: trade, market, and selling tips"
+    },
+    {
+      "locale": "de",
+      "contentType": "business",
+      "slug": "profit-maximization",
+      "segments": [
+        "profit-maximization"
+      ],
+      "importPath": "Profit-Maximization",
+      "title": "Kynseed Gewinnmaximierung: Handel, Markt und Verkaufstipps"
+    },
+    {
+      "locale": "ja",
+      "contentType": "business",
+      "slug": "profit-maximization",
+      "segments": [
+        "profit-maximization"
+      ],
+      "importPath": "Profit-Maximization",
+      "title": "Kynseedの利益最大化：交易、市場、販売のコツ"
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "quality-of-life",
+      "segments": [
+        "quality-of-life"
+      ],
+      "importPath": "QualityOfLife",
+      "title": "Kynseed Quality of Life: Improvements"
+    },
+    {
+      "locale": "de",
+      "contentType": "updates",
+      "slug": "quality-of-life",
+      "segments": [
+        "quality-of-life"
+      ],
+      "importPath": "QualityOfLife",
+      "title": "Kynseed Lebensqualität: Verbesserungen"
+    },
+    {
+      "locale": "ja",
+      "contentType": "updates",
+      "slug": "quality-of-life",
+      "segments": [
+        "quality-of-life"
+      ],
+      "importPath": "QualityOfLife",
+      "title": "Kynseed 生活の質：改善点"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "quest-walkthrough",
+      "segments": [
+        "quest-walkthrough"
+      ],
+      "importPath": "Quest-Walkthrough",
+      "title": "Kynseed quest walkthrough: main story from start to end"
+    },
+    {
+      "locale": "de",
+      "contentType": "guides",
+      "slug": "quest-walkthrough",
+      "segments": [
+        "quest-walkthrough"
+      ],
+      "importPath": "Quest-Walkthrough",
+      "title": "Kynseed Quest-Komplettlösung: Hauptgeschichte von Anfang bis Ende"
+    },
+    {
+      "locale": "ja",
+      "contentType": "guides",
+      "slug": "quest-walkthrough",
+      "segments": [
+        "quest-walkthrough"
+      ],
+      "importPath": "Quest-Walkthrough",
+      "title": "Kynseed クエスト攻略：メインストーリーを最初から最後まで"
+    },
+    {
+      "locale": "en",
+      "contentType": "dungeons",
+      "slug": "regions-guide",
+      "segments": [
+        "regions-guide"
+      ],
+      "importPath": "RegionsGuide",
+      "title": "Kynseed Dungeon Regions: Complete Region Guide"
+    },
+    {
+      "locale": "de",
+      "contentType": "dungeons",
+      "slug": "regions-guide",
+      "segments": [
+        "regions-guide"
+      ],
+      "importPath": "RegionsGuide",
+      "title": "Kynseed Dungeon-Regionen: Vollständiger Regionenführer"
+    },
+    {
+      "locale": "ja",
+      "contentType": "dungeons",
+      "slug": "regions-guide",
+      "segments": [
+        "regions-guide"
+      ],
+      "importPath": "RegionsGuide",
+      "title": "Kynseed ダンジョン地域：完全地域ガイド"
+    },
+    {
+      "locale": "en",
+      "contentType": "relationships",
+      "slug": "relationship-guide",
+      "segments": [
+        "relationship-guide"
+      ],
+      "importPath": "Relationship-Guide",
+      "title": "Kynseed relationship guide: NPCs, marriage, and children"
+    },
+    {
+      "locale": "de",
+      "contentType": "relationships",
+      "slug": "relationship-guide",
+      "segments": [
+        "relationship-guide"
+      ],
+      "importPath": "Relationship-Guide",
+      "title": "Kynseed-Beziehungsguide: NPCs, Heirat und Kinder"
+    },
+    {
+      "locale": "ja",
+      "contentType": "relationships",
+      "slug": "relationship-guide",
+      "segments": [
+        "relationship-guide"
+      ],
+      "importPath": "Relationship-Guide",
+      "title": "Kynseed 人間関係ガイド：NPC、結婚、そして子供"
+    },
+    {
+      "locale": "en",
+      "contentType": "crafting",
+      "slug": "resource-guide",
+      "segments": [
+        "resource-guide"
+      ],
+      "importPath": "Resource-Guide",
+      "title": "Kynseed Resource Guide — Gathering and Management"
+    },
+    {
+      "locale": "de",
+      "contentType": "crafting",
+      "slug": "resource-guide",
+      "segments": [
+        "resource-guide"
+      ],
+      "importPath": "Resource-Guide",
+      "title": "Kynseed-Ressourcenführer – Sammeln und Verwaltung"
+    },
+    {
+      "locale": "ja",
+      "contentType": "crafting",
+      "slug": "resource-guide",
+      "segments": [
+        "resource-guide"
+      ],
+      "importPath": "Resource-Guide",
+      "title": "Kynseedリソースガイド — 採取と管理"
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "roadmap",
+      "segments": [
+        "roadmap"
+      ],
+      "importPath": "Roadmap",
+      "title": "Kynseed Roadmap: Future Plans"
+    },
+    {
+      "locale": "de",
+      "contentType": "updates",
+      "slug": "roadmap",
+      "segments": [
+        "roadmap"
+      ],
+      "importPath": "Roadmap",
+      "title": "Kynseed Roadmap: Zukunftspläne"
+    },
+    {
+      "locale": "ja",
+      "contentType": "updates",
+      "slug": "roadmap",
+      "segments": [
+        "roadmap"
+      ],
+      "importPath": "Roadmap",
+      "title": "Kynseedロードマップ：今後の計画"
+    },
+    {
+      "locale": "en",
+      "contentType": "dungeons",
+      "slug": "ruins-guide",
+      "segments": [
+        "ruins-guide"
+      ],
+      "importPath": "RuinsGuide",
+      "title": "Kynseed Ruins Guide: Explore Ancient Structures"
+    },
+    {
+      "locale": "de",
+      "contentType": "dungeons",
+      "slug": "ruins-guide",
+      "segments": [
+        "ruins-guide"
+      ],
+      "importPath": "RuinsGuide",
+      "title": "Kynseed-Ruinenführer: Entdecke antike Bauwerke"
+    },
+    {
+      "locale": "ja",
+      "contentType": "dungeons",
+      "slug": "ruins-guide",
+      "segments": [
+        "ruins-guide"
+      ],
+      "importPath": "RuinsGuide",
+      "title": "Kynseed遺跡ガイド：古代建造物を探索しよう"
+    },
+    {
+      "locale": "en",
+      "contentType": "dungeons",
+      "slug": "safe-zones",
+      "segments": [
+        "safe-zones"
+      ],
+      "importPath": "SafeZones",
+      "title": "Kynseed Safe Zones Guide: Dungeon Rest Areas"
+    },
+    {
+      "locale": "de",
+      "contentType": "dungeons",
+      "slug": "safe-zones",
+      "segments": [
+        "safe-zones"
+      ],
+      "importPath": "SafeZones",
+      "title": "Kynseed Sicherheitszonen-Leitfaden: Ruhebereiche in Verliesen"
+    },
+    {
+      "locale": "ja",
+      "contentType": "dungeons",
+      "slug": "safe-zones",
+      "segments": [
+        "safe-zones"
+      ],
+      "importPath": "SafeZones",
+      "title": "Kynseed 安全地帯ガイド：ダンジョンの休息エリア"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "save-guide",
+      "segments": [
+        "save-guide"
+      ],
+      "importPath": "SaveGuide",
+      "title": "Kynseed Save Guide: How to Save Progress"
+    },
+    {
+      "locale": "de",
+      "contentType": "guides",
+      "slug": "save-guide",
+      "segments": [
+        "save-guide"
+      ],
+      "importPath": "SaveGuide",
+      "title": "Kynseed-Speicheranleitung: So speichert ihr euren Spielfortschritt"
+    },
+    {
+      "locale": "ja",
+      "contentType": "guides",
+      "slug": "save-guide",
+      "segments": [
+        "save-guide"
+      ],
+      "importPath": "SaveGuide",
+      "title": "Kynseedセーブガイド：進行状況の保存方法"
+    },
+    {
+      "locale": "en",
+      "contentType": "farming",
+      "slug": "seasons-guide",
+      "segments": [
+        "seasons-guide"
+      ],
+      "importPath": "Seasons-Guide",
+      "title": "Kynseed seasons guide: spring to winter crop planning"
+    },
+    {
+      "locale": "de",
+      "contentType": "farming",
+      "slug": "seasons-guide",
+      "segments": [
+        "seasons-guide"
+      ],
+      "importPath": "Seasons-Guide",
+      "title": "Kynseed-Jahreszeiten-Guide: Pflanzenplanung von Frühling bis Winter"
+    },
+    {
+      "locale": "ja",
+      "contentType": "farming",
+      "slug": "seasons-guide",
+      "segments": [
+        "seasons-guide"
+      ],
+      "importPath": "Seasons-Guide",
+      "title": "Kynseedシーズンガイド：春から冬までの作物計画"
+    },
+    {
+      "locale": "en",
+      "contentType": "farming",
+      "slug": "seed-list",
+      "segments": [
+        "seed-list"
+      ],
+      "importPath": "Seed-List",
+      "title": "Kynseed seed list: fruit trees, bees, and goat care"
+    },
+    {
+      "locale": "de",
+      "contentType": "farming",
+      "slug": "seed-list",
+      "segments": [
+        "seed-list"
+      ],
+      "importPath": "Seed-List",
+      "title": "Kynseed-Samenliste: Obstbäume, Bienen und Ziegenpflege"
+    },
+    {
+      "locale": "ja",
+      "contentType": "farming",
+      "slug": "seed-list",
+      "segments": [
+        "seed-list"
+      ],
+      "importPath": "Seed-List",
+      "title": "Kynseedの種リスト：果樹、養蜂、ヤギの世話"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "side-quest-guide",
+      "segments": [
+        "side-quest-guide"
+      ],
+      "importPath": "SideQuestGuide",
+      "title": "Kynseed Side Quest Guide: All Side Quests"
+    },
+    {
+      "locale": "de",
+      "contentType": "guides",
+      "slug": "side-quest-guide",
+      "segments": [
+        "side-quest-guide"
+      ],
+      "importPath": "SideQuestGuide",
+      "title": "Kynseed Nebenquest-Komplettlösung: Alle Nebenquests"
+    },
+    {
+      "locale": "ja",
+      "contentType": "guides",
+      "slug": "side-quest-guide",
+      "segments": [
+        "side-quest-guide"
+      ],
+      "importPath": "SideQuestGuide",
+      "title": "Kynseed サイドクエストガイド：全サイドクエスト一覧"
+    },
+    {
+      "locale": "en",
+      "contentType": "relationships",
+      "slug": "special-npcs",
+      "segments": [
+        "special-npcs"
+      ],
+      "importPath": "Special-Npcs",
+      "title": "Special NPCs in Kynseed"
+    },
+    {
+      "locale": "de",
+      "contentType": "relationships",
+      "slug": "special-npcs",
+      "segments": [
+        "special-npcs"
+      ],
+      "importPath": "Special-Npcs",
+      "title": "Besondere NPCs in Kynseed"
+    },
+    {
+      "locale": "ja",
+      "contentType": "relationships",
+      "slug": "special-npcs",
+      "segments": [
+        "special-npcs"
+      ],
+      "importPath": "Special-Npcs",
+      "title": "Kynseedの特殊NPC"
+    },
+    {
+      "locale": "en",
+      "contentType": "lore",
+      "slug": "thornborough",
+      "segments": [
+        "thornborough"
+      ],
+      "importPath": "Thornborough",
+      "title": "Kynseed Thornborough lore: legends, timeline, festivals"
+    },
+    {
+      "locale": "de",
+      "contentType": "lore",
+      "slug": "thornborough",
+      "segments": [
+        "thornborough"
+      ],
+      "importPath": "Thornborough",
+      "title": "Kynseed Thornborough-Überlieferung: Legenden, Zeitstrahl, Feste"
+    },
+    {
+      "locale": "ja",
+      "contentType": "lore",
+      "slug": "thornborough",
+      "segments": [
+        "thornborough"
+      ],
+      "importPath": "Thornborough",
+      "title": "Kynseedソーンボロの伝承：伝説、年表、祭り"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "tips-and-tricks",
+      "segments": [
+        "tips-and-tricks"
+      ],
+      "importPath": "TipsAndTricks",
+      "title": "Kynseed Tips and Tricks: Pro Strategies"
+    },
+    {
+      "locale": "de",
+      "contentType": "guides",
+      "slug": "tips-and-tricks",
+      "segments": [
+        "tips-and-tricks"
+      ],
+      "importPath": "TipsAndTricks",
+      "title": "Kynseed Tipps und Tricks: Profi-Strategien"
+    },
+    {
+      "locale": "ja",
+      "contentType": "guides",
+      "slug": "tips-and-tricks",
+      "segments": [
+        "tips-and-tricks"
+      ],
+      "importPath": "TipsAndTricks",
+      "title": "Kynseedのコツと裏技：プロ向け戦略ガイド"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "what-to-do-first",
+      "segments": [
+        "what-to-do-first"
+      ],
+      "importPath": "WhatToDoFirst",
+      "title": "Kynseed: What to Do First - Early Game Guide"
+    },
+    {
+      "locale": "de",
+      "contentType": "guides",
+      "slug": "what-to-do-first",
+      "segments": [
+        "what-to-do-first"
+      ],
+      "importPath": "WhatToDoFirst",
+      "title": "Kynseed: Was zuerst tun – Leitfaden für den frühen Spielverlauf"
+    },
+    {
+      "locale": "ja",
+      "contentType": "guides",
+      "slug": "what-to-do-first",
+      "segments": [
+        "what-to-do-first"
+      ],
+      "importPath": "WhatToDoFirst",
+      "title": "Kynseed：最初にやるべきこと - 序盤ガイド"
+    },
+    {
+      "locale": "en",
+      "contentType": "crafting",
+      "slug": "workbench-guide",
+      "segments": [
+        "workbench-guide"
+      ],
+      "importPath": "Workbench-Guide",
+      "title": "Kynseed Workbench Guide — Your Crafting Hub"
+    },
+    {
+      "locale": "de",
+      "contentType": "crafting",
+      "slug": "workbench-guide",
+      "segments": [
+        "workbench-guide"
+      ],
+      "importPath": "Workbench-Guide",
+      "title": "Kynseed Werkbank-Leitfaden — Deine Handwerkszentrale"
+    },
+    {
+      "locale": "ja",
+      "contentType": "crafting",
+      "slug": "workbench-guide",
+      "segments": [
+        "workbench-guide"
+      ],
+      "importPath": "Workbench-Guide",
+      "title": "Kynseed 作業台ガイド — クラフトの中心拠点"
+    }
+  ],
+  "tocMap": {
+    "guides:en:beginner-guide": [
+      {
+        "id": "why-your-first-day-sets-the-tone-for-generations",
+        "text": "Why Your First Day Sets the Tone for Generations"
+      },
+      {
+        "id": "life-skills-what-to-prioritize-and-why",
+        "text": "Life Skills: What to Prioritize and Why"
+      },
+      {
+        "id": "first-day-task-checklist-a-step-by-step-plan",
+        "text": "First-Day Task Checklist: A Step-by-Step Plan"
+      },
+      {
+        "id": "common-first-day-mistakes-and-how-to-avoid-them",
+        "text": "Common First-Day Mistakes and How to Avoid Them"
+      },
+      {
+        "id": "building-your-shop-into-a-legacy-asset",
+        "text": "Building Your Shop Into a Legacy Asset"
+      },
+      {
+        "id": "managing-time-and-energy-across-the-day",
+        "text": "Managing Time and Energy Across the Day"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:beginner-walkthrough": [
+      {
+        "id": "understanding-the-kynseed-life-cycle-and-opening-hours",
+        "text": "Understanding the Kynseed Life Cycle and Opening Hours"
+      },
+      {
+        "id": "first-generation-milestones-your-kynseed-start-guide-roadmap",
+        "text": "First Generation Milestones: Your Kynseed Start Guide Roadmap"
+      },
+      {
+        "id": "managing-your-time-and-energy-across-seasons",
+        "text": "Managing Your Time and Energy Across Seasons"
+      },
+      {
+        "id": "building-relationships-and-starting-your-family",
+        "text": "Building Relationships and Starting Your Family"
+      },
+      {
+        "id": "common-first-generation-mistakes-and-how-to-avoid-them",
+        "text": "Common First Generation Mistakes and How to Avoid Them"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:complete-guide": [
+      {
+        "id": "getting-started-your-first-season",
+        "text": "Getting Started: Your First Season"
+      },
+      {
+        "id": "farming-and-the-life-cycle",
+        "text": "Farming and the Life Cycle"
+      },
+      {
+        "id": "crafting-cooking-and-the-skill-system",
+        "text": "Crafting, Cooking, and the Skill System"
+      },
+      {
+        "id": "combat-and-dungeons",
+        "text": "Combat and Dungeons"
+      },
+      {
+        "id": "relationships-marriage-and-family",
+        "text": "Relationships, Marriage, and Family"
+      },
+      {
+        "id": "advanced-tips-and-endgame-content",
+        "text": "Advanced Tips and Endgame Content"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "conclusion",
+        "text": "Conclusion"
+      }
+    ],
+    "guides:en:game-guide": [
+      {
+        "id": "introduction-to-kynseed",
+        "text": "Introduction to Kynseed"
+      },
+      {
+        "id": "getting-started-character-creation-and-the-kynseed",
+        "text": "Getting Started: Character Creation and the Kynseed"
+      },
+      {
+        "id": "farming-and-foraging",
+        "text": "Farming and Foraging"
+      },
+      {
+        "id": "combat-and-exploration",
+        "text": "Combat and Exploration"
+      },
+      {
+        "id": "relationships-marriage-and-family-legacy",
+        "text": "Relationships, Marriage, and Family Legacy"
+      },
+      {
+        "id": "advanced-gameplay-mechanics",
+        "text": "Advanced Gameplay Mechanics"
+      },
+      {
+        "id": "economic-systems-and-wealth-building",
+        "text": "Economic Systems and Wealth Building"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:gameplay-basics": [
+      {
+        "id": "welcome-to-kynseed-a-living-legacy",
+        "text": "Welcome to Kynseed: A Living Legacy"
+      },
+      {
+        "id": "core-controls-and-interface",
+        "text": "Core Controls and Interface"
+      },
+      {
+        "id": "time-management-and-the-life-cycle",
+        "text": "Time Management and the Life Cycle"
+      },
+      {
+        "id": "essential-systems-for-new-players",
+        "text": "Essential Systems for New Players"
+      },
+      {
+        "id": "relationships-and-community-ties",
+        "text": "Relationships and Community Ties"
+      },
+      {
+        "id": "tips-for-your-first-season",
+        "text": "Tips for Your First Season"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:kynseed-introduction": [
+      {
+        "id": "what-makes-kynseed-unique",
+        "text": "What Makes Kynseed Unique"
+      },
+      {
+        "id": "the-life-cycle-mechanic-in-detail",
+        "text": "The Life Cycle Mechanic in Detail"
+      },
+      {
+        "id": "game-systems-overview",
+        "text": "Game Systems Overview"
+      },
+      {
+        "id": "pixelcount-studios-the-fable-connection",
+        "text": "PixelCount Studios: The Fable Connection"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:quest-walkthrough": [
+      {
+        "id": "understanding-the-kynseed-main-story-structure",
+        "text": "Understanding the Kynseed Main Story Structure"
+      },
+      {
+        "id": "kynseed-how-to-start-your-first-steps",
+        "text": "Kynseed How to Start: Your First Steps"
+      },
+      {
+        "id": "the-main-story-quests-in-order",
+        "text": "The Main Story Quests in Order"
+      },
+      {
+        "id": "where-to-begin-with-side-content-and-exploration",
+        "text": "Where to Begin with Side Content and Exploration"
+      },
+      {
+        "id": "building-a-generational-strategy",
+        "text": "Building a Generational Strategy"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:save-guide": [
+      {
+        "id": "understanding-kynseeds-save-system",
+        "text": "Understanding Kynseed's Save System"
+      },
+      {
+        "id": "when-to-save-best-practices",
+        "text": "When to Save: Best Practices"
+      },
+      {
+        "id": "save-slots-and-file-management",
+        "text": "Save Slots and File Management"
+      },
+      {
+        "id": "troubleshooting-common-save-issues",
+        "text": "Troubleshooting Common Save Issues"
+      },
+      {
+        "id": "tips-to-prevent-progress-loss",
+        "text": "Tips to Prevent Progress Loss"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:side-quest-guide": [
+      {
+        "id": "understanding-kynseed-side-quests",
+        "text": "Understanding Kynseed Side Quests"
+      },
+      {
+        "id": "early-game-side-quests",
+        "text": "Early Game Side Quests"
+      },
+      {
+        "id": "mid-game-side-quests",
+        "text": "Mid-Game Side Quests"
+      },
+      {
+        "id": "late-game-and-generational-quests",
+        "text": "Late-Game and Generational Quests"
+      },
+      {
+        "id": "rewards-and-progression",
+        "text": "Rewards and Progression"
+      },
+      {
+        "id": "tips-for-efficient-questing",
+        "text": "Tips for Efficient Questing"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:tips-and-tricks": [
+      {
+        "id": "understanding-the-life-cycle-planning-your-legacy",
+        "text": "Understanding the Life Cycle: Planning Your Legacy"
+      },
+      {
+        "id": "farming-mastery-beyond-the-basics",
+        "text": "Farming Mastery: Beyond the Basics"
+      },
+      {
+        "id": "combat-and-dungeon-strategies",
+        "text": "Combat and Dungeon Strategies"
+      },
+      {
+        "id": "building-wealth-the-economy-of-kynseed",
+        "text": "Building Wealth: The Economy of Kynseed"
+      },
+      {
+        "id": "relationships-and-community",
+        "text": "Relationships and Community"
+      },
+      {
+        "id": "time-management-and-daily-routines",
+        "text": "Time Management and Daily Routines"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "conclusion",
+        "text": "Conclusion"
+      }
+    ],
+    "guides:en:what-to-do-first": [
+      {
+        "id": "why-your-first-hours-matter-in-kynseed",
+        "text": "Why Your First Hours Matter in Kynseed"
+      },
+      {
+        "id": "your-first-day-the-essential-checklist",
+        "text": "Your First Day: The Essential Checklist"
+      },
+      {
+        "id": "core-systems-to-master-early",
+        "text": "Core Systems to Master Early"
+      },
+      {
+        "id": "prioritizing-your-first-week",
+        "text": "Prioritizing Your First Week"
+      },
+      {
+        "id": "common-early-game-mistakes-to-avoid",
+        "text": "Common Early Game Mistakes to Avoid"
+      },
+      {
+        "id": "conclusion-start-smart-play-long",
+        "text": "Conclusion: Start Smart, Play Long"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "combat:en:combat-guide": [
+      {
+        "id": "understanding-the-kynseed-combat-system-fundamentals",
+        "text": "Understanding the Kynseed Combat System Fundamentals"
+      },
+      {
+        "id": "mastering-kynseed-melee-combat-techniques",
+        "text": "Mastering Kynseed Melee Combat Techniques"
+      },
+      {
+        "id": "ranged-combat-and-weapon-options",
+        "text": "Ranged Combat and Weapon Options"
+      },
+      {
+        "id": "navigating-the-kynseed-skill-tree-for-combat",
+        "text": "Navigating the Kynseed Skill Tree for Combat"
+      },
+      {
+        "id": "advanced-combat-strategies-and-enemy-tactics",
+        "text": "Advanced Combat Strategies and Enemy Tactics"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "combat:en:combat-strategy": [
+      {
+        "id": "core-combat-fundamentals-for-every-kynseed-enemy-type",
+        "text": "Core Combat Fundamentals for Every Kynseed Enemy Type"
+      },
+      {
+        "id": "dungeon-boss-encounters-and-arena-tactics",
+        "text": "Dungeon Boss Encounters and Arena Tactics"
+      },
+      {
+        "id": "advanced-enemy-tactics-and-counter-strategies",
+        "text": "Advanced Enemy Tactics and Counter-Strategies"
+      },
+      {
+        "id": "building-a-boss-focused-loadout",
+        "text": "Building a Boss-Focused Loadout"
+      },
+      {
+        "id": "common-mistakes-and-how-to-avoid-them",
+        "text": "Common Mistakes and How to Avoid Them"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "combat:en:combat-styles": [
+      {
+        "id": "core-combat-styles-and-their-gear-requirements",
+        "text": "Core Combat Styles and Their Gear Requirements"
+      },
+      {
+        "id": "armor-sets-ranked-by-combat-style",
+        "text": "Armor Sets Ranked by Combat Style"
+      },
+      {
+        "id": "damage-calculation-how-gear-stats-translate-to-output",
+        "text": "Damage Calculation: How Gear Stats Translate to Output"
+      },
+      {
+        "id": "practical-gear-recommendations-by-progression-stage",
+        "text": "Practical Gear Recommendations by Progression Stage"
+      },
+      {
+        "id": "advanced-synergies-combining-skills-and-gear",
+        "text": "Advanced Synergies: Combining Skills and Gear"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "combat:en:enemy-list": [
+      {
+        "id": "understanding-the-core-stats-behind-every-kynseed-enemy-list-entry",
+        "text": "Understanding the Core Stats Behind Every Kynseed Enemy List Entry"
+      },
+      {
+        "id": "complete-kynseed-enemy-list-with-stat-breakdowns",
+        "text": "Complete Kynseed Enemy List With Stat Breakdowns"
+      },
+      {
+        "id": "how-strength-and-agility-stats-shape-your-combat-approach",
+        "text": "How Strength and Agility Stats Shape Your Combat Approach"
+      },
+      {
+        "id": "practical-combat-tactics-using-enemy-stat-knowledge",
+        "text": "Practical Combat Tactics Using Enemy Stat Knowledge"
+      },
+      {
+        "id": "advanced-enemy-encounters-and-stat-scaling",
+        "text": "Advanced Enemy Encounters and Stat Scaling"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "combat:en:health-guide": [
+      {
+        "id": "understanding-kynseeds-health-system",
+        "text": "Understanding Kynseed's Health System"
+      },
+      {
+        "id": "damage-types-and-sources",
+        "text": "Damage Types and Sources"
+      },
+      {
+        "id": "healing-methods",
+        "text": "Healing Methods"
+      },
+      {
+        "id": "surviving-tough-fights",
+        "text": "Surviving Tough Fights"
+      },
+      {
+        "id": "hp-progression-and-upgrades",
+        "text": "HP Progression and Upgrades"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "final-thoughts",
+        "text": "Final Thoughts"
+      }
+    ],
+    "combat:en:magic-combat": [
+      {
+        "id": "understanding-the-mana-system",
+        "text": "Understanding the Mana System"
+      },
+      {
+        "id": "elemental-magic-schools",
+        "text": "Elemental Magic Schools"
+      },
+      {
+        "id": "spell-combinations-and-synergies",
+        "text": "Spell Combinations and Synergies"
+      },
+      {
+        "id": "arcane-strategies-for-battle",
+        "text": "Arcane Strategies for Battle"
+      },
+      {
+        "id": "magical-gear-and-equipment",
+        "text": "Magical Gear and Equipment"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "conclusion",
+        "text": "Conclusion"
+      }
+    ],
+    "farming:en:chicken-guide": [
+      {
+        "id": "why-a-kynseed-chicken-guide-changes-your-early-game",
+        "text": "Why a Kynseed Chicken Guide Changes Your Early Game"
+      },
+      {
+        "id": "kynseed-raising-chickens-coop-setup-and-daily-routine",
+        "text": "Kynseed Raising Chickens: Coop Setup and Daily Routine"
+      },
+      {
+        "id": "kynseed-poultry-farming-egg-production-and-profit",
+        "text": "Kynseed Poultry Farming: Egg Production and Profit"
+      },
+      {
+        "id": "kynseed-chicken-care-health-seasons-and-troubleshooting",
+        "text": "Kynseed Chicken Care: Health, Seasons, and Troubleshooting"
+      },
+      {
+        "id": "advanced-kynseed-poultry-farming-strategies",
+        "text": "Advanced Kynseed Poultry Farming Strategies"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "farming:en:efficient-farming": [
+      {
+        "id": "why-farm-layout-determines-your-efficiency-ceiling",
+        "text": "Why Farm Layout Determines Your Efficiency Ceiling"
+      },
+      {
+        "id": "irrigation-systems-that-save-real-time",
+        "text": "Irrigation Systems That Save Real Time"
+      },
+      {
+        "id": "soil-preparation-and-fertilizer-routines",
+        "text": "Soil Preparation and Fertilizer Routines"
+      },
+      {
+        "id": "seed-selection-and-planting-schedules",
+        "text": "Seed Selection and Planting Schedules"
+      },
+      {
+        "id": "seasonal-strategies-for-maximum-year-round-output",
+        "text": "Seasonal Strategies for Maximum Year-Round Output"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "farming:en:farming-guide": [
+      {
+        "id": "understanding-kynseeds-farming-fundamentals",
+        "text": "Understanding Kynseed's Farming Fundamentals"
+      },
+      {
+        "id": "seasonal-crop-planning-and-rotation",
+        "text": "Seasonal Crop Planning and Rotation"
+      },
+      {
+        "id": "soil-management-and-fertilization",
+        "text": "Soil Management and Fertilization"
+      },
+      {
+        "id": "advanced-farming-techniques",
+        "text": "Advanced Farming Techniques"
+      },
+      {
+        "id": "seasonal-planning-and-crop-rotation",
+        "text": "Seasonal Planning and Crop Rotation"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "farming:en:horse-guide": [
+      {
+        "id": "choosing-your-first-horse-stats-breeds-and-purchase-timing",
+        "text": "Choosing Your First Horse: Stats, Breeds, and Purchase Timing"
+      },
+      {
+        "id": "pet-mechanics-deep-dive-dogs-cats-and-their-unique-roles",
+        "text": "Pet Mechanics Deep Dive: Dogs, Cats, and Their Unique Roles"
+      },
+      {
+        "id": "animal-breeding-and-generational-wealth",
+        "text": "Animal Breeding and Generational Wealth"
+      },
+      {
+        "id": "integrating-animals-into-your-farm-income-strategy",
+        "text": "Integrating Animals into Your Farm Income Strategy"
+      },
+      {
+        "id": "advanced-animal-strategies-for-late-game",
+        "text": "Advanced Animal Strategies for Late Game"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "farming:en:seasons-guide": [
+      {
+        "id": "understanding-the-kynseed-seasonal-cycle",
+        "text": "Understanding the Kynseed Seasonal Cycle"
+      },
+      {
+        "id": "spring-crops-building-your-foundation",
+        "text": "Spring Crops: Building Your Foundation"
+      },
+      {
+        "id": "summer-crops-maximizing-heat-potential",
+        "text": "Summer Crops: Maximizing Heat Potential"
+      },
+      {
+        "id": "autumn-crops-and-harvest-preparation",
+        "text": "Autumn Crops and Harvest Preparation"
+      },
+      {
+        "id": "winter-crops-and-indoor-farming",
+        "text": "Winter Crops and Indoor Farming"
+      },
+      {
+        "id": "animal-care-across-seasons",
+        "text": "Animal Care Across Seasons"
+      },
+      {
+        "id": "seasonal-strategy-and-long-term-planning",
+        "text": "Seasonal Strategy and Long-Term Planning"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "farming:en:seed-list": [
+      {
+        "id": "kynseed-seed-list-every-crop-seed-and-where-to-find-it",
+        "text": "Kynseed seed list: every crop seed and where to find it"
+      },
+      {
+        "id": "kynseed-fruit-trees-planting-grafting-and-orchard-layout",
+        "text": "Kynseed fruit trees: planting, grafting, and orchard layout"
+      },
+      {
+        "id": "kynseed-bee-keeping-setting-up-hives-and-harvesting-honey",
+        "text": "Kynseed bee keeping: setting up hives and harvesting honey"
+      },
+      {
+        "id": "kynseed-goat-guide-daily-care-feeding-and-product-value",
+        "text": "Kynseed goat guide: daily care, feeding, and product value"
+      },
+      {
+        "id": "advanced-orchard-strategies-maximizing-fruit-tree-output",
+        "text": "Advanced orchard strategies: maximizing fruit tree output"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "business:en:business-guide": [
+      {
+        "id": "choosing-your-first-kynseed-business",
+        "text": "Choosing Your First Kynseed Business"
+      },
+      {
+        "id": "tavern-operations-and-customer-satisfaction",
+        "text": "Tavern Operations and Customer Satisfaction"
+      },
+      {
+        "id": "apothecary-crafting-and-inventory-management",
+        "text": "Apothecary Crafting and Inventory Management"
+      },
+      {
+        "id": "blacksmith-forging-and-resource-conversion",
+        "text": "Blacksmith Forging and Resource Conversion"
+      },
+      {
+        "id": "daily-routines-and-profit-optimization",
+        "text": "Daily Routines and Profit Optimization"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "business:en:business-management": [
+      {
+        "id": "choosing-the-right-shop-for-your-playstyle",
+        "text": "Choosing the Right Shop for Your Playstyle"
+      },
+      {
+        "id": "income-comparison-which-shop-earns-gold-fastest",
+        "text": "Income Comparison: Which Shop Earns Gold Fastest"
+      },
+      {
+        "id": "daily-routine-optimization-for-maximum-revenue",
+        "text": "Daily Routine Optimization for Maximum Revenue"
+      },
+      {
+        "id": "scaling-up-upgrades-decorations-and-expansion",
+        "text": "Scaling Up: Upgrades, Decorations, and Expansion"
+      },
+      {
+        "id": "advanced-strategies-for-long-term-wealth",
+        "text": "Advanced Strategies for Long-Term Wealth"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "business:en:business-upgrades": [
+      {
+        "id": "how-kynseed-business-upgrades-work",
+        "text": "How Kynseed Business Upgrades Work"
+      },
+      {
+        "id": "kynseed-decoration-guide-what-actually-matters",
+        "text": "Kynseed Decoration Guide: What Actually Matters"
+      },
+      {
+        "id": "best-layout-strategies-for-maximum-profit",
+        "text": "Best Layout Strategies for Maximum Profit"
+      },
+      {
+        "id": "advanced-efficiency-techniques",
+        "text": "Advanced Efficiency Techniques"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "business:en:food-recipes": [
+      {
+        "id": "understanding-the-kynseed-recipe-list-and-crafting-basics",
+        "text": "Understanding the Kynseed Recipe List and Crafting Basics"
+      },
+      {
+        "id": "top-kynseed-drink-recipes-for-your-tavern",
+        "text": "Top Kynseed Drink Recipes for Your Tavern"
+      },
+      {
+        "id": "essential-kynseed-food-recipes-for-customer-satisfaction",
+        "text": "Essential Kynseed Food Recipes for Customer Satisfaction"
+      },
+      {
+        "id": "designing-the-optimal-kynseed-tavern-layout",
+        "text": "Designing the Optimal Kynseed Tavern Layout"
+      },
+      {
+        "id": "kynseed-shop-layout-principles-for-other-businesses",
+        "text": "Kynseed Shop Layout Principles for Other Businesses"
+      },
+      {
+        "id": "advanced-business-tips-for-maximizing-daily-profit",
+        "text": "Advanced Business Tips for Maximizing Daily Profit"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "business:en:making-money": [
+      {
+        "id": "understanding-the-kynseed-pricing-guide-fundamentals",
+        "text": "Understanding the Kynseed Pricing Guide Fundamentals"
+      },
+      {
+        "id": "building-a-kynseed-customers-guide-for-repeat-business",
+        "text": "Building a Kynseed Customers Guide for Repeat Business"
+      },
+      {
+        "id": "managing-your-kynseed-employee-guide-essentials",
+        "text": "Managing Your Kynseed Employee Guide Essentials"
+      },
+      {
+        "id": "crafting-your-kynseed-recipes-guide-for-profit",
+        "text": "Crafting Your Kynseed Recipes Guide for Profit"
+      },
+      {
+        "id": "advanced-strategies-for-scaling-your-business",
+        "text": "Advanced Strategies for Scaling Your Business"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "business:en:profit-maximization": [
+      {
+        "id": "understanding-the-kynseed-market-cycle-for-profit-maximization",
+        "text": "Understanding the Kynseed Market Cycle for Profit Maximization"
+      },
+      {
+        "id": "mastering-the-kynseed-trade-guide-buy-low-sell-high",
+        "text": "Mastering the Kynseed Trade Guide: Buy Low, Sell High"
+      },
+      {
+        "id": "kynseed-shop-upgrades-where-to-invest-your-coins",
+        "text": "Kynseed Shop Upgrades: Where to Invest Your Coins"
+      },
+      {
+        "id": "advanced-selling-strategies-for-kynseed-profit-maximization",
+        "text": "Advanced Selling Strategies for Kynseed Profit Maximization"
+      },
+      {
+        "id": "common-profit-mistakes-and-how-to-avoid-them",
+        "text": "Common Profit Mistakes and How to Avoid Them"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "relationships:en:dialogue-guide": [
+      {
+        "id": "how-kynseed-conversation-mechanics-actually-work",
+        "text": "How Kynseed Conversation Mechanics Actually Work"
+      },
+      {
+        "id": "personality-types-and-their-preferred-dialogue-branches",
+        "text": "Personality Types and Their Preferred Dialogue Branches"
+      },
+      {
+        "id": "the-best-date-dialogue-choices-for-romance",
+        "text": "The Best Date Dialogue Choices for Romance"
+      },
+      {
+        "id": "advanced-conversation-strategies-for-long-term-relationships",
+        "text": "Advanced Conversation Strategies for Long-Term Relationships"
+      },
+      {
+        "id": "common-dialogue-mistakes-and-how-to-avoid-them",
+        "text": "Common Dialogue Mistakes and How to Avoid Them"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "relationships:en:family-guide": [
+      {
+        "id": "how-the-kynseed-generation-system-works",
+        "text": "How the Kynseed Generation System Works"
+      },
+      {
+        "id": "what-carries-over-between-generations",
+        "text": "What Carries Over Between Generations"
+      },
+      {
+        "id": "planning-your-heirs-personality-and-traits",
+        "text": "Planning Your Heir's Personality and Traits"
+      },
+      {
+        "id": "preparing-your-child-for-succession",
+        "text": "Preparing Your Child for Succession"
+      },
+      {
+        "id": "common-succession-mistakes-to-avoid",
+        "text": "Common Succession Mistakes to Avoid"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "relationships:en:friendship-guide": [
+      {
+        "id": "how-the-kynseed-affection-system-really-works",
+        "text": "How the Kynseed Affection System Really Works"
+      },
+      {
+        "id": "the-complete-kynseed-gift-list-by-villager-preference",
+        "text": "The Complete Kynseed Gift List by Villager Preference"
+      },
+      {
+        "id": "building-an-efficient-kynseed-daily-routine-for-friendship",
+        "text": "Building an Efficient Kynseed Daily Routine for Friendship"
+      },
+      {
+        "id": "advanced-affection-strategies-and-common-pitfalls",
+        "text": "Advanced Affection Strategies and Common Pitfalls"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "relationships:en:npc-schedules": [
+      {
+        "id": "why-kynseed-npc-schedules-matter-for-progression",
+        "text": "Why Kynseed NPC schedules matter for progression"
+      },
+      {
+        "id": "morning-routines-where-to-find-villagers-before-noon",
+        "text": "Morning routines: where to find villagers before noon"
+      },
+      {
+        "id": "afternoon-and-evening-schedules-the-social-shift",
+        "text": "Afternoon and evening schedules: the social shift"
+      },
+      {
+        "id": "day-of-week-variations-and-special-events",
+        "text": "Day-of-week variations and special events"
+      },
+      {
+        "id": "using-schedule-knowledge-for-quests-and-relationships",
+        "text": "Using schedule knowledge for quests and relationships"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "relationships:en:relationship-guide": [
+      {
+        "id": "understanding-the-kynseed-npc-list-and-social-dynamics",
+        "text": "Understanding the Kynseed NPC List and Social Dynamics"
+      },
+      {
+        "id": "how-to-marry-in-kynseed-the-courtship-process",
+        "text": "How to Marry in Kynseed: The Courtship Process"
+      },
+      {
+        "id": "choosing-the-right-spouse-comparing-marriage-candidates",
+        "text": "Choosing the Right Spouse: Comparing Marriage Candidates"
+      },
+      {
+        "id": "raising-children-and-building-your-family-legacy",
+        "text": "Raising Children and Building Your Family Legacy"
+      },
+      {
+        "id": "advanced-relationship-strategies-and-long-term-planning",
+        "text": "Advanced Relationship Strategies and Long-Term Planning"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "relationships:en:special-npcs": [
+      {
+        "id": "introduction-to-special-npcs",
+        "text": "Introduction to Special NPCs"
+      },
+      {
+        "id": "key-merchants-and-traders",
+        "text": "Key Merchants and Traders"
+      },
+      {
+        "id": "quest-giving-npcs",
+        "text": "Quest-Giving NPCs"
+      },
+      {
+        "id": "family-related-npcs",
+        "text": "Family-Related NPCs"
+      },
+      {
+        "id": "friendship-rewards-overview",
+        "text": "Friendship Rewards Overview"
+      },
+      {
+        "id": "special-npc-locations-and-schedules",
+        "text": "Special NPC Locations and Schedules"
+      },
+      {
+        "id": "gift-preferences-by-npc-type",
+        "text": "Gift Preferences by NPC Type"
+      },
+      {
+        "id": "tips-for-building-npc-relationships",
+        "text": "Tips for Building NPC Relationships"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "crafting:en:crafting-guide": [
+      {
+        "id": "getting-started-with-crafting-in-kynseed",
+        "text": "Getting Started with Crafting in Kynseed"
+      },
+      {
+        "id": "essential-crafting-resources",
+        "text": "Essential Crafting Resources"
+      },
+      {
+        "id": "understanding-recipe-categories",
+        "text": "Understanding Recipe Categories"
+      },
+      {
+        "id": "crafting-quality-and-resource-efficiency",
+        "text": "Crafting Quality and Resource Efficiency"
+      },
+      {
+        "id": "advanced-crafting-techniques",
+        "text": "Advanced Crafting Techniques"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "crafting:en:gem-guide": [
+      {
+        "id": "introduction-to-gems-in-kynseed",
+        "text": "Introduction to Gems in Kynseed"
+      },
+      {
+        "id": "common-gem-types-and-their-properties",
+        "text": "Common Gem Types and Their Properties"
+      },
+      {
+        "id": "rare-and-legendary-gems",
+        "text": "Rare and Legendary Gems"
+      },
+      {
+        "id": "gem-acquisition-methods",
+        "text": "Gem Acquisition Methods"
+      },
+      {
+        "id": "jewelry-crafting-with-gems",
+        "text": "Jewelry Crafting with Gems"
+      },
+      {
+        "id": "strategic-gem-selection",
+        "text": "Strategic Gem Selection"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "crafting:en:ingredient-guide": [
+      {
+        "id": "gathering-routes-for-everyday-materials",
+        "text": "Gathering Routes for Everyday Materials"
+      },
+      {
+        "id": "mining-guide-ore-nodes-and-gem-deposits",
+        "text": "Mining Guide: Ore Nodes and Gem Deposits"
+      },
+      {
+        "id": "foraging-guide-seasonal-spawns-and-rare-plants",
+        "text": "Foraging Guide: Seasonal Spawns and Rare Plants"
+      },
+      {
+        "id": "hunting-guide-animal-drops-and-tracking",
+        "text": "Hunting Guide: Animal Drops and Tracking"
+      },
+      {
+        "id": "fishing-guide-hotspots-and-bait-selection",
+        "text": "Fishing Guide: Hotspots and Bait Selection"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "crafting:en:potion-making": [
+      {
+        "id": "introduction-to-alchemy-in-kynseed",
+        "text": "Introduction to Alchemy in Kynseed"
+      },
+      {
+        "id": "essential-brewing-ingredients",
+        "text": "Essential Brewing Ingredients"
+      },
+      {
+        "id": "basic-brewing-techniques",
+        "text": "Basic Brewing Techniques"
+      },
+      {
+        "id": "advanced-potion-recipes",
+        "text": "Advanced Potion Recipes"
+      },
+      {
+        "id": "tips-for-aspiring-alchemists",
+        "text": "Tips for Aspiring Alchemists"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "crafting:en:resource-guide": [
+      {
+        "id": "understanding-resources-in-kynseed",
+        "text": "Understanding Resources in Kynseed"
+      },
+      {
+        "id": "mining-and-mineral-resources",
+        "text": "Mining and Mineral Resources"
+      },
+      {
+        "id": "botanical-resources-and-foraging",
+        "text": "Botanical Resources and Foraging"
+      },
+      {
+        "id": "animal-products-and-hunting",
+        "text": "Animal Products and Hunting"
+      },
+      {
+        "id": "resource-management-strategies",
+        "text": "Resource Management Strategies"
+      },
+      {
+        "id": "efficient-gathering-techniques",
+        "text": "Efficient Gathering Techniques"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "crafting:en:workbench-guide": [
+      {
+        "id": "the-workbench--your-central-crafting-station",
+        "text": "The Workbench — Your Central Crafting Station"
+      },
+      {
+        "id": "basic-tools-and-equipment",
+        "text": "Basic Tools and Equipment"
+      },
+      {
+        "id": "recipe-categories-and-organization",
+        "text": "Recipe Categories and Organization"
+      },
+      {
+        "id": "crafting-quality-and-success",
+        "text": "Crafting Quality and Success"
+      },
+      {
+        "id": "advanced-workbench-techniques",
+        "text": "Advanced Workbench Techniques"
+      },
+      {
+        "id": "maintenance-and-upgrades",
+        "text": "Maintenance and Upgrades"
+      },
+      {
+        "id": "tips-for-workbench-mastery",
+        "text": "Tips for Workbench Mastery"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "dungeons:en:chest-locations": [
+      {
+        "id": "understanding-kynseed-chest-types",
+        "text": "Understanding Kynseed Chest Types"
+      },
+      {
+        "id": "the-mine-your-first-treasure-source",
+        "text": "The Mine: Your First Treasure Source"
+      },
+      {
+        "id": "the-fae-wilds-chest-locations",
+        "text": "The Fae Wilds Chest Locations"
+      },
+      {
+        "id": "the-swamp-dungeon-chests",
+        "text": "The Swamp Dungeon Chests"
+      },
+      {
+        "id": "the-tower-of-mirrors-chests",
+        "text": "The Tower of Mirrors Chests"
+      },
+      {
+        "id": "efficient-treasure-hunting-strategies",
+        "text": "Efficient Treasure Hunting Strategies"
+      },
+      {
+        "id": "chest-farming-by-playstyle",
+        "text": "Chest Farming by Playstyle"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "dungeons:en:dungeon-guide": [
+      {
+        "id": "preparing-for-your-first-dungeon-run",
+        "text": "Preparing for Your First Dungeon Run"
+      },
+      {
+        "id": "the-abandoned-mines-a-floor-by-floor-breakdown",
+        "text": "The Abandoned Mines: A Floor-by-Floor Breakdown"
+      },
+      {
+        "id": "combat-fundamentals-and-enemy-tactics",
+        "text": "Combat Fundamentals and Enemy Tactics"
+      },
+      {
+        "id": "treasure-loot-and-resource-gathering",
+        "text": "Treasure, Loot, and Resource Gathering"
+      },
+      {
+        "id": "tips-for-dungeon-success",
+        "text": "Tips for Dungeon Success"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "dungeons:en:gear-check": [
+      {
+        "id": "why-gear-matters-in-kynseed-dungeons",
+        "text": "Why Gear Matters in Kynseed Dungeons"
+      },
+      {
+        "id": "core-weapons-and-armor-for-dungeon-runs",
+        "text": "Core Weapons and Armor for Dungeon Runs"
+      },
+      {
+        "id": "potions-food-and-consumables",
+        "text": "Potions, Food, and Consumables"
+      },
+      {
+        "id": "tools-and-utility-items",
+        "text": "Tools and Utility Items"
+      },
+      {
+        "id": "dungeon-by-dungeon-gear-loadout",
+        "text": "Dungeon-by-Dungeon Gear Loadout"
+      },
+      {
+        "id": "late-game-and-endgame-loadouts",
+        "text": "Late-Game and Endgame Loadouts"
+      },
+      {
+        "id": "emergency-recovery-items",
+        "text": "Emergency Recovery Items"
+      },
+      {
+        "id": "gear-durability-and-repair",
+        "text": "Gear Durability and Repair"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "dungeons:en:regions-guide": [
+      {
+        "id": "kynseed-dungeon-regions-at-a-glance",
+        "text": "Kynseed Dungeon Regions at a Glance"
+      },
+      {
+        "id": "the-mine-your-first-descent",
+        "text": "The Mine: Your First Descent"
+      },
+      {
+        "id": "the-deep-woods-caves-natures-gauntlet",
+        "text": "The Deep Woods Caves: Nature's Gauntlet"
+      },
+      {
+        "id": "the-swamp-murky-depths",
+        "text": "The Swamp: Murky Depths"
+      },
+      {
+        "id": "the-tower-of-mirrors-puzzle-and-combat-fusion",
+        "text": "The Tower of Mirrors: Puzzle and Combat Fusion"
+      },
+      {
+        "id": "the-fae-wilds-mystical-danger",
+        "text": "The Fae Wilds: Mystical Danger"
+      },
+      {
+        "id": "the-underworld-endgame-territory",
+        "text": "The Underworld: Endgame Territory"
+      },
+      {
+        "id": "region-comparison-table",
+        "text": "Region Comparison Table"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "dungeons:en:ruins-guide": [
+      {
+        "id": "understanding-kynseeds-ruins",
+        "text": "Understanding Kynseed's Ruins"
+      },
+      {
+        "id": "preparing-for-your-first-expedition",
+        "text": "Preparing for Your First Expedition"
+      },
+      {
+        "id": "navigating-ruins-safely",
+        "text": "Navigating Ruins Safely"
+      },
+      {
+        "id": "loot-and-rewards",
+        "text": "Loot and Rewards"
+      },
+      {
+        "id": "ruin-secrets-and-easter-eggs",
+        "text": "Ruin Secrets and Easter Eggs"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "final-thoughts",
+        "text": "Final Thoughts"
+      }
+    ],
+    "dungeons:en:safe-zones": [
+      {
+        "id": "understanding-safe-zones-in-kynseed",
+        "text": "Understanding Safe Zones in Kynseed"
+      },
+      {
+        "id": "major-safe-zones-in-the-abandoned-mines",
+        "text": "Major Safe Zones in the Abandoned Mines"
+      },
+      {
+        "id": "safe-zones-in-the-fae-woods",
+        "text": "Safe Zones in the Fae Woods"
+      },
+      {
+        "id": "safe-zone-mechanics-and-rest-system",
+        "text": "Safe Zone Mechanics and Rest System"
+      },
+      {
+        "id": "advanced-safe-zone-strategies",
+        "text": "Advanced Safe Zone Strategies"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "lore:en:creatures-guide": [
+      {
+        "id": "introduction-to-kynseeds-creatures",
+        "text": "Introduction to Kynseed's Creatures"
+      },
+      {
+        "id": "common-creatures",
+        "text": "Common Creatures"
+      },
+      {
+        "id": "boss-creatures",
+        "text": "Boss Creatures"
+      },
+      {
+        "id": "tamed-creatures-and-companions",
+        "text": "Tamed Creatures and Companions"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "lore:en:folklore-guide": [
+      {
+        "id": "the-dark-fairy-tale-roots-of-kynseeds-storyline",
+        "text": "The Dark Fairy Tale Roots of Kynseed's Storyline"
+      },
+      {
+        "id": "the-history-of-the-vale-from-founding-to-fall",
+        "text": "The History of the Vale: From Founding to Fall"
+      },
+      {
+        "id": "world-events-and-seasonal-festivals-explained",
+        "text": "World Events and Seasonal Festivals Explained"
+      },
+      {
+        "id": "the-fae-bargains-and-their-consequences",
+        "text": "The Fae Bargains and Their Consequences"
+      },
+      {
+        "id": "how-folklore-shapes-gameplay-and-legacy",
+        "text": "How Folklore Shapes Gameplay and Legacy"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "lore:en:game-world": [
+      {
+        "id": "the-lay-of-the-land-exploring-the-kynseed-game-world",
+        "text": "The Lay of the Land: Exploring the Kynseed Game World"
+      },
+      {
+        "id": "the-history-beneath-your-feet-kynseed-history-guide",
+        "text": "The History Beneath Your Feet: Kynseed History Guide"
+      },
+      {
+        "id": "fairy-tales-and-fae-bargains-the-magic-that-rules-the-world",
+        "text": "Fairy Tales and Fae Bargains: The Magic That Rules the World"
+      },
+      {
+        "id": "village-life-and-community-the-heart-of-the-kynseed-setting",
+        "text": "Village Life and Community: The Heart of the Kynseed Setting"
+      },
+      {
+        "id": "how-world-knowledge-improves-your-playthrough",
+        "text": "How World Knowledge Improves Your Playthrough"
+      },
+      {
+        "id": "the-living-legacy-why-the-kynseed-universe-guide-matters",
+        "text": "The Living Legacy: Why the Kynseed Universe Guide Matters"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "lore:en:lore-guide": [
+      {
+        "id": "the-lore-and-story-of-kynseed--a-comprehensive-guide",
+        "text": "The Lore and Story of Kynseed – A Comprehensive Guide"
+      },
+      {
+        "id": "the-world-of-kynseed-and-its-setting",
+        "text": "The World of Kynseed and Its Setting"
+      },
+      {
+        "id": "the-main-storyline-and-quests",
+        "text": "The Main Storyline and Quests"
+      },
+      {
+        "id": "factions-and-characters",
+        "text": "Factions and Characters"
+      },
+      {
+        "id": "ancient-history-and-mythology",
+        "text": "Ancient History and Mythology"
+      },
+      {
+        "id": "magic-and-mystical-elements",
+        "text": "Magic and Mystical Elements"
+      },
+      {
+        "id": "key-locations-and-their-significance",
+        "text": "Key Locations and Their Significance"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "lore:en:mystical-guide": [
+      {
+        "id": "the-foundation-of-kynseeds-magic-system",
+        "text": "The Foundation of Kynseed's Magic System"
+      },
+      {
+        "id": "the-pantheon-gods-and-their-domains",
+        "text": "The Pantheon: Gods and Their Domains"
+      },
+      {
+        "id": "the-fae-courts-contracts-and-consequences",
+        "text": "The Fae Courts: Contracts and Consequences"
+      },
+      {
+        "id": "spirits-of-the-land-ghosts-guardians-and-wandering-souls",
+        "text": "Spirits of the Land: Ghosts, Guardians, and Wandering Souls"
+      },
+      {
+        "id": "practical-mystical-strategies-for-your-legacy",
+        "text": "Practical Mystical Strategies for Your Legacy"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "lore:en:thornborough": [
+      {
+        "id": "thornboroughs-founding-legends-and-mythological-roots",
+        "text": "Thornborough's Founding Legends and Mythological Roots"
+      },
+      {
+        "id": "the-kynseed-timeline-from-founding-to-the-present-day",
+        "text": "The Kynseed Timeline: From Founding to the Present Day"
+      },
+      {
+        "id": "festivals-of-thornborough-seasonal-celebrations-and-their-origins",
+        "text": "Festivals of Thornborough: Seasonal Celebrations and Their Origins"
+      },
+      {
+        "id": "thornboroughs-notable-landmarks-and-their-hidden-stories",
+        "text": "Thornborough's Notable Landmarks and Their Hidden Stories"
+      },
+      {
+        "id": "how-thornboroughs-lore-shapes-gameplay-decisions",
+        "text": "How Thornborough's Lore Shapes Gameplay Decisions"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "updates:en:added-content": [
+      {
+        "id": "the-journey-from-early-access-to-full-release",
+        "text": "The Journey from Early Access to Full Release"
+      },
+      {
+        "id": "major-content-expansions",
+        "text": "Major Content Expansions"
+      },
+      {
+        "id": "gameplay-system-overhauls",
+        "text": "Gameplay System Overhauls"
+      },
+      {
+        "id": "quality-of-life-enhancements",
+        "text": "Quality of Life Enhancements"
+      },
+      {
+        "id": "seasonal-events-and-limited-time-content",
+        "text": "Seasonal Events and Limited-Time Content"
+      },
+      {
+        "id": "community-driven-updates",
+        "text": "Community-Driven Updates"
+      },
+      {
+        "id": "whats-next-for-kynseed",
+        "text": "What's Next for Kynseed"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "updates:en:dev-updates": [
+      {
+        "id": "the-evolution-of-kynseeds-development",
+        "text": "The Evolution of Kynseed's Development"
+      },
+      {
+        "id": "major-update-milestones",
+        "text": "Major Update Milestones"
+      },
+      {
+        "id": "how-pixelcount-studios-gathers-feedback",
+        "text": "How PixelCount Studios Gathers Feedback"
+      },
+      {
+        "id": "whats-next-on-the-roadmap",
+        "text": "What's Next on the Roadmap"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "updates:en:game-version": [
+      {
+        "id": "kynseed-game-version-history-and-full-release-timeline",
+        "text": "Kynseed game version history and full release timeline"
+      },
+      {
+        "id": "how-to-check-your-kynseed-current-version",
+        "text": "How to check your Kynseed current version"
+      },
+      {
+        "id": "what-changed-in-the-kynseed-full-release",
+        "text": "What changed in the Kynseed full release"
+      },
+      {
+        "id": "kynseed-latest-version-and-recent-update-highlights",
+        "text": "Kynseed latest version and recent update highlights"
+      },
+      {
+        "id": "how-the-kynseed-changelog-helps-you-plan-your-playthrough",
+        "text": "How the Kynseed changelog helps you plan your playthrough"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "updates:en:patch-notes": [
+      {
+        "id": "kynseed-patch-notes-overview-what-the-2024-updates-delivered",
+        "text": "Kynseed patch notes overview: what the 2024 updates delivered"
+      },
+      {
+        "id": "major-feature-additions-in-the-latest-kynseed-update",
+        "text": "Major feature additions in the latest Kynseed update"
+      },
+      {
+        "id": "kynseed-new-content-seasonal-events-and-world-expansion",
+        "text": "Kynseed new content: seasonal events and world expansion"
+      },
+      {
+        "id": "balance-changes-and-gameplay-adjustments-in-recent-patches",
+        "text": "Balance changes and gameplay adjustments in recent patches"
+      },
+      {
+        "id": "how-to-stay-updated-with-future-kynseed-release-notes",
+        "text": "How to stay updated with future Kynseed release notes"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "updates:en:quality-of-life": [
+      {
+        "id": "the-evolution-of-kynseeds-user-interface",
+        "text": "The Evolution of Kynseed's User Interface"
+      },
+      {
+        "id": "farming-and-crafting-refinements",
+        "text": "Farming and Crafting Refinements"
+      },
+      {
+        "id": "combat-and-dungeon-quality-of-life",
+        "text": "Combat and Dungeon Quality of Life"
+      },
+      {
+        "id": "life-cycle-and-relationship-streamlining",
+        "text": "Life Cycle and Relationship Streamlining"
+      },
+      {
+        "id": "community-driven-improvements",
+        "text": "Community-Driven Improvements"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "conclusion",
+        "text": "Conclusion"
+      }
+    ],
+    "updates:en:roadmap": [
+      {
+        "id": "how-kynseeds-roadmap-has-evolved",
+        "text": "How Kynseed's Roadmap Has Evolved"
+      },
+      {
+        "id": "the-core-pillars-of-future-development",
+        "text": "The Core Pillars of Future Development"
+      },
+      {
+        "id": "community-feedback-and-the-roadmap",
+        "text": "Community Feedback and the Roadmap"
+      },
+      {
+        "id": "upcoming-features-at-a-glance",
+        "text": "Upcoming Features at a Glance"
+      },
+      {
+        "id": "what-to-expect-in-the-next-major-update",
+        "text": "What to Expect in the Next Major Update"
+      },
+      {
+        "id": "timeline-and-milestones",
+        "text": "Timeline and Milestones"
+      },
+      {
+        "id": "how-to-stay-informed",
+        "text": "How to Stay Informed"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:de:beginner-guide": [
+      {
+        "id": "warum-dein-erster-tag-den-ton-für-generationen-angibt",
+        "text": "Warum dein erster Tag den Ton für Generationen angibt"
+      },
+      {
+        "id": "lebensfertigkeiten-was-priorisieren-und-warum",
+        "text": "Lebensfertigkeiten: Was priorisieren und warum"
+      },
+      {
+        "id": "checkliste-für-den-ersten-tag-ein-schritt-für-schritt-plan",
+        "text": "Checkliste für den ersten Tag: Ein Schritt-für-Schritt-Plan"
+      },
+      {
+        "id": "häufige-fehler-am-ersten-tag-und-wie-man-sie-vermeidet",
+        "text": "Häufige Fehler am ersten Tag und wie man sie vermeidet"
+      },
+      {
+        "id": "deinen-laden-zu-einem-vermächtniswert-ausbauen",
+        "text": "Deinen Laden zu einem Vermächtniswert ausbauen"
+      },
+      {
+        "id": "zeit-und-energie-über-den-tag-verwalten",
+        "text": "Zeit und Energie über den Tag verwalten"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "guides:de:beginner-walkthrough": [
+      {
+        "id": "den-kynseed-lebenszyklus-und-die-öffnungszeiten-verstehen",
+        "text": "Den Kynseed-Lebenszyklus und die Öffnungszeiten verstehen"
+      },
+      {
+        "id": "meilensteine-der-ersten-generation-ihre-kynseed-startanleitungs-roadmap",
+        "text": "Meilensteine der ersten Generation: Ihre Kynseed-Startanleitungs-Roadmap"
+      },
+      {
+        "id": "zeit-und-energie-über-die-jahreszeiten-verwalten",
+        "text": "Zeit und Energie über die Jahreszeiten verwalten"
+      },
+      {
+        "id": "beziehungen-aufbauen-und-ihre-familie-gründen",
+        "text": "Beziehungen aufbauen und Ihre Familie gründen"
+      },
+      {
+        "id": "häufige-fehler-der-ersten-generation-und-wie-man-sie-vermeidet",
+        "text": "Häufige Fehler der ersten Generation und wie man sie vermeidet"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "guides:de:complete-guide": [
+      {
+        "id": "erste-schritte-deine-erste-jahreszeit",
+        "text": "Erste Schritte: Deine erste Jahreszeit"
+      },
+      {
+        "id": "landwirtschaft-und-der-lebenszyklus",
+        "text": "Landwirtschaft und der Lebenszyklus"
+      },
+      {
+        "id": "handwerk-kochen-und-das-fähigkeitensystem",
+        "text": "Handwerk, Kochen und das Fähigkeitensystem"
+      },
+      {
+        "id": "kampf-und-dungeons",
+        "text": "Kampf und Dungeons"
+      },
+      {
+        "id": "beziehungen-ehe-und-familie",
+        "text": "Beziehungen, Ehe und Familie"
+      },
+      {
+        "id": "fortgeschrittene-tipps-und-endgame-inhalte",
+        "text": "Fortgeschrittene Tipps und Endgame-Inhalte"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      },
+      {
+        "id": "fazit",
+        "text": "Fazit"
+      }
+    ],
+    "guides:de:game-guide": [
+      {
+        "id": "einführung-in-kynseed",
+        "text": "Einführung in Kynseed"
+      },
+      {
+        "id": "erste-schritte-charaktererstellung-und-der-kynseed",
+        "text": "Erste Schritte: Charaktererstellung und der Kynseed"
+      },
+      {
+        "id": "landwirtschaft-und-sammeln",
+        "text": "Landwirtschaft und Sammeln"
+      },
+      {
+        "id": "kampf-und-erkundung",
+        "text": "Kampf und Erkundung"
+      },
+      {
+        "id": "beziehungen-ehe-und-familienerbe",
+        "text": "Beziehungen, Ehe und Familienerbe"
+      },
+      {
+        "id": "fortgeschrittene-spielmechaniken",
+        "text": "Fortgeschrittene Spielmechaniken"
+      },
+      {
+        "id": "wirtschaftssysteme-und-vermögensaufbau",
+        "text": "Wirtschaftssysteme und Vermögensaufbau"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "guides:de:gameplay-basics": [
+      {
+        "id": "willkommen-bei-kynseed-ein-lebendiges-erbe",
+        "text": "Willkommen bei Kynseed: Ein lebendiges Erbe"
+      },
+      {
+        "id": "kernsteuerung-und-benutzeroberfläche",
+        "text": "Kernsteuerung und Benutzeroberfläche"
+      },
+      {
+        "id": "zeitmanagement-und-der-lebenszyklus",
+        "text": "Zeitmanagement und der Lebenszyklus"
+      },
+      {
+        "id": "wichtige-systeme-für-neue-spieler",
+        "text": "Wichtige Systeme für neue Spieler"
+      },
+      {
+        "id": "beziehungen-und-gemeinschaftsbande",
+        "text": "Beziehungen und Gemeinschaftsbande"
+      },
+      {
+        "id": "tipps-für-deine-erste-jahreszeit",
+        "text": "Tipps für deine erste Jahreszeit"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "guides:de:kynseed-introduction": [
+      {
+        "id": "was-kynseed-einzigartig-macht",
+        "text": "Was Kynseed einzigartig macht"
+      },
+      {
+        "id": "der-lebenszyklus-mechanismus-im-detail",
+        "text": "Der Lebenszyklus-Mechanismus im Detail"
+      },
+      {
+        "id": "überblick-über-die-spielsysteme",
+        "text": "Überblick über die Spielsysteme"
+      },
+      {
+        "id": "pixelcount-studios-die-fable-verbindung",
+        "text": "PixelCount Studios: Die Fable-Verbindung"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "guides:de:quest-walkthrough": [
+      {
+        "id": "die-struktur-der-kynseed-hauptgeschichte-verstehen",
+        "text": "Die Struktur der Kynseed-Hauptgeschichte verstehen"
+      },
+      {
+        "id": "kynseed-so-beginnst-du--deine-ersten-schritte",
+        "text": "Kynseed: So beginnst du – Deine ersten Schritte"
+      },
+      {
+        "id": "die-hauptquests-in-der-richtigen-reihenfolge",
+        "text": "Die Hauptquests in der richtigen Reihenfolge"
+      },
+      {
+        "id": "wo-du-mit-nebeninhalten-und-erkundung-beginnst",
+        "text": "Wo du mit Nebeninhalten und Erkundung beginnst"
+      },
+      {
+        "id": "eine-generationenübergreifende-strategie-aufbauen",
+        "text": "Eine generationenübergreifende Strategie aufbauen"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "guides:de:save-guide": [
+      {
+        "id": "das-speichersystem-von-kynseed-verstehen",
+        "text": "Das Speichersystem von Kynseed verstehen"
+      },
+      {
+        "id": "wann-speichern-beste-praktiken",
+        "text": "Wann speichern: Beste Praktiken"
+      },
+      {
+        "id": "speicherplätze-und-dateiverwaltung",
+        "text": "Speicherplätze und Dateiverwaltung"
+      },
+      {
+        "id": "fehlerbehebung-bei-häufigen-speicherproblemen",
+        "text": "Fehlerbehebung bei häufigen Speicherproblemen"
+      },
+      {
+        "id": "tipps-zur-vermeidung-von-fortschrittsverlust",
+        "text": "Tipps zur Vermeidung von Fortschrittsverlust"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "guides:de:side-quest-guide": [
+      {
+        "id": "kynseed-nebenquests-verstehen",
+        "text": "Kynseed-Nebenquests verstehen"
+      },
+      {
+        "id": "nebenquests-im-frühen-spiel",
+        "text": "Nebenquests im frühen Spiel"
+      },
+      {
+        "id": "nebenquests-im-mittleren-spiel",
+        "text": "Nebenquests im mittleren Spiel"
+      },
+      {
+        "id": "nebenquests-im-späten-spiel-und-generationenübergreifende-quests",
+        "text": "Nebenquests im späten Spiel und generationenübergreifende Quests"
+      },
+      {
+        "id": "belohnungen-und-fortschritt",
+        "text": "Belohnungen und Fortschritt"
+      },
+      {
+        "id": "tipps-für-effizientes-questen",
+        "text": "Tipps für effizientes Questen"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "guides:de:tips-and-tricks": [
+      {
+        "id": "den-lebenszyklus-verstehen-dein-vermächtnis-planen",
+        "text": "Den Lebenszyklus verstehen: Dein Vermächtnis planen"
+      },
+      {
+        "id": "landwirtschaft-meistern-über-die-grundlagen-hinaus",
+        "text": "Landwirtschaft meistern: Über die Grundlagen hinaus"
+      },
+      {
+        "id": "kampf--und-dungeon-strategien",
+        "text": "Kampf- und Dungeon-Strategien"
+      },
+      {
+        "id": "vermögen-aufbauen-die-wirtschaft-von-kynseed",
+        "text": "Vermögen aufbauen: Die Wirtschaft von Kynseed"
+      },
+      {
+        "id": "beziehungen-und-gemeinschaft",
+        "text": "Beziehungen und Gemeinschaft"
+      },
+      {
+        "id": "zeitmanagement-und-tägliche-routinen",
+        "text": "Zeitmanagement und tägliche Routinen"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      },
+      {
+        "id": "fazit",
+        "text": "Fazit"
+      }
+    ],
+    "guides:de:what-to-do-first": [
+      {
+        "id": "warum-deine-ersten-stunden-in-kynseed-wichtig-sind",
+        "text": "Warum deine ersten Stunden in Kynseed wichtig sind"
+      },
+      {
+        "id": "dein-erster-tag-die-wichtigste-checkliste",
+        "text": "Dein erster Tag: Die wichtigste Checkliste"
+      },
+      {
+        "id": "kernsysteme-die-du-früh-meistern-solltest",
+        "text": "Kernsysteme, die du früh meistern solltest"
+      },
+      {
+        "id": "deine-erste-woche-priorisieren",
+        "text": "Deine erste Woche priorisieren"
+      },
+      {
+        "id": "häufige-fehler-im-frühen-spiel-die-du-vermeiden-solltest",
+        "text": "Häufige Fehler im frühen Spiel, die du vermeiden solltest"
+      },
+      {
+        "id": "fazit-klug-starten-lange-spielen",
+        "text": "Fazit: Klug starten, lange spielen"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "combat:de:combat-guide": [
+      {
+        "id": "die-grundlagen-des-kynseed-kampfsystems-verstehen",
+        "text": "Die Grundlagen des Kynseed-Kampfsystems verstehen"
+      },
+      {
+        "id": "kynseed-nahkampftechniken-meistern",
+        "text": "Kynseed-Nahkampftechniken meistern"
+      },
+      {
+        "id": "fernkampf-und-waffenoptionen",
+        "text": "Fernkampf und Waffenoptionen"
+      },
+      {
+        "id": "den-kynseed-fertigkeitenbaum-für-den-kampf-navigieren",
+        "text": "Den Kynseed-Fertigkeitenbaum für den Kampf navigieren"
+      },
+      {
+        "id": "fortgeschrittene-kampfstrategien-und-gegnertaktiken",
+        "text": "Fortgeschrittene Kampfstrategien und Gegnertaktiken"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "combat:de:combat-strategy": [
+      {
+        "id": "grundlegende-kampfmechaniken-für-jeden-kynseed-feindtyp",
+        "text": "Grundlegende Kampfmechaniken für jeden Kynseed-Feindtyp"
+      },
+      {
+        "id": "verliesboss-begegnungen-und-arenataktiken",
+        "text": "Verliesboss-Begegnungen und Arenataktiken"
+      },
+      {
+        "id": "fortgeschrittene-feindtaktiken-und-gegenstrategien",
+        "text": "Fortgeschrittene Feindtaktiken und Gegenstrategien"
+      },
+      {
+        "id": "ein-boss-fokussiertes-loadout-aufbauen",
+        "text": "Ein Boss-fokussiertes Loadout aufbauen"
+      },
+      {
+        "id": "häufige-fehler-und-wie-man-sie-vermeidet",
+        "text": "Häufige Fehler und wie man sie vermeidet"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "combat:de:combat-styles": [
+      {
+        "id": "kernkampfstile-und-ihre-ausrüstungsanforderungen",
+        "text": "Kernkampfstile und ihre Ausrüstungsanforderungen"
+      },
+      {
+        "id": "rüstungssets-nach-kampfstil-eingestuft",
+        "text": "Rüstungssets nach Kampfstil eingestuft"
+      },
+      {
+        "id": "schadensberechnung-wie-ausrüstungswerte-sich-in-output-übersetzen",
+        "text": "Schadensberechnung: Wie Ausrüstungswerte sich in Output übersetzen"
+      },
+      {
+        "id": "praktische-ausrüstungsempfehlungen-nach-fortschrittsphase",
+        "text": "Praktische Ausrüstungsempfehlungen nach Fortschrittsphase"
+      },
+      {
+        "id": "fortgeschrittene-synergien-fertigkeiten-und-ausrüstung-kombinieren",
+        "text": "Fortgeschrittene Synergien: Fertigkeiten und Ausrüstung kombinieren"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "combat:de:enemy-list": [
+      {
+        "id": "die-kernstatistiken-hinter-jedem-eintrag-der-kynseed-gegnerliste-verstehen",
+        "text": "Die Kernstatistiken hinter jedem Eintrag der Kynseed-Gegnerliste verstehen"
+      },
+      {
+        "id": "vollständige-kynseed-gegnerliste-mit-statistik-aufschlüsselungen",
+        "text": "Vollständige Kynseed-Gegnerliste mit Statistik-Aufschlüsselungen"
+      },
+      {
+        "id": "wie-stärke--und-beweglichkeitswerte-deine-kampfstrategie-formen",
+        "text": "Wie Stärke- und Beweglichkeitswerte deine Kampfstrategie formen"
+      },
+      {
+        "id": "praktische-kampftaktiken-mit-gegnerstatistik-wissen",
+        "text": "Praktische Kampftaktiken mit Gegnerstatistik-Wissen"
+      },
+      {
+        "id": "fortgeschrittene-gegnerbegegnungen-und-statistik-skalierung",
+        "text": "Fortgeschrittene Gegnerbegegnungen und Statistik-Skalierung"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "combat:de:health-guide": [
+      {
+        "id": "kynseeds-gesundheitssystem-verstehen",
+        "text": "Kynseeds Gesundheitssystem verstehen"
+      },
+      {
+        "id": "schadensarten-und--quellen",
+        "text": "Schadensarten und -quellen"
+      },
+      {
+        "id": "heilmethoden",
+        "text": "Heilmethoden"
+      },
+      {
+        "id": "harte-kämpfe-überleben",
+        "text": "Harte Kämpfe überleben"
+      },
+      {
+        "id": "hp-fortschritt-und-verbesserungen",
+        "text": "HP-Fortschritt und Verbesserungen"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      },
+      {
+        "id": "abschließende-gedanken",
+        "text": "Abschließende Gedanken"
+      }
+    ],
+    "combat:de:magic-combat": [
+      {
+        "id": "das-mana-system-verstehen",
+        "text": "Das Mana-System verstehen"
+      },
+      {
+        "id": "elementarmagie-schulen",
+        "text": "Elementarmagie-Schulen"
+      },
+      {
+        "id": "zauberkombinationen-und-synergien",
+        "text": "Zauberkombinationen und Synergien"
+      },
+      {
+        "id": "arkane-strategien-für-den-kampf",
+        "text": "Arkane Strategien für den Kampf"
+      },
+      {
+        "id": "magische-ausrüstung-und-rüstung",
+        "text": "Magische Ausrüstung und Rüstung"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      },
+      {
+        "id": "fazit",
+        "text": "Fazit"
+      }
+    ],
+    "farming:de:chicken-guide": [
+      {
+        "id": "warum-ein-kynseed-hühner-guide-dein-frühes-spiel-verändert",
+        "text": "Warum ein Kynseed-Hühner-Guide dein frühes Spiel verändert"
+      },
+      {
+        "id": "kynseed-hühner-züchten-stallaufbau-und-tägliche-routine",
+        "text": "Kynseed Hühner züchten: Stallaufbau und tägliche Routine"
+      },
+      {
+        "id": "kynseed-geflügelhaltung-eierproduktion-und-profit",
+        "text": "Kynseed-Geflügelhaltung: Eierproduktion und Profit"
+      },
+      {
+        "id": "kynseed-hühnerpflege-gesundheit-jahreszeiten-und-problemlösung",
+        "text": "Kynseed-Hühnerpflege: Gesundheit, Jahreszeiten und Problemlösung"
+      },
+      {
+        "id": "fortgeschrittene-kynseed-geflügelhaltungsstrategien",
+        "text": "Fortgeschrittene Kynseed-Geflügelhaltungsstrategien"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "farming:de:efficient-farming": [
+      {
+        "id": "warum-das-farm-layout-ihre-effizienz-obergrenze-bestimmt",
+        "text": "Warum das Farm-Layout Ihre Effizienz-Obergrenze bestimmt"
+      },
+      {
+        "id": "bewässerungssysteme-die-echte-zeit-sparen",
+        "text": "Bewässerungssysteme, die echte Zeit sparen"
+      },
+      {
+        "id": "bodenbearbeitung-und-dünger-routinen",
+        "text": "Bodenbearbeitung und Dünger-Routinen"
+      },
+      {
+        "id": "samenauswahl-und-pflanzpläne",
+        "text": "Samenauswahl und Pflanzpläne"
+      },
+      {
+        "id": "saisonale-strategien-für-maximale-ganzjahres-ausbeute",
+        "text": "Saisonale Strategien für maximale Ganzjahres-Ausbeute"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "farming:de:farming-guide": [
+      {
+        "id": "die-grundlagen-der-landwirtschaft-in-kynseed-verstehen",
+        "text": "Die Grundlagen der Landwirtschaft in Kynseed verstehen"
+      },
+      {
+        "id": "saisonale-pflanzenplanung-und-fruchtfolge",
+        "text": "Saisonale Pflanzenplanung und Fruchtfolge"
+      },
+      {
+        "id": "bodenmanagement-und-düngung",
+        "text": "Bodenmanagement und Düngung"
+      },
+      {
+        "id": "fortgeschrittene-landwirtschaftstechniken",
+        "text": "Fortgeschrittene Landwirtschaftstechniken"
+      },
+      {
+        "id": "saisonale-planung-und-fruchtfolge",
+        "text": "Saisonale Planung und Fruchtfolge"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "farming:de:horse-guide": [
+      {
+        "id": "dein-erstes-pferd-wählen-werte-rassen-und-kaufzeitpunkt",
+        "text": "Dein erstes Pferd wählen: Werte, Rassen und Kaufzeitpunkt"
+      },
+      {
+        "id": "haustiermechanik-im-detail-hunde-katzen-und-ihre-einzigartigen-rollen",
+        "text": "Haustiermechanik im Detail: Hunde, Katzen und ihre einzigartigen Rollen"
+      },
+      {
+        "id": "tierzucht-und-generationenübergreifender-wohlstand",
+        "text": "Tierzucht und generationenübergreifender Wohlstand"
+      },
+      {
+        "id": "tiere-in-deine-hofeinkommensstrategie-integrieren",
+        "text": "Tiere in deine Hofeinkommensstrategie integrieren"
+      },
+      {
+        "id": "fortgeschrittene-tierstrategien-für-das-späte-spiel",
+        "text": "Fortgeschrittene Tierstrategien für das späte Spiel"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "farming:de:seasons-guide": [
+      {
+        "id": "den-saisonalen-zyklus-von-kynseed-verstehen",
+        "text": "Den saisonalen Zyklus von Kynseed verstehen"
+      },
+      {
+        "id": "frühjahrspflanzen-dein-fundament-aufbauen",
+        "text": "Frühjahrspflanzen: Dein Fundament aufbauen"
+      },
+      {
+        "id": "sommerpflanzen-das-hitzepotenzial-maximieren",
+        "text": "Sommerpflanzen: Das Hitzepotenzial maximieren"
+      },
+      {
+        "id": "herbstpflanzen-und-erntevorbereitung",
+        "text": "Herbstpflanzen und Erntevorbereitung"
+      },
+      {
+        "id": "winterpflanzen-und-landwirtschaft-im-innenbereich",
+        "text": "Winterpflanzen und Landwirtschaft im Innenbereich"
+      },
+      {
+        "id": "tierpflege-über-die-jahreszeiten-hinweg",
+        "text": "Tierpflege über die Jahreszeiten hinweg"
+      },
+      {
+        "id": "saisonale-strategie-und-langfristige-planung",
+        "text": "Saisonale Strategie und langfristige Planung"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "farming:de:seed-list": [
+      {
+        "id": "kynseed-samenliste-jeder-nutzpflanzensamen-und-wo-du-ihn-findest",
+        "text": "Kynseed-Samenliste: jeder Nutzpflanzensamen und wo du ihn findest"
+      },
+      {
+        "id": "kynseed-obstbäume-pflanzen-veredeln-und-obstgartenlayout",
+        "text": "Kynseed-Obstbäume: Pflanzen, Veredeln und Obstgartenlayout"
+      },
+      {
+        "id": "kynseed-bienenzucht-bienenstöcke-aufstellen-und-honig-ernten",
+        "text": "Kynseed-Bienenzucht: Bienenstöcke aufstellen und Honig ernten"
+      },
+      {
+        "id": "kynseed-ziegen-leitfaden-tägliche-pflege-fütterung-und-produktwert",
+        "text": "Kynseed-Ziegen-Leitfaden: tägliche Pflege, Fütterung und Produktwert"
+      },
+      {
+        "id": "fortgeschrittene-obstgartenstrategien-obstbaumertrag-maximieren",
+        "text": "Fortgeschrittene Obstgartenstrategien: Obstbaumertrag maximieren"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "business:de:business-guide": [
+      {
+        "id": "auswahl-deines-ersten-kynseed-geschäfts",
+        "text": "Auswahl deines ersten Kynseed-Geschäfts"
+      },
+      {
+        "id": "tavernenbetrieb-und-kundenzufriedenheit",
+        "text": "Tavernenbetrieb und Kundenzufriedenheit"
+      },
+      {
+        "id": "apotheken-handwerk-und-inventarverwaltung",
+        "text": "Apotheken-Handwerk und Inventarverwaltung"
+      },
+      {
+        "id": "schmiedeschmieden-und-ressourcenumwandlung",
+        "text": "Schmiedeschmieden und Ressourcenumwandlung"
+      },
+      {
+        "id": "tägliche-routinen-und-gewinnoptimierung",
+        "text": "Tägliche Routinen und Gewinnoptimierung"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "business:de:business-management": [
+      {
+        "id": "den-richtigen-laden-für-deinen-spielstil-wählen",
+        "text": "Den richtigen Laden für deinen Spielstil wählen"
+      },
+      {
+        "id": "einkommensvergleich-welcher-laden-verdient-am-schnellsten-gold",
+        "text": "Einkommensvergleich: Welcher Laden verdient am schnellsten Gold"
+      },
+      {
+        "id": "tägliche-routinenoptimierung-für-maximalen-umsatz",
+        "text": "Tägliche Routinenoptimierung für maximalen Umsatz"
+      },
+      {
+        "id": "skalierung-upgrades-dekorationen-und-expansion",
+        "text": "Skalierung: Upgrades, Dekorationen und Expansion"
+      },
+      {
+        "id": "fortgeschrittene-strategien-für-langfristigen-wohlstand",
+        "text": "Fortgeschrittene Strategien für langfristigen Wohlstand"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "business:de:business-upgrades": [
+      {
+        "id": "so-funktionieren-kynseed-geschäftsverbesserungen",
+        "text": "So funktionieren Kynseed-Geschäftsverbesserungen"
+      },
+      {
+        "id": "kynseed-dekorationsanleitung-worauf-es-wirklich-ankommt",
+        "text": "Kynseed-Dekorationsanleitung: Worauf es wirklich ankommt"
+      },
+      {
+        "id": "die-besten-layout-strategien-für-maximalen-gewinn",
+        "text": "Die besten Layout-Strategien für maximalen Gewinn"
+      },
+      {
+        "id": "fortgeschrittene-effizienztechniken",
+        "text": "Fortgeschrittene Effizienztechniken"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "business:de:food-recipes": [
+      {
+        "id": "die-kynseed-rezeptliste-und-die-grundlagen-des-handwerks-verstehen",
+        "text": "Die Kynseed-Rezeptliste und die Grundlagen des Handwerks verstehen"
+      },
+      {
+        "id": "die-besten-kynseed-getränkerezepte-für-deine-taverne",
+        "text": "Die besten Kynseed-Getränkerezepte für deine Taverne"
+      },
+      {
+        "id": "essenzielle-kynseed-rezepte-für-speisen-zur-kundenzufriedenheit",
+        "text": "Essenzielle Kynseed-Rezepte für Speisen zur Kundenzufriedenheit"
+      },
+      {
+        "id": "das-optimale-kynseed-tavernenlayout-gestalten",
+        "text": "Das optimale Kynseed-Tavernenlayout gestalten"
+      },
+      {
+        "id": "kynseed-ladenlayout-prinzipien-für-andere-geschäfte",
+        "text": "Kynseed-Ladenlayout-Prinzipien für andere Geschäfte"
+      },
+      {
+        "id": "fortgeschrittene-geschäftstipps-zur-maximierung-des-täglichen-gewinns",
+        "text": "Fortgeschrittene Geschäftstipps zur Maximierung des täglichen Gewinns"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "business:de:making-money": [
+      {
+        "id": "die-grundlagen-des-kynseed-preis-leitfadens-verstehen",
+        "text": "Die Grundlagen des Kynseed-Preis-Leitfadens verstehen"
+      },
+      {
+        "id": "einen-kynseed-kunden-leitfaden-für-stammkunden-aufbauen",
+        "text": "Einen Kynseed-Kunden-Leitfaden für Stammkunden aufbauen"
+      },
+      {
+        "id": "die-grundlagen-des-kynseed-mitarbeiter-leitfadens-verwalten",
+        "text": "Die Grundlagen des Kynseed-Mitarbeiter-Leitfadens verwalten"
+      },
+      {
+        "id": "deinen-kynseed-rezepte-leitfaden-für-profit-erstellen",
+        "text": "Deinen Kynseed-Rezepte-Leitfaden für Profit erstellen"
+      },
+      {
+        "id": "fortgeschrittene-strategien-zur-skalierung-deines-geschäfts",
+        "text": "Fortgeschrittene Strategien zur Skalierung deines Geschäfts"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "business:de:profit-maximization": [
+      {
+        "id": "den-kynseed-marktzyklus-für-gewinnmaximierung-verstehen",
+        "text": "Den Kynseed-Marktzyklus für Gewinnmaximierung verstehen"
+      },
+      {
+        "id": "den-kynseed-handelsführer-meistern-günstig-kaufen-teuer-verkaufen",
+        "text": "Den Kynseed-Handelsführer meistern: Günstig kaufen, teuer verkaufen"
+      },
+      {
+        "id": "kynseed-laden-upgrades-wo-du-deine-münzen-investieren-solltest",
+        "text": "Kynseed-Laden-Upgrades: Wo du deine Münzen investieren solltest"
+      },
+      {
+        "id": "fortgeschrittene-verkaufsstrategien-für-die-kynseed-gewinnmaximierung",
+        "text": "Fortgeschrittene Verkaufsstrategien für die Kynseed-Gewinnmaximierung"
+      },
+      {
+        "id": "häufige-gewinnfehler-und-wie-du-sie-vermeidest",
+        "text": "Häufige Gewinnfehler und wie du sie vermeidest"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "relationships:de:dialogue-guide": [
+      {
+        "id": "wie-die-gesprächsmechanik-in-kynseed-tatsächlich-funktioniert",
+        "text": "Wie die Gesprächsmechanik in Kynseed tatsächlich funktioniert"
+      },
+      {
+        "id": "persönlichkeitstypen-und-ihre-bevorzugten-dialogzweige",
+        "text": "Persönlichkeitstypen und ihre bevorzugten Dialogzweige"
+      },
+      {
+        "id": "die-besten-date-dialogoptionen-für-die-romanze",
+        "text": "Die besten Date-Dialogoptionen für die Romanze"
+      },
+      {
+        "id": "fortgeschrittene-gesprächsstrategien-für-langfristige-beziehungen",
+        "text": "Fortgeschrittene Gesprächsstrategien für langfristige Beziehungen"
+      },
+      {
+        "id": "häufige-dialogfehler-und-wie-man-sie-vermeidet",
+        "text": "Häufige Dialogfehler und wie man sie vermeidet"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "relationships:de:family-guide": [
+      {
+        "id": "so-funktioniert-das-kynseed-generationssystem",
+        "text": "So funktioniert das Kynseed-Generationssystem"
+      },
+      {
+        "id": "was-zwischen-generationen-übertragen-wird",
+        "text": "Was zwischen Generationen übertragen wird"
+      },
+      {
+        "id": "planung-der-persönlichkeit-und-merkmale-deines-erben",
+        "text": "Planung der Persönlichkeit und Merkmale deines Erben"
+      },
+      {
+        "id": "vorbereitung-deines-kindes-auf-die-nachfolge",
+        "text": "Vorbereitung deines Kindes auf die Nachfolge"
+      },
+      {
+        "id": "häufige-nachfolgefehler-die-du-vermeiden-solltest",
+        "text": "Häufige Nachfolgefehler, die du vermeiden solltest"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "relationships:de:friendship-guide": [
+      {
+        "id": "wie-das-kynseed-zuneigungssystem-wirklich-funktioniert",
+        "text": "Wie das Kynseed-Zuneigungssystem wirklich funktioniert"
+      },
+      {
+        "id": "die-vollständige-kynseed-geschenkeliste-nach-dorfbewohner-präferenz",
+        "text": "Die vollständige Kynseed-Geschenkeliste nach Dorfbewohner-Präferenz"
+      },
+      {
+        "id": "eine-effiziente-kynseed-tagesroutine-für-freundschaften-aufbauen",
+        "text": "Eine effiziente Kynseed-Tagesroutine für Freundschaften aufbauen"
+      },
+      {
+        "id": "fortgeschrittene-zuneigungsstrategien-und-häufige-fallstricke",
+        "text": "Fortgeschrittene Zuneigungsstrategien und häufige Fallstricke"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "relationships:de:npc-schedules": [
+      {
+        "id": "warum-kynseed-npc-zeitpläne-für-den-fortschritt-wichtig-sind",
+        "text": "Warum Kynseed-NPC-Zeitpläne für den Fortschritt wichtig sind"
+      },
+      {
+        "id": "morgenroutinen-wo-man-dorfbewohner-vor-mittag-findet",
+        "text": "Morgenroutinen: Wo man Dorfbewohner vor Mittag findet"
+      },
+      {
+        "id": "nachmittags--und-abendzeitpläne-die-soziale-verschiebung",
+        "text": "Nachmittags- und Abendzeitpläne: Die soziale Verschiebung"
+      },
+      {
+        "id": "wochentagsvariationen-und-besondere-ereignisse",
+        "text": "Wochentagsvariationen und besondere Ereignisse"
+      },
+      {
+        "id": "zeitplanwissen-für-quests-und-beziehungen-nutzen",
+        "text": "Zeitplanwissen für Quests und Beziehungen nutzen"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "relationships:de:relationship-guide": [
+      {
+        "id": "die-kynseed-npc-liste-und-soziale-dynamiken-verstehen",
+        "text": "Die Kynseed-NPC-Liste und soziale Dynamiken verstehen"
+      },
+      {
+        "id": "wie-man-in-kynseed-heiratet-der-werbungsprozess",
+        "text": "Wie man in Kynseed heiratet: Der Werbungsprozess"
+      },
+      {
+        "id": "den-richtigen-ehepartner-wählen-heiratskandidaten-vergleichen",
+        "text": "Den richtigen Ehepartner wählen: Heiratskandidaten vergleichen"
+      },
+      {
+        "id": "kinder-großziehen-und-dein-familienvermächtnis-aufbauen",
+        "text": "Kinder großziehen und dein Familienvermächtnis aufbauen"
+      },
+      {
+        "id": "fortgeschrittene-beziehungsstrategien-und-langfristige-planung",
+        "text": "Fortgeschrittene Beziehungsstrategien und langfristige Planung"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "relationships:de:special-npcs": [
+      {
+        "id": "einführung-in-besondere-npcs",
+        "text": "Einführung in besondere NPCs"
+      },
+      {
+        "id": "wichtige-händler-und-kaufleute",
+        "text": "Wichtige Händler und Kaufleute"
+      },
+      {
+        "id": "questgebende-npcs",
+        "text": "Questgebende NPCs"
+      },
+      {
+        "id": "familienbezogene-npcs",
+        "text": "Familienbezogene NPCs"
+      },
+      {
+        "id": "übersicht-der-freundschaftsbelohnungen",
+        "text": "Übersicht der Freundschaftsbelohnungen"
+      },
+      {
+        "id": "standorte-und-zeitpläne-besonderer-npcs",
+        "text": "Standorte und Zeitpläne besonderer NPCs"
+      },
+      {
+        "id": "geschenkvorlieben-nach-npc-typ",
+        "text": "Geschenkvorlieben nach NPC-Typ"
+      },
+      {
+        "id": "tipps-für-den-aufbau-von-npc-beziehungen",
+        "text": "Tipps für den Aufbau von NPC-Beziehungen"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "crafting:de:crafting-guide": [
+      {
+        "id": "erste-schritte-mit-dem-handwerk-in-kynseed",
+        "text": "Erste Schritte mit dem Handwerk in Kynseed"
+      },
+      {
+        "id": "wichtige-handwerksressourcen",
+        "text": "Wichtige Handwerksressourcen"
+      },
+      {
+        "id": "rezeptkategorien-verstehen",
+        "text": "Rezeptkategorien verstehen"
+      },
+      {
+        "id": "handwerksqualität-und-ressourceneffizienz",
+        "text": "Handwerksqualität und Ressourceneffizienz"
+      },
+      {
+        "id": "fortgeschrittene-handwerkstechniken",
+        "text": "Fortgeschrittene Handwerkstechniken"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "crafting:de:gem-guide": [
+      {
+        "id": "einführung-in-edelsteine-in-kynseed",
+        "text": "Einführung in Edelsteine in Kynseed"
+      },
+      {
+        "id": "häufige-edelsteintypen-und-ihre-eigenschaften",
+        "text": "Häufige Edelsteintypen und ihre Eigenschaften"
+      },
+      {
+        "id": "seltene-und-legendäre-edelsteine",
+        "text": "Seltene und legendäre Edelsteine"
+      },
+      {
+        "id": "methoden-zum-erwerb-von-edelsteinen",
+        "text": "Methoden zum Erwerb von Edelsteinen"
+      },
+      {
+        "id": "schmuckherstellung-mit-edelsteinen",
+        "text": "Schmuckherstellung mit Edelsteinen"
+      },
+      {
+        "id": "strategische-edelsteinauswahl",
+        "text": "Strategische Edelsteinauswahl"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "crafting:de:ingredient-guide": [
+      {
+        "id": "sammelrouten-für-alltagsmaterialien",
+        "text": "Sammelrouten für Alltagsmaterialien"
+      },
+      {
+        "id": "bergbau-guide-erzknoten-und-edelsteinvorkommen",
+        "text": "Bergbau-Guide: Erzknoten und Edelsteinvorkommen"
+      },
+      {
+        "id": "foraging-guide-saisonale-spawns-und-seltene-pflanzen",
+        "text": "Foraging-Guide: Saisonale Spawns und seltene Pflanzen"
+      },
+      {
+        "id": "jagd-guide-tierbeute-und-spurenlesen",
+        "text": "Jagd-Guide: Tierbeute und Spurenlesen"
+      },
+      {
+        "id": "angel-guide-hotspots-und-köderauswahl",
+        "text": "Angel-Guide: Hotspots und Köderauswahl"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "crafting:de:potion-making": [
+      {
+        "id": "einführung-in-die-alchemie-in-kynseed",
+        "text": "Einführung in die Alchemie in Kynseed"
+      },
+      {
+        "id": "wichtige-brauzutaten",
+        "text": "Wichtige Brauzutaten"
+      },
+      {
+        "id": "grundlegende-brautechniken",
+        "text": "Grundlegende Brautechniken"
+      },
+      {
+        "id": "fortgeschrittene-trankrezepte",
+        "text": "Fortgeschrittene Trankrezepte"
+      },
+      {
+        "id": "tipps-für-angehende-alchemisten",
+        "text": "Tipps für angehende Alchemisten"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "crafting:de:resource-guide": [
+      {
+        "id": "ressourcen-in-kynseed-verstehen",
+        "text": "Ressourcen in Kynseed verstehen"
+      },
+      {
+        "id": "bergbau-und-mineralische-ressourcen",
+        "text": "Bergbau und mineralische Ressourcen"
+      },
+      {
+        "id": "pflanzliche-ressourcen-und-sammeln",
+        "text": "Pflanzliche Ressourcen und Sammeln"
+      },
+      {
+        "id": "tierische-produkte-und-jagd",
+        "text": "Tierische Produkte und Jagd"
+      },
+      {
+        "id": "strategien-zur-ressourcenverwaltung",
+        "text": "Strategien zur Ressourcenverwaltung"
+      },
+      {
+        "id": "effiziente-sammeltechniken",
+        "text": "Effiziente Sammeltechniken"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "crafting:de:workbench-guide": [
+      {
+        "id": "die-werkbank--deine-zentrale-handwerksstation",
+        "text": "Die Werkbank — Deine zentrale Handwerksstation"
+      },
+      {
+        "id": "grundlegende-werkzeuge-und-ausrüstung",
+        "text": "Grundlegende Werkzeuge und Ausrüstung"
+      },
+      {
+        "id": "rezeptkategorien-und-organisation",
+        "text": "Rezeptkategorien und Organisation"
+      },
+      {
+        "id": "handwerksqualität-und-erfolg",
+        "text": "Handwerksqualität und Erfolg"
+      },
+      {
+        "id": "fortgeschrittene-werkbanktechniken",
+        "text": "Fortgeschrittene Werkbanktechniken"
+      },
+      {
+        "id": "wartung-und-aufwertungen",
+        "text": "Wartung und Aufwertungen"
+      },
+      {
+        "id": "tipps-für-werkbank-meisterschaft",
+        "text": "Tipps für Werkbank-Meisterschaft"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "dungeons:de:chest-locations": [
+      {
+        "id": "kynseed-truhenarten-verstehen",
+        "text": "Kynseed Truhenarten verstehen"
+      },
+      {
+        "id": "die-mine-deine-erste-schatzquelle",
+        "text": "Die Mine: Deine erste Schatzquelle"
+      },
+      {
+        "id": "die-truhen-standorte-in-den-fae-wilds",
+        "text": "Die Truhen-Standorte in den Fae Wilds"
+      },
+      {
+        "id": "die-truhen-im-sumpf-verlies",
+        "text": "Die Truhen im Sumpf-Verlies"
+      },
+      {
+        "id": "die-truhen-im-turm-der-spiegel",
+        "text": "Die Truhen im Turm der Spiegel"
+      },
+      {
+        "id": "effiziente-schatzsuch-strategien",
+        "text": "Effiziente Schatzsuch-Strategien"
+      },
+      {
+        "id": "truhen-farming-nach-spielstil",
+        "text": "Truhen-Farming nach Spielstil"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "dungeons:de:dungeon-guide": [
+      {
+        "id": "vorbereitung-auf-deinen-ersten-dungeon-lauf",
+        "text": "Vorbereitung auf deinen ersten Dungeon-Lauf"
+      },
+      {
+        "id": "die-verlassenen-minen-eine-stockwerk-für-stockwerk-aufschlüsselung",
+        "text": "Die Verlassenen Minen: Eine Stockwerk-für-Stockwerk-Aufschlüsselung"
+      },
+      {
+        "id": "kampfgrundlagen-und-feindtaktiken",
+        "text": "Kampfgrundlagen und Feindtaktiken"
+      },
+      {
+        "id": "schätze-beute-und-ressourcensammlung",
+        "text": "Schätze, Beute und Ressourcensammlung"
+      },
+      {
+        "id": "tipps-für-dungeon-erfolg",
+        "text": "Tipps für Dungeon-Erfolg"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "dungeons:de:gear-check": [
+      {
+        "id": "warum-ausrüstung-in-kynseed-dungeons-wichtig-ist",
+        "text": "Warum Ausrüstung in Kynseed-Dungeons wichtig ist"
+      },
+      {
+        "id": "kernwaffen-und-rüstung-für-dungeon-runs",
+        "text": "Kernwaffen und Rüstung für Dungeon-Runs"
+      },
+      {
+        "id": "tränke-essen-und-verbrauchsmaterialien",
+        "text": "Tränke, Essen und Verbrauchsmaterialien"
+      },
+      {
+        "id": "werkzeuge-und-nützliche-gegenstände",
+        "text": "Werkzeuge und nützliche Gegenstände"
+      },
+      {
+        "id": "dungeon-für-dungeon-ausrüstungs-loadouts",
+        "text": "Dungeon-für-Dungeon-Ausrüstungs-Loadouts"
+      },
+      {
+        "id": "loadouts-für-das-späte-spiel-und-endgame",
+        "text": "Loadouts für das späte Spiel und Endgame"
+      },
+      {
+        "id": "notfall-erholungsgegenstände",
+        "text": "Notfall-Erholungsgegenstände"
+      },
+      {
+        "id": "ausrüstungshaltbarkeit-und-reparatur",
+        "text": "Ausrüstungshaltbarkeit und Reparatur"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "dungeons:de:regions-guide": [
+      {
+        "id": "kynseed-dungeon-regionen-auf-einen-blick",
+        "text": "Kynseed Dungeon-Regionen auf einen Blick"
+      },
+      {
+        "id": "die-mine-dein-erster-abstieg",
+        "text": "Die Mine: Dein erster Abstieg"
+      },
+      {
+        "id": "die-tiefwald-höhlen-naturgewaltige-herausforderung",
+        "text": "Die Tiefwald-Höhlen: Naturgewaltige Herausforderung"
+      },
+      {
+        "id": "der-sumpf-trübe-tiefen",
+        "text": "Der Sumpf: Trübe Tiefen"
+      },
+      {
+        "id": "der-turm-der-spiegel-rätsel--und-kampfvereinigung",
+        "text": "Der Turm der Spiegel: Rätsel- und Kampfvereinigung"
+      },
+      {
+        "id": "die-fae-wildnis-mystische-gefahr",
+        "text": "Die Fae-Wildnis: Mystische Gefahr"
+      },
+      {
+        "id": "die-unterwelt-endgame-territorium",
+        "text": "Die Unterwelt: Endgame-Territorium"
+      },
+      {
+        "id": "regionenvergleichstabelle",
+        "text": "Regionenvergleichstabelle"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "dungeons:de:ruins-guide": [
+      {
+        "id": "kynseeds-ruinen-verstehen",
+        "text": "Kynseeds Ruinen verstehen"
+      },
+      {
+        "id": "vorbereitung-auf-deine-erste-expedition",
+        "text": "Vorbereitung auf deine erste Expedition"
+      },
+      {
+        "id": "sicher-durch-ruinen-navigieren",
+        "text": "Sicher durch Ruinen navigieren"
+      },
+      {
+        "id": "beute-und-belohnungen",
+        "text": "Beute und Belohnungen"
+      },
+      {
+        "id": "ruinengeheimnisse-und-easter-eggs",
+        "text": "Ruinengeheimnisse und Easter Eggs"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      },
+      {
+        "id": "abschließende-gedanken",
+        "text": "Abschließende Gedanken"
+      }
+    ],
+    "dungeons:de:safe-zones": [
+      {
+        "id": "sicherheitszonen-in-kynseed-verstehen",
+        "text": "Sicherheitszonen in Kynseed verstehen"
+      },
+      {
+        "id": "wichtige-sicherheitszonen-in-den-verlassenen-minen",
+        "text": "Wichtige Sicherheitszonen in den Verlassenen Minen"
+      },
+      {
+        "id": "sicherheitszonen-im-feenwald",
+        "text": "Sicherheitszonen im Feenwald"
+      },
+      {
+        "id": "sicherheitszonen-mechaniken-und-ruhesystem",
+        "text": "Sicherheitszonen-Mechaniken und Ruhesystem"
+      },
+      {
+        "id": "fortgeschrittene-sicherheitszonen-strategien",
+        "text": "Fortgeschrittene Sicherheitszonen-Strategien"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "lore:de:creatures-guide": [
+      {
+        "id": "einführung-in-die-kreaturen-von-kynseed",
+        "text": "Einführung in die Kreaturen von Kynseed"
+      },
+      {
+        "id": "gewöhnliche-kreaturen",
+        "text": "Gewöhnliche Kreaturen"
+      },
+      {
+        "id": "boss-kreaturen",
+        "text": "Boss-Kreaturen"
+      },
+      {
+        "id": "gezähmte-kreaturen-und-begleiter",
+        "text": "Gezähmte Kreaturen und Begleiter"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "lore:de:folklore-guide": [
+      {
+        "id": "die-dunklen-märchenwurzeln-der-kynseed-handlung",
+        "text": "Die dunklen Märchenwurzeln der Kynseed-Handlung"
+      },
+      {
+        "id": "die-geschichte-des-tals-von-der-gründung-bis-zum-fall",
+        "text": "Die Geschichte des Tals: Von der Gründung bis zum Fall"
+      },
+      {
+        "id": "weltereignisse-und-saisonale-feste-erklärt",
+        "text": "Weltereignisse und saisonale Feste erklärt"
+      },
+      {
+        "id": "die-fae-abmachungen-und-ihre-konsequenzen",
+        "text": "Die Fae-Abmachungen und ihre Konsequenzen"
+      },
+      {
+        "id": "wie-folklore-gameplay-und-vermächtnis-prägt",
+        "text": "Wie Folklore Gameplay und Vermächtnis prägt"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "lore:de:game-world": [
+      {
+        "id": "die-beschaffenheit-des-landes-die-kynseed-spielwelt-erkunden",
+        "text": "Die Beschaffenheit des Landes: Die Kynseed-Spielwelt erkunden"
+      },
+      {
+        "id": "die-geschichte-unter-deinen-füßen-kynseed-geschichts-leitfaden",
+        "text": "Die Geschichte unter deinen Füßen: Kynseed-Geschichts-Leitfaden"
+      },
+      {
+        "id": "märchen-und-feenabkommen-die-magie-die-die-welt-regiert",
+        "text": "Märchen und Feenabkommen: Die Magie, die die Welt regiert"
+      },
+      {
+        "id": "dorfleben-und-gemeinschaft-das-herz-der-kynseed-umgebung",
+        "text": "Dorfleben und Gemeinschaft: Das Herz der Kynseed-Umgebung"
+      },
+      {
+        "id": "wie-weltwissen-dein-durchspielen-verbessert",
+        "text": "Wie Weltwissen dein Durchspielen verbessert"
+      },
+      {
+        "id": "das-lebendige-erbe-warum-der-kynseed-universum-leitfaden-wichtig-ist",
+        "text": "Das lebendige Erbe: Warum der Kynseed-Universum-Leitfaden wichtig ist"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "lore:de:lore-guide": [
+      {
+        "id": "die-überlieferung-und-geschichte-von-kynseed--ein-umfassender-leitfaden",
+        "text": "Die Überlieferung und Geschichte von Kynseed – Ein umfassender Leitfaden"
+      },
+      {
+        "id": "die-welt-von-kynseed-und-ihre-umgebung",
+        "text": "Die Welt von Kynseed und ihre Umgebung"
+      },
+      {
+        "id": "die-hauptstory-und-quests",
+        "text": "Die Hauptstory und Quests"
+      },
+      {
+        "id": "fraktionen-und-charaktere",
+        "text": "Fraktionen und Charaktere"
+      },
+      {
+        "id": "alte-geschichte-und-mythologie",
+        "text": "Alte Geschichte und Mythologie"
+      },
+      {
+        "id": "magie-und-mystische-elemente",
+        "text": "Magie und mystische Elemente"
+      },
+      {
+        "id": "schlüsselorte-und-ihre-bedeutung",
+        "text": "Schlüsselorte und ihre Bedeutung"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "lore:de:mystical-guide": [
+      {
+        "id": "die-grundlage-von-kynseeds-magiesystem",
+        "text": "Die Grundlage von Kynseeds Magiesystem"
+      },
+      {
+        "id": "das-pantheon-götter-und-ihre-domänen",
+        "text": "Das Pantheon: Götter und ihre Domänen"
+      },
+      {
+        "id": "die-feenhöfe-verträge-und-konsequenzen",
+        "text": "Die Feenhöfe: Verträge und Konsequenzen"
+      },
+      {
+        "id": "geister-des-landes-gespenster-wächter-und-wandernde-seelen",
+        "text": "Geister des Landes: Gespenster, Wächter und wandernde Seelen"
+      },
+      {
+        "id": "praktische-mystische-strategien-für-dein-vermächtnis",
+        "text": "Praktische mystische Strategien für dein Vermächtnis"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "lore:de:thornborough": [
+      {
+        "id": "thornboroughs-gründungslegenden-und-mythologische-wurzeln",
+        "text": "Thornboroughs Gründungslegenden und mythologische Wurzeln"
+      },
+      {
+        "id": "der-kynseed-zeitstrahl-von-der-gründung-bis-zur-gegenwart",
+        "text": "Der Kynseed-Zeitstrahl: Von der Gründung bis zur Gegenwart"
+      },
+      {
+        "id": "feste-von-thornborough-saisonale-feierlichkeiten-und-ihre-ursprünge",
+        "text": "Feste von Thornborough: Saisonale Feierlichkeiten und ihre Ursprünge"
+      },
+      {
+        "id": "thornboroughs-bemerkenswerte-wahrzeichen-und-ihre-verborgenen-geschichten",
+        "text": "Thornboroughs bemerkenswerte Wahrzeichen und ihre verborgenen Geschichten"
+      },
+      {
+        "id": "wie-thornboroughs-überlieferung-gameplay-entscheidungen-prägt",
+        "text": "Wie Thornboroughs Überlieferung Gameplay-Entscheidungen prägt"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "updates:de:added-content": [
+      {
+        "id": "die-reise-vom-early-access-zur-vollversion",
+        "text": "Die Reise vom Early Access zur Vollversion"
+      },
+      {
+        "id": "große-inhaltserweiterungen",
+        "text": "Große Inhaltserweiterungen"
+      },
+      {
+        "id": "überarbeitungen-der-spielsysteme",
+        "text": "Überarbeitungen der Spielsysteme"
+      },
+      {
+        "id": "verbesserungen-der-lebensqualität",
+        "text": "Verbesserungen der Lebensqualität"
+      },
+      {
+        "id": "saisonale-events-und-zeitlich-begrenzte-inhalte",
+        "text": "Saisonale Events und zeitlich begrenzte Inhalte"
+      },
+      {
+        "id": "community-getriebene-updates",
+        "text": "Community-getriebene Updates"
+      },
+      {
+        "id": "was-kommt-als-nächstes-für-kynseed",
+        "text": "Was kommt als Nächstes für Kynseed"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "updates:de:dev-updates": [
+      {
+        "id": "die-entwicklung-von-kynseed-im-wandel",
+        "text": "Die Entwicklung von Kynseed im Wandel"
+      },
+      {
+        "id": "wichtige-update-meilensteine",
+        "text": "Wichtige Update-Meilensteine"
+      },
+      {
+        "id": "wie-pixelcount-studios-feedback-sammelt",
+        "text": "Wie PixelCount Studios Feedback sammelt"
+      },
+      {
+        "id": "was-als-nächstes-auf-der-roadmap-steht",
+        "text": "Was als Nächstes auf der Roadmap steht"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "updates:de:game-version": [
+      {
+        "id": "kynseed-spielversionsgeschichte-und-zeitleiste-der-vollversion",
+        "text": "Kynseed-Spielversionsgeschichte und Zeitleiste der Vollversion"
+      },
+      {
+        "id": "so-überprüfen-sie-ihre-aktuelle-kynseed-version",
+        "text": "So überprüfen Sie Ihre aktuelle Kynseed-Version"
+      },
+      {
+        "id": "was-sich-in-der-kynseed-vollversion-geändert-hat",
+        "text": "Was sich in der Kynseed-Vollversion geändert hat"
+      },
+      {
+        "id": "neueste-kynseed-version-und-aktuelle-update-highlights",
+        "text": "Neueste Kynseed-Version und aktuelle Update-Highlights"
+      },
+      {
+        "id": "wie-das-kynseed-änderungsprotokoll-ihnen-bei-der-planung-ihres-durchspiels-hilft",
+        "text": "Wie das Kynseed-Änderungsprotokoll Ihnen bei der Planung Ihres Durchspiels hilft"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "updates:de:patch-notes": [
+      {
+        "id": "kynseed-patchnotizen-im-überblick-was-die-updates-2024-geliefert-haben",
+        "text": "Kynseed-Patchnotizen im Überblick: Was die Updates 2024 geliefert haben"
+      },
+      {
+        "id": "wichtige-funktionserweiterungen-im-neuesten-kynseed-update",
+        "text": "Wichtige Funktionserweiterungen im neuesten Kynseed-Update"
+      },
+      {
+        "id": "neue-kynseed-inhalte-saisonale-ereignisse-und-welterweiterung",
+        "text": "Neue Kynseed-Inhalte: saisonale Ereignisse und Welterweiterung"
+      },
+      {
+        "id": "balanceänderungen-und-gameplay-anpassungen-in-den-letzten-patches",
+        "text": "Balanceänderungen und Gameplay-Anpassungen in den letzten Patches"
+      },
+      {
+        "id": "so-bleibst-du-mit-zukünftigen-kynseed-versionshinweisen-auf-dem-laufenden",
+        "text": "So bleibst du mit zukünftigen Kynseed-Versionshinweisen auf dem Laufenden"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "updates:de:quality-of-life": [
+      {
+        "id": "die-entwicklung-der-benutzeroberfläche-von-kynseed",
+        "text": "Die Entwicklung der Benutzeroberfläche von Kynseed"
+      },
+      {
+        "id": "landwirtschafts--und-handwerks-verfeinerungen",
+        "text": "Landwirtschafts- und Handwerks-Verfeinerungen"
+      },
+      {
+        "id": "kampf--und-verlies-lebensqualität",
+        "text": "Kampf- und Verlies-Lebensqualität"
+      },
+      {
+        "id": "lebenszyklus--und-beziehungs-straffung",
+        "text": "Lebenszyklus- und Beziehungs-Straffung"
+      },
+      {
+        "id": "community-getriebene-verbesserungen",
+        "text": "Community-getriebene Verbesserungen"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      },
+      {
+        "id": "fazit",
+        "text": "Fazit"
+      }
+    ],
+    "updates:de:roadmap": [
+      {
+        "id": "wie-sich-die-kynseed-roadmap-entwickelt-hat",
+        "text": "Wie sich die Kynseed-Roadmap entwickelt hat"
+      },
+      {
+        "id": "die-grundpfeiler-der-zukünftigen-entwicklung",
+        "text": "Die Grundpfeiler der zukünftigen Entwicklung"
+      },
+      {
+        "id": "community-feedback-und-die-roadmap",
+        "text": "Community-Feedback und die Roadmap"
+      },
+      {
+        "id": "kommende-funktionen-auf-einen-blick",
+        "text": "Kommende Funktionen auf einen Blick"
+      },
+      {
+        "id": "was-dich-im-nächsten-großen-update-erwartet",
+        "text": "Was dich im nächsten großen Update erwartet"
+      },
+      {
+        "id": "zeitplan-und-meilensteine",
+        "text": "Zeitplan und Meilensteine"
+      },
+      {
+        "id": "so-bleibst-du-informiert",
+        "text": "So bleibst du informiert"
+      },
+      {
+        "id": "häufig-gestellte-fragen",
+        "text": "Häufig gestellte Fragen"
+      }
+    ],
+    "guides:ja:beginner-guide": [
+      {
+        "id": "初日が何世代にもわたって基調を決める理由",
+        "text": "初日が何世代にもわたって基調を決める理由"
+      },
+      {
+        "id": "生活スキル何を優先すべきかそしてその理由",
+        "text": "生活スキル：何を優先すべきか、そしてその理由"
+      },
+      {
+        "id": "初日のタスクチェックリストステップバイステップの計画",
+        "text": "初日のタスクチェックリスト：ステップバイステップの計画"
+      },
+      {
+        "id": "初日のよくある過ちとその回避方法",
+        "text": "初日のよくある過ちとその回避方法"
+      },
+      {
+        "id": "ショップを遺産資産に育てる",
+        "text": "ショップを遺産資産に育てる"
+      },
+      {
+        "id": "一日を通して時間とエネルギーを管理する",
+        "text": "一日を通して時間とエネルギーを管理する"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "guides:ja:beginner-walkthrough": [
+      {
+        "id": "kynseedのライフサイクルとオープニング時間を理解する",
+        "text": "Kynseedのライフサイクルとオープニング時間を理解する"
+      },
+      {
+        "id": "第一世代のマイルストーンkynseed開始ガイドのロードマップ",
+        "text": "第一世代のマイルストーン：Kynseed開始ガイドのロードマップ"
+      },
+      {
+        "id": "季節をまたいだ時間とエネルギーの管理",
+        "text": "季節をまたいだ時間とエネルギーの管理"
+      },
+      {
+        "id": "人間関係を築き家族を始める",
+        "text": "人間関係を築き、家族を始める"
+      },
+      {
+        "id": "第一世代の一般的なミスとその回避方法",
+        "text": "第一世代の一般的なミスとその回避方法"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "guides:ja:complete-guide": [
+      {
+        "id": "はじめに最初のシーズン",
+        "text": "はじめに：最初のシーズン"
+      },
+      {
+        "id": "農業とライフサイクル",
+        "text": "農業とライフサイクル"
+      },
+      {
+        "id": "クラフト料理スキルシステム",
+        "text": "クラフト、料理、スキルシステム"
+      },
+      {
+        "id": "戦闘とダンジョン",
+        "text": "戦闘とダンジョン"
+      },
+      {
+        "id": "関係性結婚家族",
+        "text": "関係性、結婚、家族"
+      },
+      {
+        "id": "上級者向けヒントとエンドゲームコンテンツ",
+        "text": "上級者向けヒントとエンドゲームコンテンツ"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      },
+      {
+        "id": "結論",
+        "text": "結論"
+      }
+    ],
+    "guides:ja:game-guide": [
+      {
+        "id": "kynseedの紹介",
+        "text": "Kynseedの紹介"
+      },
+      {
+        "id": "始め方キャラクター作成とキンシード",
+        "text": "始め方：キャラクター作成とキンシード"
+      },
+      {
+        "id": "農業と採集",
+        "text": "農業と採集"
+      },
+      {
+        "id": "戦闘と探索",
+        "text": "戦闘と探索"
+      },
+      {
+        "id": "人間関係結婚家族の遺産",
+        "text": "人間関係、結婚、家族の遺産"
+      },
+      {
+        "id": "上級ゲームプレイメカニクス",
+        "text": "上級ゲームプレイメカニクス"
+      },
+      {
+        "id": "経済システムと富の構築",
+        "text": "経済システムと富の構築"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "guides:ja:gameplay-basics": [
+      {
+        "id": "kynseedへようこそ生きた遺産",
+        "text": "Kynseedへようこそ：生きた遺産"
+      },
+      {
+        "id": "基本操作とインターフェース",
+        "text": "基本操作とインターフェース"
+      },
+      {
+        "id": "時間管理とライフサイクル",
+        "text": "時間管理とライフサイクル"
+      },
+      {
+        "id": "新規プレイヤー向けの必須システム",
+        "text": "新規プレイヤー向けの必須システム"
+      },
+      {
+        "id": "人間関係とコミュニティの絆",
+        "text": "人間関係とコミュニティの絆"
+      },
+      {
+        "id": "最初のシーズンのためのヒント",
+        "text": "最初のシーズンのためのヒント"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "guides:ja:kynseed-introduction": [
+      {
+        "id": "kynseedのユニークな点",
+        "text": "Kynseedのユニークな点"
+      },
+      {
+        "id": "ライフサイクルメカニックの詳細",
+        "text": "ライフサイクルメカニックの詳細"
+      },
+      {
+        "id": "ゲームシステム概要",
+        "text": "ゲームシステム概要"
+      },
+      {
+        "id": "pixelcount-studiosfableとのつながり",
+        "text": "PixelCount Studios：Fableとのつながり"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "guides:ja:quest-walkthrough": [
+      {
+        "id": "kynseedのメインストーリー構造を理解する",
+        "text": "Kynseedのメインストーリー構造を理解する"
+      },
+      {
+        "id": "kynseedの始め方最初のステップ",
+        "text": "Kynseedの始め方：最初のステップ"
+      },
+      {
+        "id": "メインストーリークエストを順番に",
+        "text": "メインストーリークエストを順番に"
+      },
+      {
+        "id": "サイドコンテンツと探索をどこから始めるか",
+        "text": "サイドコンテンツと探索をどこから始めるか"
+      },
+      {
+        "id": "世代戦略の構築",
+        "text": "世代戦略の構築"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "guides:ja:save-guide": [
+      {
+        "id": "kynseedのセーブシステムを理解する",
+        "text": "Kynseedのセーブシステムを理解する"
+      },
+      {
+        "id": "セーブのタイミングベストプラクティス",
+        "text": "セーブのタイミング：ベストプラクティス"
+      },
+      {
+        "id": "セーブスロットとファイル管理",
+        "text": "セーブスロットとファイル管理"
+      },
+      {
+        "id": "一般的なセーブ問題のトラブルシューティング",
+        "text": "一般的なセーブ問題のトラブルシューティング"
+      },
+      {
+        "id": "進行状況の損失を防ぐためのヒント",
+        "text": "進行状況の損失を防ぐためのヒント"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "guides:ja:side-quest-guide": [
+      {
+        "id": "kynseedのサイドクエストを理解する",
+        "text": "Kynseedのサイドクエストを理解する"
+      },
+      {
+        "id": "序盤のサイドクエスト",
+        "text": "序盤のサイドクエスト"
+      },
+      {
+        "id": "中盤のサイドクエスト",
+        "text": "中盤のサイドクエスト"
+      },
+      {
+        "id": "終盤世代クエスト",
+        "text": "終盤＆世代クエスト"
+      },
+      {
+        "id": "報酬と進行",
+        "text": "報酬と進行"
+      },
+      {
+        "id": "効率的なクエスト攻略のヒント",
+        "text": "効率的なクエスト攻略のヒント"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "guides:ja:tips-and-tricks": [
+      {
+        "id": "ライフサイクルを理解する遺産の計画",
+        "text": "ライフサイクルを理解する：遺産の計画"
+      },
+      {
+        "id": "農業の極意基本を超えて",
+        "text": "農業の極意：基本を超えて"
+      },
+      {
+        "id": "戦闘とダンジョン戦略",
+        "text": "戦闘とダンジョン戦略"
+      },
+      {
+        "id": "富の構築kynseedの経済",
+        "text": "富の構築：Kynseedの経済"
+      },
+      {
+        "id": "人間関係とコミュニティ",
+        "text": "人間関係とコミュニティ"
+      },
+      {
+        "id": "時間管理と毎日のルーティン",
+        "text": "時間管理と毎日のルーティン"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      },
+      {
+        "id": "まとめ",
+        "text": "まとめ"
+      }
+    ],
+    "guides:ja:what-to-do-first": [
+      {
+        "id": "kynseedで最初の数時間が重要な理由",
+        "text": "Kynseedで最初の数時間が重要な理由"
+      },
+      {
+        "id": "初日の必須チェックリスト",
+        "text": "初日の必須チェックリスト"
+      },
+      {
+        "id": "序盤に習得すべき主要システム",
+        "text": "序盤に習得すべき主要システム"
+      },
+      {
+        "id": "最初の1週間の優先順位付け",
+        "text": "最初の1週間の優先順位付け"
+      },
+      {
+        "id": "序盤にありがちな失敗とその回避策",
+        "text": "序盤にありがちな失敗とその回避策"
+      },
+      {
+        "id": "結論賢く始めて長く遊ぶ",
+        "text": "結論：賢く始めて、長く遊ぶ"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "combat:ja:combat-guide": [
+      {
+        "id": "kynseed-戦闘システムの基本を理解する",
+        "text": "Kynseed 戦闘システムの基本を理解する"
+      },
+      {
+        "id": "kynseed-近接戦闘テクニックをマスターする",
+        "text": "Kynseed 近接戦闘テクニックをマスターする"
+      },
+      {
+        "id": "遠距離戦闘と武器オプション",
+        "text": "遠距離戦闘と武器オプション"
+      },
+      {
+        "id": "戦闘用の-kynseed-スキルツリーをナビゲートする",
+        "text": "戦闘用の Kynseed スキルツリーをナビゲートする"
+      },
+      {
+        "id": "高度な戦闘戦略と敵の戦術",
+        "text": "高度な戦闘戦略と敵の戦術"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "combat:ja:combat-strategy": [
+      {
+        "id": "すべてのkynseedの敵タイプに共通する戦闘の基礎",
+        "text": "すべてのKynseedの敵タイプに共通する戦闘の基礎"
+      },
+      {
+        "id": "ダンジョンボス戦とアリーナ戦術",
+        "text": "ダンジョンボス戦とアリーナ戦術"
+      },
+      {
+        "id": "高度な敵の戦術と対抗戦略",
+        "text": "高度な敵の戦術と対抗戦略"
+      },
+      {
+        "id": "ボス特化ロードアウトの構築",
+        "text": "ボス特化ロードアウトの構築"
+      },
+      {
+        "id": "よくあるミスとその回避方法",
+        "text": "よくあるミスとその回避方法"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "combat:ja:combat-styles": [
+      {
+        "id": "主要な戦闘スタイルとその装備要件",
+        "text": "主要な戦闘スタイルとその装備要件"
+      },
+      {
+        "id": "戦闘スタイル別の防具セットランキング",
+        "text": "戦闘スタイル別の防具セットランキング"
+      },
+      {
+        "id": "ダメージ計算装備ステータスが出力にどのように変換されるか",
+        "text": "ダメージ計算：装備ステータスが出力にどのように変換されるか"
+      },
+      {
+        "id": "進行段階別の実践的な装備推奨",
+        "text": "進行段階別の実践的な装備推奨"
+      },
+      {
+        "id": "高度な相乗効果スキルと装備の組み合わせ",
+        "text": "高度な相乗効果：スキルと装備の組み合わせ"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "combat:ja:enemy-list": [
+      {
+        "id": "kynseed敵リストの各項目の背後にあるコアステータスを理解する",
+        "text": "Kynseed敵リストの各項目の背後にあるコアステータスを理解する"
+      },
+      {
+        "id": "ステータス内訳付きの完全なkynseed敵リスト",
+        "text": "ステータス内訳付きの完全なKynseed敵リスト"
+      },
+      {
+        "id": "強さと敏捷性のステータスが戦闘アプローチをどう形作るか",
+        "text": "強さと敏捷性のステータスが戦闘アプローチをどう形作るか"
+      },
+      {
+        "id": "敵ステータス知識を使った実践的な戦闘戦術",
+        "text": "敵ステータス知識を使った実践的な戦闘戦術"
+      },
+      {
+        "id": "高度な敵の遭遇とステータススケーリング",
+        "text": "高度な敵の遭遇とステータススケーリング"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "combat:ja:health-guide": [
+      {
+        "id": "kynseedの健康システムを理解する",
+        "text": "Kynseedの健康システムを理解する"
+      },
+      {
+        "id": "ダメージの種類と発生源",
+        "text": "ダメージの種類と発生源"
+      },
+      {
+        "id": "回復方法",
+        "text": "回復方法"
+      },
+      {
+        "id": "厳しい戦闘を生き延びる",
+        "text": "厳しい戦闘を生き延びる"
+      },
+      {
+        "id": "hpの進行と強化",
+        "text": "HPの進行と強化"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      },
+      {
+        "id": "最後に",
+        "text": "最後に"
+      }
+    ],
+    "combat:ja:magic-combat": [
+      {
+        "id": "マナシステムを理解する",
+        "text": "マナシステムを理解する"
+      },
+      {
+        "id": "元素魔法の流派",
+        "text": "元素魔法の流派"
+      },
+      {
+        "id": "スペルの組み合わせとシナジー",
+        "text": "スペルの組み合わせとシナジー"
+      },
+      {
+        "id": "戦闘のための秘術戦略",
+        "text": "戦闘のための秘術戦略"
+      },
+      {
+        "id": "魔法装備と装備品",
+        "text": "魔法装備と装備品"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      },
+      {
+        "id": "結論",
+        "text": "結論"
+      }
+    ],
+    "farming:ja:chicken-guide": [
+      {
+        "id": "kynseed鶏ガイドが序盤を変える理由",
+        "text": "Kynseed鶏ガイドが序盤を変える理由"
+      },
+      {
+        "id": "kynseedでの鶏の飼育鶏舎の設置と毎日のルーティン",
+        "text": "Kynseedでの鶏の飼育：鶏舎の設置と毎日のルーティン"
+      },
+      {
+        "id": "kynseed養鶏卵の生産と利益",
+        "text": "Kynseed養鶏：卵の生産と利益"
+      },
+      {
+        "id": "kynseedの鶏の世話健康季節そしてトラブルシューティング",
+        "text": "Kynseedの鶏の世話：健康、季節、そしてトラブルシューティング"
+      },
+      {
+        "id": "高度なkynseed養鶏戦略",
+        "text": "高度なKynseed養鶏戦略"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "farming:ja:efficient-farming": [
+      {
+        "id": "農場レイアウトが効率の上限を決める理由",
+        "text": "農場レイアウトが効率の上限を決める理由"
+      },
+      {
+        "id": "実際に時間を節約する灌漑システム",
+        "text": "実際に時間を節約する灌漑システム"
+      },
+      {
+        "id": "土壌準備と肥料ルーティン",
+        "text": "土壌準備と肥料ルーティン"
+      },
+      {
+        "id": "種の選択と植え付けスケジュール",
+        "text": "種の選択と植え付けスケジュール"
+      },
+      {
+        "id": "年間最大出力のための季節戦略",
+        "text": "年間最大出力のための季節戦略"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "farming:ja:farming-guide": [
+      {
+        "id": "kynseedの農業の基本を理解する",
+        "text": "Kynseedの農業の基本を理解する"
+      },
+      {
+        "id": "季節ごとの作物計画と輪作",
+        "text": "季節ごとの作物計画と輪作"
+      },
+      {
+        "id": "土壌管理と施肥",
+        "text": "土壌管理と施肥"
+      },
+      {
+        "id": "高度な農業テクニック",
+        "text": "高度な農業テクニック"
+      },
+      {
+        "id": "季節計画と輪作",
+        "text": "季節計画と輪作"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "farming:ja:horse-guide": [
+      {
+        "id": "最初の馬の選び方ステータス品種購入タイミング",
+        "text": "最初の馬の選び方：ステータス、品種、購入タイミング"
+      },
+      {
+        "id": "ペットの仕組み徹底解説犬猫そしてそれぞれの役割",
+        "text": "ペットの仕組み徹底解説：犬、猫、そしてそれぞれの役割"
+      },
+      {
+        "id": "動物の繁殖と世代を超えた富",
+        "text": "動物の繁殖と世代を超えた富"
+      },
+      {
+        "id": "動物を農場収入戦略に統合する",
+        "text": "動物を農場収入戦略に統合する"
+      },
+      {
+        "id": "終盤のための高度な動物戦略",
+        "text": "終盤のための高度な動物戦略"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "farming:ja:seasons-guide": [
+      {
+        "id": "kynseedの季節サイクルを理解する",
+        "text": "Kynseedの季節サイクルを理解する"
+      },
+      {
+        "id": "春の作物基盤を築く",
+        "text": "春の作物：基盤を築く"
+      },
+      {
+        "id": "夏の作物暑さの可能性を最大化",
+        "text": "夏の作物：暑さの可能性を最大化"
+      },
+      {
+        "id": "秋の作物と収穫の準備",
+        "text": "秋の作物と収穫の準備"
+      },
+      {
+        "id": "冬の作物と屋内農業",
+        "text": "冬の作物と屋内農業"
+      },
+      {
+        "id": "季節を超えた動物の世話",
+        "text": "季節を超えた動物の世話"
+      },
+      {
+        "id": "季節戦略と長期計画",
+        "text": "季節戦略と長期計画"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "farming:ja:seed-list": [
+      {
+        "id": "kynseedの種リストすべての作物の種とその入手場所",
+        "text": "Kynseedの種リスト：すべての作物の種とその入手場所"
+      },
+      {
+        "id": "kynseedの果樹植え付け接ぎ木果樹園のレイアウト",
+        "text": "Kynseedの果樹：植え付け、接ぎ木、果樹園のレイアウト"
+      },
+      {
+        "id": "kynseedの養蜂巣箱の設置と蜂蜜の収穫",
+        "text": "Kynseedの養蜂：巣箱の設置と蜂蜜の収穫"
+      },
+      {
+        "id": "kynseedのヤギガイド毎日の世話餌やり製品の価値",
+        "text": "Kynseedのヤギガイド：毎日の世話、餌やり、製品の価値"
+      },
+      {
+        "id": "高度な果樹園戦略果樹の生産量を最大化する",
+        "text": "高度な果樹園戦略：果樹の生産量を最大化する"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "business:ja:business-guide": [
+      {
+        "id": "最初のkynseedビジネスの選び方",
+        "text": "最初のKynseedビジネスの選び方"
+      },
+      {
+        "id": "酒場の運営と顧客満足度",
+        "text": "酒場の運営と顧客満足度"
+      },
+      {
+        "id": "薬屋のクラフトと在庫管理",
+        "text": "薬屋のクラフトと在庫管理"
+      },
+      {
+        "id": "鍛冶屋の鍛造とリソース変換",
+        "text": "鍛冶屋の鍛造とリソース変換"
+      },
+      {
+        "id": "日々のルーチンと利益の最適化",
+        "text": "日々のルーチンと利益の最適化"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "business:ja:business-management": [
+      {
+        "id": "プレイスタイルに合ったショップの選び方",
+        "text": "プレイスタイルに合ったショップの選び方"
+      },
+      {
+        "id": "収入比較どのショップが最も速くゴールドを稼ぐか",
+        "text": "収入比較：どのショップが最も速くゴールドを稼ぐか"
+      },
+      {
+        "id": "最大収益のための日々のルーティン最適化",
+        "text": "最大収益のための日々のルーティン最適化"
+      },
+      {
+        "id": "スケールアップアップグレード装飾拡張",
+        "text": "スケールアップ：アップグレード、装飾、拡張"
+      },
+      {
+        "id": "長期的な富のための高度な戦略",
+        "text": "長期的な富のための高度な戦略"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "business:ja:business-upgrades": [
+      {
+        "id": "kynseedのビジネスアップグレードの仕組み",
+        "text": "Kynseedのビジネスアップグレードの仕組み"
+      },
+      {
+        "id": "kynseed装飾ガイド本当に重要なもの",
+        "text": "Kynseed装飾ガイド：本当に重要なもの"
+      },
+      {
+        "id": "利益を最大化するための最適なレイアウト戦略",
+        "text": "利益を最大化するための最適なレイアウト戦略"
+      },
+      {
+        "id": "高度な効率化テクニック",
+        "text": "高度な効率化テクニック"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "business:ja:food-recipes": [
+      {
+        "id": "kynseedのレシピ一覧とクラフトの基本を理解する",
+        "text": "Kynseedのレシピ一覧とクラフトの基本を理解する"
+      },
+      {
+        "id": "あなたの酒場のための最高のkynseedドリンクレシピ",
+        "text": "あなたの酒場のための最高のKynseedドリンクレシピ"
+      },
+      {
+        "id": "顧客満足のための必須kynseed料理レシピ",
+        "text": "顧客満足のための必須Kynseed料理レシピ"
+      },
+      {
+        "id": "最適なkynseedの酒場レイアウトの設計",
+        "text": "最適なKynseedの酒場レイアウトの設計"
+      },
+      {
+        "id": "他のビジネスのためのkynseedショップレイアウトの原則",
+        "text": "他のビジネスのためのKynseedショップレイアウトの原則"
+      },
+      {
+        "id": "日々の利益を最大化するための高度なビジネスのコツ",
+        "text": "日々の利益を最大化するための高度なビジネスのコツ"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "business:ja:making-money": [
+      {
+        "id": "kynseed価格設定ガイドの基本を理解する",
+        "text": "Kynseed価格設定ガイドの基本を理解する"
+      },
+      {
+        "id": "リピートビジネスのためのkynseed顧客ガイドを構築する",
+        "text": "リピートビジネスのためのKynseed顧客ガイドを構築する"
+      },
+      {
+        "id": "kynseed従業員ガイドの要点を管理する",
+        "text": "Kynseed従業員ガイドの要点を管理する"
+      },
+      {
+        "id": "利益のためのkynseedレシピガイドをクラフトする",
+        "text": "利益のためのKynseedレシピガイドをクラフトする"
+      },
+      {
+        "id": "ビジネスを拡大するための高度な戦略",
+        "text": "ビジネスを拡大するための高度な戦略"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "business:ja:profit-maximization": [
+      {
+        "id": "kynseedの利益最大化のための市場サイクルを理解する",
+        "text": "Kynseedの利益最大化のための市場サイクルを理解する"
+      },
+      {
+        "id": "kynseed交易ガイドを極める安く買い高く売る",
+        "text": "Kynseed交易ガイドを極める：安く買い、高く売る"
+      },
+      {
+        "id": "kynseedの店舗アップグレードコインの投資先",
+        "text": "Kynseedの店舗アップグレード：コインの投資先"
+      },
+      {
+        "id": "kynseedの利益最大化のための高度な販売戦略",
+        "text": "Kynseedの利益最大化のための高度な販売戦略"
+      },
+      {
+        "id": "よくある利益の間違いとその回避方法",
+        "text": "よくある利益の間違いとその回避方法"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "relationships:ja:dialogue-guide": [
+      {
+        "id": "kynseedの会話メカニクスの実際の仕組み",
+        "text": "Kynseedの会話メカニクスの実際の仕組み"
+      },
+      {
+        "id": "性格タイプと好みの会話ブランチ",
+        "text": "性格タイプと好みの会話ブランチ"
+      },
+      {
+        "id": "恋愛のための最高のデート会話の選択肢",
+        "text": "恋愛のための最高のデート会話の選択肢"
+      },
+      {
+        "id": "長期的な関係のための高度な会話戦略",
+        "text": "長期的な関係のための高度な会話戦略"
+      },
+      {
+        "id": "一般的な会話の間違いとその回避方法",
+        "text": "一般的な会話の間違いとその回避方法"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "relationships:ja:family-guide": [
+      {
+        "id": "kynseedの世代システムの仕組み",
+        "text": "Kynseedの世代システムの仕組み"
+      },
+      {
+        "id": "世代間で引き継がれるもの",
+        "text": "世代間で引き継がれるもの"
+      },
+      {
+        "id": "後継者の性格と特性の計画",
+        "text": "後継者の性格と特性の計画"
+      },
+      {
+        "id": "継承のための子供の準備",
+        "text": "継承のための子供の準備"
+      },
+      {
+        "id": "避けるべき一般的な継承ミス",
+        "text": "避けるべき一般的な継承ミス"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "relationships:ja:friendship-guide": [
+      {
+        "id": "kynseedの親密度システムの本当の仕組み",
+        "text": "Kynseedの親密度システムの本当の仕組み"
+      },
+      {
+        "id": "村人の好み別の完全なkynseed贈り物リスト",
+        "text": "村人の好み別の完全なKynseed贈り物リスト"
+      },
+      {
+        "id": "友情のための効率的なkynseed毎日のルーティンの構築",
+        "text": "友情のための効率的なKynseed毎日のルーティンの構築"
+      },
+      {
+        "id": "高度な親密度戦略とよくある落とし穴",
+        "text": "高度な親密度戦略とよくある落とし穴"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "relationships:ja:npc-schedules": [
+      {
+        "id": "kynseedのnpcスケジュールが進行にとって重要な理由",
+        "text": "KynseedのNPCスケジュールが進行にとって重要な理由"
+      },
+      {
+        "id": "朝のルーティン正午前に住人を見つける場所",
+        "text": "朝のルーティン：正午前に住人を見つける場所"
+      },
+      {
+        "id": "午後と夕方のスケジュール社交シフト",
+        "text": "午後と夕方のスケジュール：社交シフト"
+      },
+      {
+        "id": "曜日ごとの変動と特別イベント",
+        "text": "曜日ごとの変動と特別イベント"
+      },
+      {
+        "id": "クエストと関係性のためのスケジュール知識の活用",
+        "text": "クエストと関係性のためのスケジュール知識の活用"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "relationships:ja:relationship-guide": [
+      {
+        "id": "kynseed-npcリストと社会ダイナミクスを理解する",
+        "text": "Kynseed NPCリストと社会ダイナミクスを理解する"
+      },
+      {
+        "id": "kynseedで結婚する方法求婚プロセス",
+        "text": "Kynseedで結婚する方法：求婚プロセス"
+      },
+      {
+        "id": "適切な配偶者の選択結婚候補者の比較",
+        "text": "適切な配偶者の選択：結婚候補者の比較"
+      },
+      {
+        "id": "子供を育て家族の遺産を築く",
+        "text": "子供を育て、家族の遺産を築く"
+      },
+      {
+        "id": "高度な人間関係戦略と長期計画",
+        "text": "高度な人間関係戦略と長期計画"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "relationships:ja:special-npcs": [
+      {
+        "id": "特殊npcの紹介",
+        "text": "特殊NPCの紹介"
+      },
+      {
+        "id": "主要な商人とトレーダー",
+        "text": "主要な商人とトレーダー"
+      },
+      {
+        "id": "クエスト提供npc",
+        "text": "クエスト提供NPC"
+      },
+      {
+        "id": "家族関連npc",
+        "text": "家族関連NPC"
+      },
+      {
+        "id": "友好度報酬の概要",
+        "text": "友好度報酬の概要"
+      },
+      {
+        "id": "特殊npcの場所とスケジュール",
+        "text": "特殊NPCの場所とスケジュール"
+      },
+      {
+        "id": "npcタイプ別の贈り物の好み",
+        "text": "NPCタイプ別の贈り物の好み"
+      },
+      {
+        "id": "npc関係構築のヒント",
+        "text": "NPC関係構築のヒント"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "crafting:ja:crafting-guide": [
+      {
+        "id": "kynseed-でのクラフト入門",
+        "text": "Kynseed でのクラフト入門"
+      },
+      {
+        "id": "クラフトに必要な基本資源",
+        "text": "クラフトに必要な基本資源"
+      },
+      {
+        "id": "レシピカテゴリの理解",
+        "text": "レシピカテゴリの理解"
+      },
+      {
+        "id": "クラフト品質と資源効率",
+        "text": "クラフト品質と資源効率"
+      },
+      {
+        "id": "高度なクラフトテクニック",
+        "text": "高度なクラフトテクニック"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "crafting:ja:gem-guide": [
+      {
+        "id": "kynseedの宝石入門",
+        "text": "Kynseedの宝石入門"
+      },
+      {
+        "id": "一般的な宝石の種類とその特性",
+        "text": "一般的な宝石の種類とその特性"
+      },
+      {
+        "id": "レアおよびレジェンド級の宝石",
+        "text": "レアおよびレジェンド級の宝石"
+      },
+      {
+        "id": "宝石の入手方法",
+        "text": "宝石の入手方法"
+      },
+      {
+        "id": "宝石を使ったジュエリークラフト",
+        "text": "宝石を使ったジュエリークラフト"
+      },
+      {
+        "id": "戦略的な宝石の選択",
+        "text": "戦略的な宝石の選択"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "crafting:ja:ingredient-guide": [
+      {
+        "id": "日常素材の採取ルート",
+        "text": "日常素材の採取ルート"
+      },
+      {
+        "id": "採掘ガイド鉱石ノードと宝石鉱床",
+        "text": "採掘ガイド：鉱石ノードと宝石鉱床"
+      },
+      {
+        "id": "採集ガイド季節の出現とレア植物",
+        "text": "採集ガイド：季節の出現とレア植物"
+      },
+      {
+        "id": "狩猟ガイド動物のドロップと追跡",
+        "text": "狩猟ガイド：動物のドロップと追跡"
+      },
+      {
+        "id": "釣りガイドスポットと餌の選択",
+        "text": "釣りガイド：スポットと餌の選択"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "crafting:ja:potion-making": [
+      {
+        "id": "kynseedにおける錬金術の紹介",
+        "text": "Kynseedにおける錬金術の紹介"
+      },
+      {
+        "id": "必須の醸造材料",
+        "text": "必須の醸造材料"
+      },
+      {
+        "id": "基本的な醸造テクニック",
+        "text": "基本的な醸造テクニック"
+      },
+      {
+        "id": "上級ポーションレシピ",
+        "text": "上級ポーションレシピ"
+      },
+      {
+        "id": "志望錬金術師のためのヒント",
+        "text": "志望錬金術師のためのヒント"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "crafting:ja:resource-guide": [
+      {
+        "id": "kynseedにおけるリソースの理解",
+        "text": "Kynseedにおけるリソースの理解"
+      },
+      {
+        "id": "採掘と鉱物リソース",
+        "text": "採掘と鉱物リソース"
+      },
+      {
+        "id": "植物系リソースと採集",
+        "text": "植物系リソースと採集"
+      },
+      {
+        "id": "動物製品と狩猟",
+        "text": "動物製品と狩猟"
+      },
+      {
+        "id": "リソース管理戦略",
+        "text": "リソース管理戦略"
+      },
+      {
+        "id": "効率的な採取テクニック",
+        "text": "効率的な採取テクニック"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "crafting:ja:workbench-guide": [
+      {
+        "id": "作業台--クラフトの中心ステーション",
+        "text": "作業台 — クラフトの中心ステーション"
+      },
+      {
+        "id": "基本ツールと装備",
+        "text": "基本ツールと装備"
+      },
+      {
+        "id": "レシピのカテゴリと整理",
+        "text": "レシピのカテゴリと整理"
+      },
+      {
+        "id": "クラフト品質と成功率",
+        "text": "クラフト品質と成功率"
+      },
+      {
+        "id": "高度な作業台テクニック",
+        "text": "高度な作業台テクニック"
+      },
+      {
+        "id": "メンテナンスとアップグレード",
+        "text": "メンテナンスとアップグレード"
+      },
+      {
+        "id": "作業台マスターへのヒント",
+        "text": "作業台マスターへのヒント"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "dungeons:ja:chest-locations": [
+      {
+        "id": "kynseedの宝箱の種類を理解する",
+        "text": "Kynseedの宝箱の種類を理解する"
+      },
+      {
+        "id": "鉱山最初の宝の源",
+        "text": "鉱山：最初の宝の源"
+      },
+      {
+        "id": "fae-wildsの宝箱の場所",
+        "text": "Fae Wildsの宝箱の場所"
+      },
+      {
+        "id": "沼地ダンジョンの宝箱",
+        "text": "沼地ダンジョンの宝箱"
+      },
+      {
+        "id": "鏡の塔の宝箱",
+        "text": "鏡の塔の宝箱"
+      },
+      {
+        "id": "効率的な宝探し戦略",
+        "text": "効率的な宝探し戦略"
+      },
+      {
+        "id": "プレイスタイル別の宝箱ファーミング",
+        "text": "プレイスタイル別の宝箱ファーミング"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "dungeons:ja:dungeon-guide": [
+      {
+        "id": "初めてのダンジョン遠征の準備",
+        "text": "初めてのダンジョン遠征の準備"
+      },
+      {
+        "id": "廃坑フロアごとの詳細解説",
+        "text": "廃坑：フロアごとの詳細解説"
+      },
+      {
+        "id": "戦闘の基礎と敵の戦術",
+        "text": "戦闘の基礎と敵の戦術"
+      },
+      {
+        "id": "宝物戦利品資源収集",
+        "text": "宝物、戦利品、資源収集"
+      },
+      {
+        "id": "ダンジョン成功のためのヒント",
+        "text": "ダンジョン成功のためのヒント"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "dungeons:ja:gear-check": [
+      {
+        "id": "kynseedダンジョンで装備が重要な理由",
+        "text": "Kynseedダンジョンで装備が重要な理由"
+      },
+      {
+        "id": "ダンジョンランに必要な主要武器と防具",
+        "text": "ダンジョンランに必要な主要武器と防具"
+      },
+      {
+        "id": "ポーション食料消耗品",
+        "text": "ポーション、食料、消耗品"
+      },
+      {
+        "id": "ツールと実用アイテム",
+        "text": "ツールと実用アイテム"
+      },
+      {
+        "id": "ダンジョン別装備構成",
+        "text": "ダンジョン別装備構成"
+      },
+      {
+        "id": "終盤エンドゲーム装備構成",
+        "text": "終盤・エンドゲーム装備構成"
+      },
+      {
+        "id": "緊急回復アイテム",
+        "text": "緊急回復アイテム"
+      },
+      {
+        "id": "装備の耐久度と修理",
+        "text": "装備の耐久度と修理"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "dungeons:ja:regions-guide": [
+      {
+        "id": "kynseed-ダンジョン地域の概要",
+        "text": "Kynseed ダンジョン地域の概要"
+      },
+      {
+        "id": "鉱山最初の降下",
+        "text": "鉱山：最初の降下"
+      },
+      {
+        "id": "深い森の洞窟自然の試練",
+        "text": "深い森の洞窟：自然の試練"
+      },
+      {
+        "id": "沼地濁った深部",
+        "text": "沼地：濁った深部"
+      },
+      {
+        "id": "鏡の塔パズルと戦闘の融合",
+        "text": "鏡の塔：パズルと戦闘の融合"
+      },
+      {
+        "id": "フェイの荒野神秘的な危険",
+        "text": "フェイの荒野：神秘的な危険"
+      },
+      {
+        "id": "冥界エンドゲーム領域",
+        "text": "冥界：エンドゲーム領域"
+      },
+      {
+        "id": "地域比較表",
+        "text": "地域比較表"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "dungeons:ja:ruins-guide": [
+      {
+        "id": "kynseedの遺跡を理解する",
+        "text": "Kynseedの遺跡を理解する"
+      },
+      {
+        "id": "最初の遠征の準備",
+        "text": "最初の遠征の準備"
+      },
+      {
+        "id": "遺跡を安全に進む",
+        "text": "遺跡を安全に進む"
+      },
+      {
+        "id": "戦利品と報酬",
+        "text": "戦利品と報酬"
+      },
+      {
+        "id": "遺跡の秘密とイースターエッグ",
+        "text": "遺跡の秘密とイースターエッグ"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      },
+      {
+        "id": "最後に",
+        "text": "最後に"
+      }
+    ],
+    "dungeons:ja:safe-zones": [
+      {
+        "id": "kynseedにおける安全地帯の理解",
+        "text": "Kynseedにおける安全地帯の理解"
+      },
+      {
+        "id": "アバンダンドマインズの主要な安全地帯",
+        "text": "アバンダンド・マインズの主要な安全地帯"
+      },
+      {
+        "id": "フェイウッズの安全地帯",
+        "text": "フェイ・ウッズの安全地帯"
+      },
+      {
+        "id": "安全地帯のメカニクスと休息システム",
+        "text": "安全地帯のメカニクスと休息システム"
+      },
+      {
+        "id": "上級の安全地帯戦略",
+        "text": "上級の安全地帯戦略"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "lore:ja:creatures-guide": [
+      {
+        "id": "kynseedのクリーチャー入門",
+        "text": "Kynseedのクリーチャー入門"
+      },
+      {
+        "id": "一般的なクリーチャー",
+        "text": "一般的なクリーチャー"
+      },
+      {
+        "id": "ボスクリーチャー",
+        "text": "ボスクリーチャー"
+      },
+      {
+        "id": "テイムしたクリーチャーとコンパニオン",
+        "text": "テイムしたクリーチャーとコンパニオン"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "lore:ja:folklore-guide": [
+      {
+        "id": "kynseedのストーリーラインに根ざすダークな童話",
+        "text": "Kynseedのストーリーラインに根ざすダークな童話"
+      },
+      {
+        "id": "ヴェイルの歴史創設から崩壊まで",
+        "text": "ヴェイルの歴史：創設から崩壊まで"
+      },
+      {
+        "id": "世界イベントと季節の祭りの解説",
+        "text": "世界イベントと季節の祭りの解説"
+      },
+      {
+        "id": "フェイの取引とその結果",
+        "text": "フェイの取引とその結果"
+      },
+      {
+        "id": "伝承がゲームプレイと遺産を形作る方法",
+        "text": "伝承がゲームプレイと遺産を形作る方法"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "lore:ja:game-world": [
+      {
+        "id": "土地の概観kynseedのゲーム世界を探索する",
+        "text": "土地の概観：Kynseedのゲーム世界を探索する"
+      },
+      {
+        "id": "足元の歴史kynseed歴史ガイド",
+        "text": "足元の歴史：Kynseed歴史ガイド"
+      },
+      {
+        "id": "妖精物語と妖精の取引世界を支配する魔法",
+        "text": "妖精物語と妖精の取引：世界を支配する魔法"
+      },
+      {
+        "id": "村の生活とコミュニティkynseed設定の中心",
+        "text": "村の生活とコミュニティ：Kynseed設定の中心"
+      },
+      {
+        "id": "世界の知識がプレイスルーを向上させる方法",
+        "text": "世界の知識がプレイスルーを向上させる方法"
+      },
+      {
+        "id": "生ける遺産kynseedユニバースガイドが重要な理由",
+        "text": "生ける遺産：Kynseedユニバースガイドが重要な理由"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "lore:ja:lore-guide": [
+      {
+        "id": "kynseedの世界観と物語--総合ガイド",
+        "text": "Kynseedの世界観と物語 – 総合ガイド"
+      },
+      {
+        "id": "kynseedの世界とその舞台",
+        "text": "Kynseedの世界とその舞台"
+      },
+      {
+        "id": "メインストーリーとクエスト",
+        "text": "メインストーリーとクエスト"
+      },
+      {
+        "id": "勢力とキャラクター",
+        "text": "勢力とキャラクター"
+      },
+      {
+        "id": "古代の歴史と神話",
+        "text": "古代の歴史と神話"
+      },
+      {
+        "id": "魔法と神秘の要素",
+        "text": "魔法と神秘の要素"
+      },
+      {
+        "id": "主要な場所とその重要性",
+        "text": "主要な場所とその重要性"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "lore:ja:mystical-guide": [
+      {
+        "id": "kynseedの魔法システムの基礎",
+        "text": "Kynseedの魔法システムの基礎"
+      },
+      {
+        "id": "神々のパンテオン神々とその領域",
+        "text": "神々のパンテオン：神々とその領域"
+      },
+      {
+        "id": "妖精の宮廷契約と結果",
+        "text": "妖精の宮廷：契約と結果"
+      },
+      {
+        "id": "土地の精霊幽霊守護者そしてさまよう魂",
+        "text": "土地の精霊：幽霊、守護者、そしてさまよう魂"
+      },
+      {
+        "id": "あなたの遺産のための実践的な神秘戦略",
+        "text": "あなたの遺産のための実践的な神秘戦略"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "lore:ja:thornborough": [
+      {
+        "id": "ソーンボロの建国伝説と神話的ルーツ",
+        "text": "ソーンボロの建国伝説と神話的ルーツ"
+      },
+      {
+        "id": "kynseed年表建国から現代まで",
+        "text": "Kynseed年表：建国から現代まで"
+      },
+      {
+        "id": "ソーンボロの祭り季節の祝祭とその起源",
+        "text": "ソーンボロの祭り：季節の祝祭とその起源"
+      },
+      {
+        "id": "ソーンボロの注目すべきランドマークとその隠された物語",
+        "text": "ソーンボロの注目すべきランドマークとその隠された物語"
+      },
+      {
+        "id": "ソーンボロの伝承がゲームプレイの決定をどう形作るか",
+        "text": "ソーンボロの伝承がゲームプレイの決定をどう形作るか"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "updates:ja:added-content": [
+      {
+        "id": "早期アクセスから製品版リリースへの道のり",
+        "text": "早期アクセスから製品版リリースへの道のり"
+      },
+      {
+        "id": "主要なコンテンツ拡張",
+        "text": "主要なコンテンツ拡張"
+      },
+      {
+        "id": "ゲームプレイシステムのオーバーホール",
+        "text": "ゲームプレイシステムのオーバーホール"
+      },
+      {
+        "id": "生活の質の向上",
+        "text": "生活の質の向上"
+      },
+      {
+        "id": "シーズンイベントと期間限定コンテンツ",
+        "text": "シーズンイベントと期間限定コンテンツ"
+      },
+      {
+        "id": "コミュニティ主導のアップデート",
+        "text": "コミュニティ主導のアップデート"
+      },
+      {
+        "id": "kynseedの今後の展望",
+        "text": "Kynseedの今後の展望"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "updates:ja:dev-updates": [
+      {
+        "id": "kynseed開発の変遷",
+        "text": "Kynseed開発の変遷"
+      },
+      {
+        "id": "主要アップデートのマイルストーン",
+        "text": "主要アップデートのマイルストーン"
+      },
+      {
+        "id": "pixelcount-studiosがフィードバックを収集する方法",
+        "text": "PixelCount Studiosがフィードバックを収集する方法"
+      },
+      {
+        "id": "ロードマップの今後",
+        "text": "ロードマップの今後"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "updates:ja:game-version": [
+      {
+        "id": "kynseedのゲームバージョン履歴と完全リリースのタイムライン",
+        "text": "Kynseedのゲームバージョン履歴と完全リリースのタイムライン"
+      },
+      {
+        "id": "現在のkynseedバージョンを確認する方法",
+        "text": "現在のKynseedバージョンを確認する方法"
+      },
+      {
+        "id": "kynseedの完全リリースで何が変わったか",
+        "text": "Kynseedの完全リリースで何が変わったか"
+      },
+      {
+        "id": "kynseedの最新バージョンと最近のアップデートハイライト",
+        "text": "Kynseedの最新バージョンと最近のアップデートハイライト"
+      },
+      {
+        "id": "kynseedの変更ログがプレイスルーの計画にどう役立つか",
+        "text": "Kynseedの変更ログがプレイスルーの計画にどう役立つか"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "updates:ja:patch-notes": [
+      {
+        "id": "kynseedパッチノート概要2024年のアップデートがもたらしたもの",
+        "text": "Kynseedパッチノート概要：2024年のアップデートがもたらしたもの"
+      },
+      {
+        "id": "最新のkynseedアップデートでの主要機能追加",
+        "text": "最新のKynseedアップデートでの主要機能追加"
+      },
+      {
+        "id": "kynseed新コンテンツ季節イベントと世界拡張",
+        "text": "Kynseed新コンテンツ：季節イベントと世界拡張"
+      },
+      {
+        "id": "最近のパッチでのバランス変更とゲームプレイ調整",
+        "text": "最近のパッチでのバランス変更とゲームプレイ調整"
+      },
+      {
+        "id": "将来のkynseedリリースノートで最新情報を維持する方法",
+        "text": "将来のKynseedリリースノートで最新情報を維持する方法"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ],
+    "updates:ja:quality-of-life": [
+      {
+        "id": "kynseedのユーザーインターフェースの進化",
+        "text": "Kynseedのユーザーインターフェースの進化"
+      },
+      {
+        "id": "農業とクラフトの洗練",
+        "text": "農業とクラフトの洗練"
+      },
+      {
+        "id": "戦闘とダンジョンの生活の質",
+        "text": "戦闘とダンジョンの生活の質"
+      },
+      {
+        "id": "ライフサイクルと関係性の効率化",
+        "text": "ライフサイクルと関係性の効率化"
+      },
+      {
+        "id": "コミュニティ主導の改善",
+        "text": "コミュニティ主導の改善"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      },
+      {
+        "id": "結論",
+        "text": "結論"
+      }
+    ],
+    "updates:ja:roadmap": [
+      {
+        "id": "kynseedのロードマップがどのように進化してきたか",
+        "text": "Kynseedのロードマップがどのように進化してきたか"
+      },
+      {
+        "id": "今後の開発の核となる柱",
+        "text": "今後の開発の核となる柱"
+      },
+      {
+        "id": "コミュニティフィードバックとロードマップ",
+        "text": "コミュニティフィードバックとロードマップ"
+      },
+      {
+        "id": "今後の機能一覧",
+        "text": "今後の機能一覧"
+      },
+      {
+        "id": "次のメジャーアップデートで期待できること",
+        "text": "次のメジャーアップデートで期待できること"
+      },
+      {
+        "id": "タイムラインとマイルストーン",
+        "text": "タイムラインとマイルストーン"
+      },
+      {
+        "id": "情報を得る方法",
+        "text": "情報を得る方法"
+      },
+      {
+        "id": "よくある質問",
+        "text": "よくある質問"
+      }
+    ]
+  }
+}

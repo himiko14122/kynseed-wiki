@@ -1,0 +1,644 @@
+{
+  "categories": {
+    "dungeons": {
+      "min_articles": 5,
+      "keyword_pool": [
+        "dungeon guide",
+        "cave exploration",
+        "abandoned mines",
+        "treasure chests",
+        "dungeon loot",
+        "exploration tips",
+        "ruins guide",
+        "safe zones",
+        "dungeon regions",
+        "gear check",
+        "combat preparation",
+        "treasure hunting"
+      ],
+      "articles": [
+        {
+          "slug": "dungeon-guide",
+          "keywords": ["dungeon guide", "cave exploration", "exploration tips"],
+          "merged_data": null,
+          "metadata": {
+            "id": "dungeon-guide",
+            "slug": "dungeon-guide",
+            "category": "dungeons",
+            "title": "Kynseed Dungeon Guide: Explore Caves and Abandoned Mines",
+            "description": "Master Kynseed dungeons with our comprehensive guide. Learn cave exploration strategies, find treasure chests, and survive the abandoned mines.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["dungeon guide", "cave exploration", "exploration tips"]
+          }
+        },
+        {
+          "slug": "chest-locations",
+          "keywords": ["treasure chests", "dungeon loot", "treasure hunting"],
+          "merged_data": null,
+          "metadata": {
+            "id": "chest-locations",
+            "slug": "chest-locations",
+            "category": "dungeons",
+            "title": "Kynseed Chest Locations: Find Every Treasure in Dungeons",
+            "description": "Discover all Kynseed chest locations in dungeons and caves. Complete treasure hunting guide with specific locations and loot rewards.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["treasure chests", "dungeon loot", "treasure hunting"]
+          }
+        },
+        {
+          "slug": "ruins-guide",
+          "keywords": ["ruins guide", "abandoned mines", "exploration tips"],
+          "merged_data": null,
+          "metadata": {
+            "id": "ruins-guide",
+            "slug": "ruins-guide",
+            "category": "dungeons",
+            "title": "Kynseed Ruins Guide: Navigate Ancient Abandoned Mines",
+            "description": "Navigate Kynseed's ancient ruins safely. Tips for exploring abandoned mines, avoiding traps, and maximizing your loot returns.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["ruins guide", "abandoned mines", "exploration tips"]
+          }
+        },
+        {
+          "slug": "safe-zones",
+          "keywords": ["safe zones", "exploration tips"],
+          "merged_data": null,
+          "metadata": {
+            "id": "safe-zones",
+            "slug": "safe-zones",
+            "category": "dungeons",
+            "title": "Kynseed Safe Zones: Rest Spots in Dungeons and Caves",
+            "description": "Find safe zones within Kynseed dungeons and caves. Know where to rest, save your progress, and recover health during exploration.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["safe zones", "exploration tips"]
+          }
+        },
+        {
+          "slug": "regions-guide",
+          "keywords": ["dungeon regions", "cave exploration", "exploration tips"],
+          "merged_data": null,
+          "metadata": {
+            "id": "regions-guide",
+            "slug": "regions-guide",
+            "category": "dungeons",
+            "title": "Kynseed Dungeon Regions: Explore All Cave Areas",
+            "description": "Explore every Kynseed dungeon region. Complete map of cave areas with difficulty ratings, recommended gear, and unique loot drops.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["dungeon regions", "cave exploration", "exploration tips"]
+          }
+        },
+        {
+          "slug": "gear-check",
+          "keywords": ["gear check", "combat preparation", "dungeon loot"],
+          "merged_data": null,
+          "metadata": {
+            "id": "gear-check",
+            "slug": "gear-check",
+            "category": "dungeons",
+            "title": "Kynseed Dungeon Gear Checklist: Prepare for Exploration",
+            "description": "Essential gear checklist for Kynseed dungeon exploration. Weapons, armor, potions, and tools you need to survive caves and mines.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["gear check", "combat preparation", "dungeon loot"]
+          }
+        }
+      ]
+    },
+    "crafting": {
+      "min_articles": 5,
+      "keyword_pool": [
+        "crafting guide",
+        "crafting system",
+        "potion making",
+        "potions",
+        "resource guide",
+        "resources",
+        "gem guide",
+        "gems",
+        "workbench guide",
+        "workbench"
+      ],
+      "articles": [
+        {
+          "slug": "crafting-guide",
+          "keywords": ["crafting guide", "crafting system"],
+          "merged_data": null,
+          "metadata": {
+            "id": "crafting-guide",
+            "slug": "crafting-guide",
+            "category": "crafting",
+            "title": "Kynseed Crafting Guide: Master the Crafting System",
+            "description": "Master Kynseed's crafting system with our comprehensive guide. Learn recipes, find workbenches, and create powerful items for your adventure.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["crafting guide", "crafting system"]
+          }
+        },
+        {
+          "slug": "potion-making",
+          "keywords": ["potion making", "potions"],
+          "merged_data": null,
+          "metadata": {
+            "id": "potion-making",
+            "slug": "potion-making",
+            "category": "crafting",
+            "title": "Kynseed Potion Making: Brew Powerful Potions",
+            "description": "Learn Kynseed potion making recipes and techniques. Create health, mana, and buff potions to enhance your gameplay experience.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["potion making", "potions"]
+          }
+        },
+        {
+          "slug": "resource-guide",
+          "keywords": ["resource guide", "resources"],
+          "merged_data": null,
+          "metadata": {
+            "id": "resource-guide",
+            "slug": "resource-guide",
+            "category": "crafting",
+            "title": "Kynseed Resource Guide: Gathering and Managing Materials",
+            "description": "Complete Kynseed resource gathering guide. Find all crafting materials, seasonal resources, and tips for efficient collection.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["resource guide", "resources"]
+          }
+        },
+        {
+          "slug": "gem-guide",
+          "keywords": ["gem guide", "gems"],
+          "merged_data": null,
+          "metadata": {
+            "id": "gem-guide",
+            "slug": "gem-guide",
+            "category": "crafting",
+            "title": "Kynseed Gem Guide: Types, Uses, and Crafting Recipes",
+            "description": "Explore all Kynseed gem types and their uses. Learn which gems to use for crafting, upgrades, and selling for maximum profit.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["gem guide", "gems"]
+          }
+        },
+        {
+          "slug": "workbench-guide",
+          "keywords": ["workbench guide", "workbench", "crafting system"],
+          "merged_data": null,
+          "metadata": {
+            "id": "workbench-guide",
+            "slug": "workbench-guide",
+            "category": "crafting",
+            "title": "Kynseed Workbench Guide: Location and Crafting Stations",
+            "description": "Find all Kynseed workbenches and crafting stations. Know which workbenches have what recipes and how to unlock new crafting options.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["workbench guide", "workbench", "crafting system"]
+          }
+        }
+      ]
+    },
+    "guides": {
+      "min_articles": 10,
+      "keyword_pool": [
+        "beginner guide",
+        "walkthrough",
+        "quest guide",
+        "gameplay basics",
+        "save guide",
+        "side quest guide",
+        "complete guide",
+        "game guide",
+        "what to do first",
+        "introduction",
+        "tips and tricks",
+        "new player guide"
+      ],
+      "articles": [
+        {
+          "slug": "gameplay-basics",
+          "keywords": ["gameplay basics", "new player guide", "beginner guide"],
+          "merged_data": null,
+          "metadata": {
+            "id": "gameplay-basics",
+            "slug": "gameplay-basics",
+            "category": "guides",
+            "title": "Kynseed Gameplay Basics: Controls and Core Mechanics",
+            "description": "Learn Kynseed gameplay basics including controls, core mechanics, and essential systems. Perfect starting point for new players.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["gameplay basics", "new player guide", "beginner guide"]
+          }
+        },
+        {
+          "slug": "save-guide",
+          "keywords": ["save guide"],
+          "merged_data": null,
+          "metadata": {
+            "id": "save-guide",
+            "slug": "save-guide",
+            "category": "guides",
+            "title": "Kynseed Save Guide: How to Save Your Progress",
+            "description": "Master Kynseed save mechanics. Learn when and how to save your game, understand auto-save timing, and prevent progress loss.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["save guide"]
+          }
+        },
+        {
+          "slug": "side-quest-guide",
+          "keywords": ["side quest guide", "quest guide"],
+          "merged_data": null,
+          "metadata": {
+            "id": "side-quest-guide",
+            "slug": "side-quest-guide",
+            "category": "guides",
+            "title": "Kynseed Side Quest Guide: All Side Quests and Rewards",
+            "description": "Complete Kynseed side quest guide. Find all side quests, their requirements, and rewards. Maximize your progression with optional content.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["side quest guide", "quest guide"]
+          }
+        },
+        {
+          "slug": "complete-guide",
+          "keywords": ["complete guide", "walkthrough"],
+          "merged_data": null,
+          "metadata": {
+            "id": "complete-guide",
+            "slug": "complete-guide",
+            "category": "guides",
+            "title": "Kynseed Complete Guide: Full Walkthrough and Tips",
+            "description": "Complete Kynseed walkthrough guide covering all major content. From start to finish, learn every quest solution and secret location.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["complete guide", "walkthrough"]
+          }
+        },
+        {
+          "slug": "game-guide",
+          "keywords": ["game guide", "beginner guide"],
+          "merged_data": null,
+          "metadata": {
+            "id": "game-guide",
+            "slug": "game-guide",
+            "category": "guides",
+            "title": "Kynseed Game Guide: Everything You Need to Know",
+            "description": "Comprehensive Kynseed game guide covering all systems. Farming, combat, relationships, and more explained for new players.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["game guide", "beginner guide"]
+          }
+        },
+        {
+          "slug": "what-to-do-first",
+          "keywords": ["what to do first", "beginner guide"],
+          "merged_data": null,
+          "metadata": {
+            "id": "what-to-do-first",
+            "slug": "what-to-do-first",
+            "category": "guides",
+            "title": "Kynseed: What to Do First - Early Game Priorities",
+            "description": "Prioritize your Kynseed early game activities. What to focus on first, which quests to complete, and how to maximize early progress.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["what to do first", "beginner guide"]
+          }
+        },
+        {
+          "slug": "kynseed-introduction",
+          "keywords": ["introduction", "beginner guide"],
+          "merged_data": null,
+          "metadata": {
+            "id": "kynseed-introduction",
+            "slug": "kynseed-introduction",
+            "category": "guides",
+            "title": "Kynseed Introduction: Life Cycle RPG Adventure",
+            "description": "Introduction to Kynseed, the life cycle RPG by PixelCount Studios. Learn about the unique gameplay loop spanning generations.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["introduction", "beginner guide"]
+          }
+        },
+        {
+          "slug": "tips-and-tricks",
+          "keywords": ["tips and tricks", "gameplay basics"],
+          "merged_data": null,
+          "metadata": {
+            "id": "tips-and-tricks",
+            "slug": "tips-and-tricks",
+            "category": "guides",
+            "title": "Kynseed Tips and Tricks: Pro Strategies for Success",
+            "description": "Master Kynseed with advanced tips and tricks. Pro player strategies for farming, combat, relationships, and wealth building.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["tips and tricks", "gameplay basics"]
+          }
+        }
+      ]
+    },
+    "lore": {
+      "min_articles": 5,
+      "keyword_pool": [
+        "lore guide",
+        "story lore",
+        "mythology",
+        "creatures guide",
+        "mystical creatures",
+        "folklore"
+      ],
+      "articles": [
+        {
+          "slug": "lore-guide",
+          "keywords": ["lore guide", "story lore", "mythology"],
+          "merged_data": null,
+          "metadata": {
+            "id": "lore-guide",
+            "slug": "lore-guide",
+            "category": "lore",
+            "title": "Kynseed Lore Guide: Story and World Lore Explained",
+            "description": "Dive deep into Kynseed lore and story. Understand the world-building, mythology, and narrative elements that make up this RPG.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["lore guide", "story lore", "mythology"]
+          }
+        },
+        {
+          "slug": "creatures-guide",
+          "keywords": ["creatures guide", "mystical creatures", "folklore"],
+          "merged_data": null,
+          "metadata": {
+            "id": "creatures-guide",
+            "slug": "creatures-guide",
+            "category": "lore",
+            "title": "Kynseed Creatures Guide: Mythical Beasts and Monsters",
+            "description": "Discover all mystical creatures in Kynseed. Bestiary of monsters, mythical beasts, and wildlife found throughout the game world.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["creatures guide", "mystical creatures", "folklore"]
+          }
+        }
+      ]
+    },
+    "combat": {
+      "min_articles": 5,
+      "keyword_pool": [
+        "combat guide",
+        "combat strategy",
+        "combat styles",
+        "enemy list",
+        "health guide",
+        "magic combat"
+      ],
+      "articles": [
+        {
+          "slug": "health-guide",
+          "keywords": ["health guide", "combat guide"],
+          "merged_data": null,
+          "metadata": {
+            "id": "health-guide",
+            "slug": "health-guide",
+            "category": "combat",
+            "title": "Kynseed Health Guide: HP, Healing, and Damage System",
+            "description": "Understand Kynseed's health and damage systems. Learn HP mechanics, healing methods, and how to survive tough fights.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["health guide", "combat guide"]
+          }
+        },
+        {
+          "slug": "magic-combat",
+          "keywords": ["magic combat", "combat guide", "combat styles"],
+          "merged_data": null,
+          "metadata": {
+            "id": "magic-combat",
+            "slug": "magic-combat",
+            "category": "combat",
+            "title": "Kynseed Magic Combat: Spells, Mana, and Arcane Strategies",
+            "description": "Master Kynseed magic combat. Learn spell combinations, mana management, and arcane strategies for magical combat.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["magic combat", "combat guide", "combat styles"]
+          }
+        }
+      ]
+    },
+    "farming": {
+      "min_articles": 5,
+      "keyword_pool": [
+        "farming guide",
+        "efficient farming",
+        "chicken guide",
+        "animals guide",
+        "crops"
+      ],
+      "articles": [
+        {
+          "slug": "farming-guide",
+          "keywords": ["farming guide", "efficient farming", "crops"],
+          "merged_data": null,
+          "metadata": {
+            "id": "farming-guide",
+            "slug": "farming-guide",
+            "category": "farming",
+            "title": "Kynseed Farming Guide: Efficient Agricultural Methods",
+            "description": "Maximize your Kynseed farm with efficient methods. Crop rotation, seasonal planning, and profit optimization strategies.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["farming guide", "efficient farming", "crops"]
+          }
+        },
+        {
+          "slug": "chicken-guide",
+          "keywords": ["chicken guide", "animals guide"],
+          "merged_data": null,
+          "metadata": {
+            "id": "chicken-guide",
+            "slug": "chicken-guide",
+            "category": "farming",
+            "title": "Kynseed Chicken Guide: Raising Chickens for Profit",
+            "description": "Complete guide to raising chickens in Kynseed. Breeding tips, egg production, and how to maximize profit from poultry farming.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["chicken guide", "animals guide"]
+          }
+        }
+      ]
+    },
+    "relationships": {
+      "min_articles": 5,
+      "keyword_pool": [
+        "relationship guide",
+        "NPCs",
+        "friendship",
+        "special NPCs",
+        "dialogue"
+      ],
+      "articles": [
+        {
+          "slug": "special-npcs",
+          "keywords": ["special NPCs", "relationship guide", "NPCs"],
+          "merged_data": null,
+          "metadata": {
+            "id": "special-npcs",
+            "slug": "special-npcs",
+            "category": "relationships",
+            "title": "Kynseed Special NPCs: Unique Characters and Their Quests",
+            "description": "Meet all special NPCs in Kynseed. Learn about unique characters, their storylines, gift preferences, and special questlines.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["special NPCs", "relationship guide", "NPCs"]
+          }
+        }
+      ]
+    },
+    "updates": {
+      "min_articles": 5,
+      "keyword_pool": [
+        "game updates",
+        "patch notes",
+        "new content",
+        "roadmap",
+        "developer updates",
+        "quality of life"
+      ],
+      "articles": [
+        {
+          "slug": "added-content",
+          "keywords": ["new content", "game updates"],
+          "merged_data": null,
+          "metadata": {
+            "id": "added-content",
+            "slug": "added-content",
+            "category": "updates",
+            "title": "Kynseed New Content: Updates and Added Features",
+            "description": "Discover all new Kynseed content added through updates. Complete changelog of new features, areas, and gameplay additions.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["new content", "game updates"]
+          }
+        },
+        {
+          "slug": "roadmap",
+          "keywords": ["roadmap", "game updates"],
+          "merged_data": null,
+          "metadata": {
+            "id": "roadmap",
+            "slug": "roadmap",
+            "category": "updates",
+            "title": "Kynseed Roadmap: Future Plans and Development Updates",
+            "description": "Kynseed development roadmap and future plans. What the developers have planned, upcoming features, and community announcements.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["roadmap", "game updates"]
+          }
+        },
+        {
+          "slug": "dev-updates",
+          "keywords": ["developer updates", "game updates"],
+          "merged_data": null,
+          "metadata": {
+            "id": "dev-updates",
+            "slug": "dev-updates",
+            "category": "updates",
+            "title": "Kynseed Developer Updates: Community News and Announcements",
+            "description": "Stay updated with Kynseed developer news. Community letters, development progress, and official announcements from PixelCount Studios.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["developer updates", "game updates"]
+          }
+        },
+        {
+          "slug": "quality-of-life",
+          "keywords": ["quality of life", "game updates"],
+          "merged_data": null,
+          "metadata": {
+            "id": "quality-of-life",
+            "slug": "quality-of-life",
+            "category": "updates",
+            "title": "Kynseed Quality of Life: Improvements and Enhancements",
+            "description": "Kynseed quality of life improvements. UI enhancements, accessibility features, and gameplay refinements in recent updates.",
+            "image": "",
+            "video": "",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": ["quality of life", "game updates"]
+          }
+        }
+      ]
+    },
+    "business": {
+      "min_articles": 5,
+      "keyword_pool": [
+        "business guide",
+        "business management",
+        "shop upgrades",
+        "food recipes",
+        "making money",
+        "profit maximization"
+      ],
+      "articles": []
+    }
+  }
+}

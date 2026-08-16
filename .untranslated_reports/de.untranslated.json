@@ -1,0 +1,21 @@
+{
+  "locale": "de",
+  "note": "must-translate keys that the LLM left in English after retry; require human/agent handling",
+  "untranslated": {
+    "theme_system": "System",
+    "nav_sitemap": "Sitemap",
+    "home_info_genre": "Genre",
+    "footer_community": "Community",
+    "sitemap_title": "Sitemap",
+    "home_module_gameplay": "Gameplay",
+    "home_module_updates": "Updates",
+    "home_module_updates_stat2": "Update",
+    "home_module_community": "Community",
+    "nav_gameplay": "Gameplay",
+    "nav_updates": "Updates",
+    "nav_community": "Community",
+    "guide_category_gameplay": "Gameplay",
+    "guide_category_updates": "Updates",
+    "guide_category_community": "Community"
+  }
+}

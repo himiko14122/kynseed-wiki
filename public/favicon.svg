@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFD27D" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#FFD27D" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="acornGlow" cx="50%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#FFD27D" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#FFD27D" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <!-- Background: deep forest green -->
+  <rect width="512" height="512" rx="96" fill="#1A2416"/>
+
+  <!-- Glow effect behind acorn -->
+  <ellipse cx="256" cy="280" rx="120" ry="140" fill="url(#acornGlow)"/>
+
+  <!-- Leaves - left -->
+  <path d="M140 240 Q120 200 140 180 Q160 200 160 240 Z" fill="#5D8B4A"/>
+  <path d="M145 235 Q130 210 145 195 Q155 210 155 235 Z" fill="#7CB342"/>
+
+  <!-- Leaves - right -->
+  <path d="M372 240 Q392 200 372 180 Q352 200 352 240 Z" fill="#5D8B4A"/>
+  <path d="M367 235 Q382 210 367 195 Q357 210 357 235 Z" fill="#7CB342"/>
+
+  <!-- Vine left -->
+  <path d="M140 280 Q120 300 130 330 Q140 360 160 350" stroke="#5D8B4A" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <!-- Vine right -->
+  <path d="M372 280 Q392 300 382 330 Q372 360 352 350" stroke="#5D8B4A" stroke-width="8" fill="none" stroke-linecap="round"/>
+
+  <!-- Acorn cap (top part) -->
+  <path d="M176 200 Q176 160 256 160 Q336 160 336 200 L336 230 Q336 250 316 250 L196 250 Q176 250 176 230 Z" fill="#3D2817"/>
+  <!-- Cap texture lines -->
+  <path d="M196 180 L196 230 M236 175 L236 230 M276 175 L276 230 M316 180 L316 230" stroke="#2A1A0F" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Acorn cap decorative ring -->
+  <ellipse cx="256" cy="200" rx="80" ry="20" fill="#4A3520" opacity="0.6"/>
+
+  <!-- Acorn body -->
+  <path d="M176 230 Q176 250 196 260 L196 380 Q196 420 256 420 Q316 420 316 380 L316 260 Q316 250 336 230 Q336 200 256 200 Q176 200 176 230 Z" fill="#C4956A"/>
+
+  <!-- Acorn highlight -->
+  <path d="M200 250 Q200 280 220 300 Q200 350 210 380 Q196 380 196 300 Q176 260 200 250 Z" fill="#D4A57A" opacity="0.7"/>
+
+  <!-- Acorn shadow -->
+  <path d="M280 280 Q310 320 300 370 Q300 380 285 380 Q295 340 285 300 Q280 270 280 280 Z" fill="#A67B4A" opacity="0.5"/>
+
+  <!-- Sparkle/star top -->
+  <path d="M256 100 L260 120 L280 124 L260 128 L256 148 L252 128 L232 124 L252 120 Z" fill="#FFD27D"/>
+  <circle cx="256" cy="124" r="6" fill="#FFFFFF"/>
+
+  <!-- Small sparkles -->
+  <circle cx="180" cy="140" r="4" fill="#FFD27D" opacity="0.8"/>
+  <circle cx="332" cy="140" r="4" fill="#FFD27D" opacity="0.8"/>
+  <circle cx="140" cy="200" r="3" fill="#FFFFFF" opacity="0.6"/>
+  <circle cx="372" cy="200" r="3" fill="#FFFFFF" opacity="0.6"/>
+</svg>

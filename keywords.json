@@ -1,0 +1,823 @@
+{
+  "schema": "format_b",
+  "game_slug": "kynseed",
+  "categories": {
+    "updates": {
+      "min_articles": 4,
+      "min_words": 1600,
+      "articles": [
+        {
+          "slug": "added-content",
+          "keywords": [
+            "Kynseed new content",
+            "Kynseed updates",
+            "Kynseed patches",
+            "Kynseed new features",
+            "Kynseed latest patch notes"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "added-content",
+            "slug": "added-content",
+            "category": "updates",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed new content",
+              "Kynseed updates",
+              "Kynseed patches",
+              "Kynseed new features",
+              "Kynseed latest patch notes"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "roadmap",
+          "keywords": [
+            "Kynseed roadmap",
+            "Kynseed future updates",
+            "Kynseed development plans",
+            "Kynseed upcoming features",
+            "Kynseed planned content"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "roadmap",
+            "slug": "roadmap",
+            "category": "updates",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed roadmap",
+              "Kynseed future updates",
+              "Kynseed development plans",
+              "Kynseed upcoming features",
+              "Kynseed planned content"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "dev-updates",
+          "keywords": [
+            "Kynseed developer updates",
+            "Kynseed dev diary",
+            "Kynseed community updates",
+            "Kynseed studio news",
+            "Kynseed PixelCount news"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "dev-updates",
+            "slug": "dev-updates",
+            "category": "updates",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed developer updates",
+              "Kynseed dev diary",
+              "Kynseed community updates",
+              "Kynseed studio news",
+              "Kynseed PixelCount news"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "quality-of-life",
+          "keywords": [
+            "Kynseed quality of life",
+            "Kynseed QOL improvements",
+            "Kynseed usability",
+            "Kynseed accessibility",
+            "Kynseed interface improvements"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "quality-of-life",
+            "slug": "quality-of-life",
+            "category": "updates",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed quality of life",
+              "Kynseed QOL improvements",
+              "Kynseed usability",
+              "Kynseed accessibility",
+              "Kynseed interface improvements"
+            ],
+            "image": "",
+            "video": ""
+          }
+        }
+      ]
+    },
+    "dungeons": {
+      "min_articles": 6,
+      "min_words": 1600,
+      "articles": [
+        {
+          "slug": "dungeon-guide",
+          "keywords": [
+            "Kynseed dungeon guide",
+            "Kynseed dungeons",
+            "Kynseed dungeon exploration",
+            "Kynseed dungeon tips",
+            "Kynseed dungeon strategy"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "dungeon-guide",
+            "slug": "dungeon-guide",
+            "category": "dungeons",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed dungeon guide",
+              "Kynseed dungeons",
+              "Kynseed dungeon exploration",
+              "Kynseed dungeon tips",
+              "Kynseed dungeon strategy"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "chest-locations",
+          "keywords": [
+            "Kynseed chest locations",
+            "Kynseed treasure chests",
+            "Kynseed dungeon loot",
+            "Kynseed chest farming",
+            "Kynseed treasure locations"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "chest-locations",
+            "slug": "chest-locations",
+            "category": "dungeons",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed chest locations",
+              "Kynseed treasure chests",
+              "Kynseed dungeon loot",
+              "Kynseed chest farming",
+              "Kynseed treasure locations"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "ruins-guide",
+          "keywords": [
+            "Kynseed ruins guide",
+            "Kynseed ancient ruins",
+            "Kynseed ruins exploration",
+            "Kynseed ruins secrets",
+            "Kynseed ruins locations"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "ruins-guide",
+            "slug": "ruins-guide",
+            "category": "dungeons",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed ruins guide",
+              "Kynseed ancient ruins",
+              "Kynseed ruins exploration",
+              "Kynseed ruins secrets",
+              "Kynseed ruins locations"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "safe-zones",
+          "keywords": [
+            "Kynseed safe zones",
+            "Kynseed rest areas",
+            "Kynseed sanctuaries",
+            "Kynseed dungeon safe spots",
+            "Kynseed shelter locations"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "safe-zones",
+            "slug": "safe-zones",
+            "category": "dungeons",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed safe zones",
+              "Kynseed rest areas",
+              "Kynseed sanctuaries",
+              "Kynseed dungeon safe spots",
+              "Kynseed shelter locations"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "regions-guide",
+          "keywords": [
+            "Kynseed regions guide",
+            "Kynseed dungeon regions",
+            "Kynseed biomes",
+            "Kynseed exploration zones",
+            "Kynseed map regions"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "regions-guide",
+            "slug": "regions-guide",
+            "category": "dungeons",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed regions guide",
+              "Kynseed dungeon regions",
+              "Kynseed biomes",
+              "Kynseed exploration zones",
+              "Kynseed map regions"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "gear-check",
+          "keywords": [
+            "Kynseed gear check",
+            "Kynseed dungeon equipment",
+            "Kynseed best gear",
+            "Kynseed dungeon preparation",
+            "Kynseed equipment guide"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "gear-check",
+            "slug": "gear-check",
+            "category": "dungeons",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed gear check",
+              "Kynseed dungeon equipment",
+              "Kynseed best gear",
+              "Kynseed dungeon preparation",
+              "Kynseed equipment guide"
+            ],
+            "image": "",
+            "video": ""
+          }
+        }
+      ]
+    },
+    "combat": {
+      "min_articles": 2,
+      "min_words": 1600,
+      "articles": [
+        {
+          "slug": "health-guide",
+          "keywords": [
+            "Kynseed health system",
+            "Kynseed damage types",
+            "Kynseed healing mechanics",
+            "Kynseed hit points",
+            "Kynseed damage calculation"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "health-guide",
+            "slug": "health-guide",
+            "category": "combat",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed health system",
+              "Kynseed damage types",
+              "Kynseed healing mechanics",
+              "Kynseed hit points",
+              "Kynseed damage calculation"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "magic-combat",
+          "keywords": [
+            "Kynseed magic combat",
+            "Kynseed spells",
+            "Kynseed magic system",
+            "Kynseed elemental magic",
+            "Kynseed spell casting"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "magic-combat",
+            "slug": "magic-combat",
+            "category": "combat",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed magic combat",
+              "Kynseed spells",
+              "Kynseed magic system",
+              "Kynseed elemental magic",
+              "Kynseed spell casting"
+            ],
+            "image": "",
+            "video": ""
+          }
+        }
+      ]
+    },
+    "farming": {
+      "min_articles": 2,
+      "min_words": 1600,
+      "articles": [
+        {
+          "slug": "farming-guide",
+          "keywords": [
+            "Kynseed farming guide",
+            "Kynseed crops",
+            "Kynseed agriculture",
+            "Kynseed farm management",
+            "Kynseed farming tips"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "farming-guide",
+            "slug": "farming-guide",
+            "category": "farming",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed farming guide",
+              "Kynseed crops",
+              "Kynseed agriculture",
+              "Kynseed farm management",
+              "Kynseed farming tips"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "chicken-guide",
+          "keywords": [
+            "Kynseed chicken guide",
+            "Kynseed raising chickens",
+            "Kynseed poultry farming",
+            "Kynseed chicken care",
+            "Kynseed eggs"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "chicken-guide",
+            "slug": "chicken-guide",
+            "category": "farming",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed chicken guide",
+              "Kynseed raising chickens",
+              "Kynseed poultry farming",
+              "Kynseed chicken care",
+              "Kynseed eggs"
+            ],
+            "image": "",
+            "video": ""
+          }
+        }
+      ]
+    },
+    "relationships": {
+      "min_articles": 1,
+      "min_words": 1600,
+      "articles": [
+        {
+          "slug": "special-npcs",
+          "keywords": [
+            "Kynseed special NPCs",
+            "Kynseed unique NPCs",
+            "Kynseed NPC guide",
+            "Kynseed important NPCs",
+            "Kynseed named characters"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "special-npcs",
+            "slug": "special-npcs",
+            "category": "relationships",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed special NPCs",
+              "Kynseed unique NPCs",
+              "Kynseed NPC guide",
+              "Kynseed important NPCs",
+              "Kynseed named characters"
+            ],
+            "image": "",
+            "video": ""
+          }
+        }
+      ]
+    },
+    "lore": {
+      "min_articles": 2,
+      "min_words": 1600,
+      "articles": [
+        {
+          "slug": "creatures-guide",
+          "keywords": [
+            "Kynseed creatures guide",
+            "Kynseed monsters",
+            "Kynseed mystical creatures",
+            "Kynseed wildlife",
+            "Kynseed creature types"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "creatures-guide",
+            "slug": "creatures-guide",
+            "category": "lore",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed creatures guide",
+              "Kynseed monsters",
+              "Kynseed mystical creatures",
+              "Kynseed wildlife",
+              "Kynseed creature types"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "lore-guide",
+          "keywords": [
+            "Kynseed lore guide",
+            "Kynseed story",
+            "Kynseed mythology",
+            "Kynseed world lore",
+            "Kynseed history"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "lore-guide",
+            "slug": "lore-guide",
+            "category": "lore",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed lore guide",
+              "Kynseed story",
+              "Kynseed mythology",
+              "Kynseed world lore",
+              "Kynseed history"
+            ],
+            "image": "",
+            "video": ""
+          }
+        }
+      ]
+    },
+    "guides": {
+      "min_articles": 8,
+      "min_words": 1600,
+      "articles": [
+        {
+          "slug": "gameplay-basics",
+          "keywords": [
+            "Kynseed guide",
+            "Kynseed tips",
+            "Kynseed gameplay",
+            "Kynseed walkthrough",
+            "Kynseed basics"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "gameplay-basics",
+            "slug": "gameplay-basics",
+            "category": "guides",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed guide",
+              "Kynseed tips",
+              "Kynseed gameplay",
+              "Kynseed walkthrough",
+              "Kynseed basics"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "save-guide",
+          "keywords": [
+            "Kynseed guide",
+            "Kynseed save guide",
+            "Kynseed tips",
+            "Kynseed gameplay",
+            "Kynseed save system"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "save-guide",
+            "slug": "save-guide",
+            "category": "guides",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed guide",
+              "Kynseed save guide",
+              "Kynseed tips",
+              "Kynseed gameplay",
+              "Kynseed save system"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "side-quest-guide",
+          "keywords": [
+            "Kynseed guide",
+            "Kynseed side quests",
+            "Kynseed tips",
+            "Kynseed walkthrough",
+            "Kynseed quests"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "side-quest-guide",
+            "slug": "side-quest-guide",
+            "category": "guides",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed guide",
+              "Kynseed side quests",
+              "Kynseed tips",
+              "Kynseed walkthrough",
+              "Kynseed quests"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "complete-guide",
+          "keywords": [
+            "Kynseed guide",
+            "Kynseed complete guide",
+            "Kynseed tips",
+            "Kynseed walkthrough",
+            "Kynseed full guide"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "complete-guide",
+            "slug": "complete-guide",
+            "category": "guides",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed guide",
+              "Kynseed complete guide",
+              "Kynseed tips",
+              "Kynseed walkthrough",
+              "Kynseed full guide"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "game-guide",
+          "keywords": [
+            "Kynseed guide",
+            "Kynseed game guide",
+            "Kynseed tips",
+            "Kynseed gameplay",
+            "Kynseed overview"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "game-guide",
+            "slug": "game-guide",
+            "category": "guides",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed guide",
+              "Kynseed game guide",
+              "Kynseed tips",
+              "Kynseed gameplay",
+              "Kynseed overview"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "what-to-do-first",
+          "keywords": [
+            "Kynseed guide",
+            "Kynseed beginner",
+            "Kynseed tips",
+            "Kynseed first steps",
+            "Kynseed getting started"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "what-to-do-first",
+            "slug": "what-to-do-first",
+            "category": "guides",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed guide",
+              "Kynseed beginner",
+              "Kynseed tips",
+              "Kynseed first steps",
+              "Kynseed getting started"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "kynseed-introduction",
+          "keywords": [
+            "Kynseed guide",
+            "Kynseed introduction",
+            "Kynseed tips",
+            "Kynseed walkthrough",
+            "Kynseed overview"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "kynseed-introduction",
+            "slug": "kynseed-introduction",
+            "category": "guides",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed guide",
+              "Kynseed introduction",
+              "Kynseed tips",
+              "Kynseed walkthrough",
+              "Kynseed overview"
+            ],
+            "image": "",
+            "video": ""
+          }
+        },
+        {
+          "slug": "tips-and-tricks",
+          "keywords": [
+            "Kynseed guide",
+            "Kynseed tips",
+            "Kynseed tricks",
+            "Kynseed gameplay",
+            "Kynseed advanced tips"
+          ],
+          "merged_data": {
+            "youtube": [],
+            "web": [],
+            "internal_links_pool": []
+          },
+          "metadata": {
+            "id": "tips-and-tricks",
+            "slug": "tips-and-tricks",
+            "category": "guides",
+            "date": "2026-08-16",
+            "lastModified": "2026-08-16",
+            "keywords": [
+              "Kynseed guide",
+              "Kynseed tips",
+              "Kynseed tricks",
+              "Kynseed gameplay",
+              "Kynseed advanced tips"
+            ],
+            "image": "",
+            "video": ""
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "British Railway Wiki",
+  "short_name": "British Railway",
+  "description": "The complete British Railway Roblox wiki — train classes, routes, stations, guard & driver gameplay, economy guides, tier lists and update news.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c1424",
+  "theme_color": "#14213d",
+  "icons": [
+    { "src": "/favicon-96x96.png", "sizes": "96x96", "type": "image/png" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

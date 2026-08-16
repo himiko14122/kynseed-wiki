@@ -1,0 +1,242 @@
+export const metadata = {
+    id: "health-guide",
+    slug: "health-guide",
+    title: "Kynseed Health Guide: HP and Damage System",
+    description: "Master Kynseed's health and damage systems. Learn HP mechanics, healing methods, and how to survive tough fights.",
+    keywords: ["Kynseed health guide", "Kynseed HP", "Kynseed damage system", "Kynseed healing"],
+    category: "combat",
+    date: "2026-08-16",
+    lastModified: "2026-08-16",
+    image: "/images/combat/hcPWS06NSMM.webp",
+    video: "hcPWS06NSMM"
+
+};
+
+Every aspiring villager in the world of Kynseed eventually faces the same harsh truth: the quaint countryside is far more dangerous than it looks. Whether you're getting clawed by a **Spitfire Sprite** in the Whispering Woods or taking a surprise arrow from a bandit near the old mill, understanding how **HP** works is the difference between a long, prosperous life and a very short one. This guide breaks down the entire **health system** — from base mechanics to advanced survival tactics — so you can explore every corner of the map without fear.
+
+If you're brand new to the game, we recommend checking out our [beginner's survival guide](/en/guides/beginner-walkthrough/) first, then coming back here for the deep dive on **damage** and recovery.
+
+---
+
+## Understanding Kynseed's Health System
+
+Kynseed doesn't use a traditional RPG stat screen. Your **health** is represented by a row of small heart icons in the bottom-left corner of your HUD. Each full heart equals 5 **HP**, and hearts can be partially depleted, giving you a granular view of exactly how much punishment you can take before collapsing.
+
+### Base HP and Max HP
+
+When you first wake up in your grandfather's cottage, you start with a **base HP** of 50, which translates to 10 full hearts. This number is not static. As you progress through the game, you can increase your **Max HP** through various means — some permanent, some temporary. Your current **HP** can never exceed your **Max HP**, so managing both values is crucial for tougher encounters.
+
+The relationship between hearts and HP is simple:
+
+| Display | Actual HP | Notes |
+|---------|-----------|-------|
+| 1 Heart | 5 HP | Minimum visible increment |
+| 5 Hearts | 25 HP | Roughly half your starting pool |
+| 10 Hearts | 50 HP | Starting Max HP |
+| 15 Hearts | 75 HP | Achievable mid-game |
+| 20 Hearts | 100 HP | Near end-game potential |
+
+### How Damage Works
+
+When an enemy hits you, the game subtracts a flat amount of **damage** from your current **HP**. There's no damage variance or critical hit multiplier in the base game — a **Spitfire Sprite** always deals the same 6 damage, for example. However, external factors like **armor** and **status effects** can modify the final number.
+
+Damage is applied instantly, and if your **HP** reaches zero, you'll collapse and wake up at the last **hearth** you rested at, losing a small percentage of your carried currency. You do not lose items or progress, but the setback can be annoying, especially if you were deep in a dungeon.
+
+---
+
+## Damage Types and Sources
+
+Not all damage is created equal. Kynseed categorizes **damage** into several types, and knowing which one you're facing helps you prepare the right countermeasures.
+
+### Combat Damage
+
+The most common source of **HP** loss comes from enemy attacks. Each enemy in Kynseed has a specific **damage profile**:
+
+| Enemy Type | Damage Dealt | Attack Pattern | Best Defense |
+|------------|-------------|----------------|--------------|
+| Spitfire Sprite | 6 | Ranged spit, 2-hit combo | Shield block |
+| Bandit | 10 | Melee slash, lunges | Dodge roll |
+| Boar | 12 | Charge attack | Side-step |
+| Wisp | 8 | Teleport + melee | Keep moving |
+| Cave Troll | 20 | Heavy slam, AoE | Distance + bow |
+
+**Combat damage** can be mitigated with **armor**, which we'll cover in detail later. It's also the only damage type that triggers **knockback**, which can push you into hazards if you're not careful.
+
+### Environmental Damage
+
+The world of Kynseed is beautiful, but it's also full of hazards. **Environmental damage** comes from sources like:
+
+- **Spike traps** in ruins and dungeons (deals 15 damage)
+
+- **Fire pits** and torches (deals 5 damage per tick)
+
+- **Falling** from high ledges (deals 10-25 damage depending on height)
+
+- **Poison water** in the swamp (deals 3 damage per second)
+
+Environmental damage ignores **armor** entirely, so the only way to reduce it is through **damage resistance** consumables or simply avoiding the hazard altogether.
+
+### Status Effects
+
+Some enemies and environmental sources apply **status effects** that deal damage over time or impair your abilities:
+
+| Status Effect | Duration | Effect | Counter |
+|---------------|----------|--------|---------|
+| Poison | 5s | 2 HP per second | Antidote |
+| Burn | 3s | 3 HP per second | Water / roll |
+| Slow | 4s | Reduced move speed | None (wait) |
+| Stun | 2s | Cannot act | None (wait) |
+
+Status effects are particularly dangerous because they bypass your **defense** and continue draining **HP** even after you've escaped the enemy. Always carry a few **remedies** when exploring poison-heavy zones like the **Mirewood**.
+
+---
+
+## Healing Methods
+
+Running out of **HP** is inevitable, but dying doesn't have to be. Kynseed offers multiple ways to restore **health**, each with its own advantages and drawbacks.
+
+### Food and Consumables
+
+The most accessible healing method is **food**. Nearly every cooked dish in Kynseed restores some **HP**, and many also provide temporary buffs. Raw ingredients like berries and mushrooms restore small amounts, while cooked meals offer significantly better recovery.
+
+| Item | HP Restored | Buff | Acquisition |
+|------|-------------|------|-------------|
+| Wild Berries | 5 | None | Foraging |
+| Bread | 10 | None | Bakery |
+| Hearty Stew | 25 | +5 Max HP (10 min) | Cooking |
+| Golden Apple | 50 | Full heal over time | Rare tree |
+| Fish Pie | 30 | +10 Stamina | Cooking |
+
+**Food** is your go-to healing source in the early game because it's cheap and abundant. However, eating too much in a short window gives you the **Stuffed** debuff, which slows your movement. Plan your meals carefully during prolonged fights.
+
+### Resting and Sleep
+
+The most reliable way to fully restore your **HP** is to **rest**. Sleeping in your own bed, renting a room at an inn, or even napping on a bench will restore your **HP** to full and clear most negative **status effects**.
+
+| Resting Spot | Cost | HP Restored | Additional Effects |
+|--------------|------|-------------|-------------------|
+| Your bed | Free | 100% | Saves game |
+| Inn room | 20 Gold | 100% | Saves game |
+| Campfire | Free | 50% | Requires firewood |
+| Bench | Free | 25% | None |
+
+**Resting** also advances time, so you'll need to balance the need for **healing** against the risk of missing a shop's opening hours or a time-sensitive quest.
+
+### Potions and Remedies
+
+For combat-heavy expeditions, **potions** are your best friend. Unlike **food**, potions can be consumed instantly without the **Stuffed** debuff, making them ideal for mid-fight recovery.
+
+- **Small Healing Potion**: Restores 20 HP. Crafted with 2 Red Petals + 1 Water.
+
+- **Large Healing Potion**: Restores 50 HP. Crafted with 3 Red Petals + 2 Water + 1 Honey.
+
+- **Antidote**: Cures poison. Crafted with 1 Blue Petal + 1 Water.
+
+- **Elixir of Life**: Fully restores HP and removes all debuffs. Rare drop from dungeon bosses.
+
+Potions are crafted at a **cauldron** or purchased from the apothecary in **Poppybrook**. They're more expensive than **food** but far more effective in emergency situations.
+
+---
+
+## Surviving Tough Fights
+
+Knowing how to heal is only half the battle. To truly master Kynseed's **combat**, you need to understand how to avoid damage in the first place and how to maximize your survivability.
+
+### Combat Strategies
+
+Kynseed's combat is action-based, meaning positioning and timing matter more than raw stats. Here are some core strategies to keep your **HP** bar full:
+
+1. **Learn enemy tells**: Every enemy telegraphs its attacks with a brief wind-up animation. Learn these tells and dodge accordingly.
+2. **Use your shield**: Holding block reduces incoming **damage** by 70%, but drains **stamina**. Don't hold it indefinitely.
+3. **Dodge roll**: The dodge roll grants brief invincibility frames. Use it to pass through enemy attacks rather than away from them.
+4. **Kite with ranged weapons**: The bow and slingshot let you deal **damage** from a safe distance. This is especially effective against melee-only enemies.
+
+### Armor and Defense
+
+**Armor** is the most direct way to reduce incoming **damage**. Each armor piece has a **defense** value that subtracts from the raw **damage** of an enemy attack. For example, if an enemy deals 10 **damage** and you have 4 **defense**, you only take 6 **HP** of damage.
+
+| Armor Set | Total Defense | Set Bonus | Location |
+|-----------|--------------|-----------|----------|
+| Leather | 3 | +10% move speed | Starter / Crafted |
+| Iron | 6 | +20% knockback resistance | Blacksmith |
+| Silver | 9 | +15% damage reflection | Late-game dungeon |
+| Fae | 12 | +25% stamina regen | Secret boss drop |
+
+Armor pieces can be upgraded at the **blacksmith** using ores and gold. Upgrading increases the **defense** value but also increases the weight, which slightly reduces your movement speed.
+
+### Stamina Management
+
+**Stamina** is the blue bar directly below your **HP**. Every attack, dodge roll, and shield block consumes **stamina**. If you run out, you'll be unable to act for a few seconds, leaving you completely vulnerable.
+
+Here's how to keep your **stamina** healthy:
+
+- **Don't spam attacks**: Chain combos only when you're confident you'll land hits.
+
+- **Use light attacks for chip damage**: Heavy attacks deal more **damage** but cost double the **stamina**.
+
+- **Take breaks**: When your **stamina** drops below 30%, disengage and let it regenerate.
+
+- **Eat stamina foods**: Dishes like **Fish Pie** and **Honey Tea** provide temporary **stamina** regen buffs.
+
+Managing **stamina** effectively is often more important than managing **HP** — a player with full **HP** but zero **stamina** is just a target waiting to be hit.
+
+---
+
+## HP Progression and Upgrades
+
+Your starting **Max HP** of 50 won't carry you through the late game. Fortunately, Kynseed offers several ways to permanently increase your **health pool**.
+
+### Increasing Max HP
+
+There are three primary methods to permanently raise your **Max HP**:
+
+| Method | HP Gained | How to Obtain |
+|--------|-----------|---------------|
+| Hearty Meals | +1 | Eat 10 unique cooked dishes |
+| Shrine Offerings | +5 | Offer rare items at woodland shrines |
+| Skill Tree | +10 | Invest points in the Vigor branch |
+
+The **Shrine Offerings** are the most reliable long-term method. Scattered across the map are small stone shrines where you can offer items in exchange for permanent **Max HP** boosts. Each shrine accepts a different item type, so experiment or consult the shrine guide for exact locations.
+
+The **Vigor** skill tree is unlocked after completing the main questline's first act. Each point invested grants +2 **Max HP**, and there are five points available, for a total of +10 **HP**.
+
+### Regeneration Mechanics
+
+In addition to active **healing**, Kynseed features a passive **regeneration** mechanic. When you're out of combat for 10 seconds, your **HP** begins regenerating at a rate of 1 HP per 2 seconds. This is slow, but it means you don't always need to burn through your **food** supply after a minor scuffle.
+
+Certain items and buffs improve this **regeneration**:
+
+- **Hearty Stew**: Doubles passive regen for 10 minutes.
+
+- **Fae Armor Set**: Triples passive regen when worn.
+
+- **Campfire Buff**: Resting at a campfire grants +50% regen for 5 minutes.
+
+Passive **regeneration** is a quality-of-life feature rather than a combat strategy. In a boss fight, you won't have time to wait 10 seconds for the regen to kick in, so always have **potions** or **food** ready.
+
+---
+
+## Frequently Asked Questions
+
+**How do I increase my Max HP in Kynseed?**
+You can permanently increase Max HP by eating 10 unique cooked dishes (+1 HP), offering items at woodland shrines (+5 HP each), and investing skill points in the Vigor tree (+2 HP per point). These methods stack, allowing you to reach 100+ total HP by end-game.
+
+**What's the best healing item for boss fights?**
+Large Healing Potions are the best for boss fights because they restore 50 HP instantly without triggering the Stuffed debuff. Craft them with 3 Red Petals, 2 Water, and 1 Honey. For early-game bosses, Hearty Stew is a solid budget alternative that also grants a Max HP buff.
+
+**Does armor reduce all types of damage?**
+No. Armor only reduces combat damage from enemy attacks. Environmental damage like spikes, fire, and poison bypasses armor entirely. To survive environmental hazards, use damage resistance consumables or simply avoid the hazard. Status effects like poison also ignore armor defense values.
+
+---
+
+## Final Thoughts
+
+Mastering Kynseed's **health** and **damage** systems transforms the game from a stressful survival slog into an enjoyable exploration adventure. Remember to keep a balanced inventory of **food**, **potions**, and **remedies**, invest in **armor** upgrades early, and always respect enemy attack patterns. With the knowledge from this guide, you'll be able to tackle every dungeon, boss, and wilderness zone the game throws at you.
+
+For more advanced combat tactics, check out our boss fight strategies guide and the weapon tier list. And if you're looking for the best early-game gear, our armor progression guide has you covered.
+
+Happy exploring, and may your **HP** never hit zero!
+
+---
+
+*External resources: [Official Kynseed Wiki](https://kynseed.fandom.com/wiki/Kynseed_Wiki) · [Kynseed on Steam](https://store.steampowered.com/app/758870/Kynseed/) · [PixelCount Studio Twitter](https://twitter.com/kynseedgame)*
