@@ -1,12 +1,12 @@
-// Cloudflare Worker entry for British Railway Wiki
+// Cloudflare Worker entry for Kynseed Wiki
 // Migrated from Pages Functions (functions/[[path]].js + functions/api/indexnow.js)
 // Static assets served from ./out via ASSETS binding.
 // Locale routing mirrors Pages behavior:
-//   - /en/... and /{de,es,ja}/... served directly
+//   - /en/... and /{de,ja,ko}/... served directly
 //   - root paths (/, /guides/...) rewritten to /en/...
 //   - trailing-slash index.html fallback
 
-const LOCALES = ['de', 'es', 'ja'];
+const LOCALES = ['de', 'ja', 'ko'];
 
 function hasLocalePrefix(pathname) {
   for (const loc of LOCALES) {
@@ -48,7 +48,7 @@ async function fetchWithIndexFallback(request, env) {
 // ---- /api/indexnow (migrated from functions/api/indexnow.js) ----
 // IndexNow key committed at D7-5: c719147a1b0dab70d60183844a8dd218
 const INDEXNOW_KEY = 'cfdaf980934aefcda7e951d040c8fc11';
-const HOST = 'www.british-railway.wiki';
+const HOST = 'www.kynseed.wiki';
 const SEARCH_ENGINES = [
   'https://www.bing.com/indexnow',
   'https://api.indexnow.org/indexnow',
@@ -103,10 +103,10 @@ async function handleIndexNow(request) {
 
   if (request.method === 'GET') {
     const baseUrl = `https://${HOST}`;
-    const locales = ['en', 'de', 'es', 'ja'];
+    const locales = ['en', 'de', 'ja', 'ko'];
     const categories = [
-      'guides', 'trains', 'routes', 'stations', 'gameplay',
-      'economy', 'tier-list', 'updates', 'operators', 'community',
+      'guides', 'combat', 'farming', 'business', 'relationships',
+      'crafting', 'dungeons', 'lore', 'updates',
     ];
     const allUrls = [];
     for (const locale of locales) {

@@ -1,4 +1,4 @@
-name = "british-railway-wiki"
+name = "kynseed-wiki"
 main = "_worker.js"
 compatibility_date = "2025-01-01"
 
@@ -6,6 +6,6 @@ compatibility_date = "2025-01-01"
 directory = "./out"
 binding = "ASSETS"
 
-# Custom domains (british-railway.wiki + www.british-railway.wiki) were bound via
+# Custom domains (kynseed.wiki + www.kynseed.wiki) were bound via
 # Cloudflare Workers Domains API (OAuth). wrangler 4.106 does not
 # support a [[domains]] top-level field, so the binding is managed through the API.

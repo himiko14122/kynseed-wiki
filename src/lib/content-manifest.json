@@ -31,6 +31,16 @@
       "title": "Kynseedの新コンテンツ：アップデートと機能"
     },
     {
+      "locale": "ko",
+      "contentType": "updates",
+      "slug": "added-content",
+      "segments": [
+        "added-content"
+      ],
+      "importPath": "AddedContent",
+      "title": "Kynseed 신규 콘텐츠: 업데이트 및 기능"
+    },
+    {
       "locale": "en",
       "contentType": "guides",
       "slug": "beginner-guide",
@@ -59,6 +69,16 @@
       ],
       "importPath": "Beginner-Guide",
       "title": "Kynseed初心者ガイド：初日のタスクと生活スキル"
+    },
+    {
+      "locale": "ko",
+      "contentType": "guides",
+      "slug": "beginner-guide",
+      "segments": [
+        "beginner-guide"
+      ],
+      "importPath": "Beginner-Guide",
+      "title": "Kynseed 초보자 가이드: 첫날 임무와 생활 기술"
     },
     {
       "locale": "en",
@@ -91,6 +111,16 @@
       "title": "Kynseed初心者ウォークスルー：第一世代のマイルストーン"
     },
     {
+      "locale": "ko",
+      "contentType": "guides",
+      "slug": "beginner-walkthrough",
+      "segments": [
+        "beginner-walkthrough"
+      ],
+      "importPath": "Beginner-Walkthrough",
+      "title": "Kynseed 초보자 공략: 1세대 주요 이정표"
+    },
+    {
       "locale": "en",
       "contentType": "business",
       "slug": "business-guide",
@@ -119,6 +149,16 @@
       ],
       "importPath": "Business-Guide",
       "title": "Kynseedビジネスガイド：酒場、薬屋、鍛冶屋"
+    },
+    {
+      "locale": "ko",
+      "contentType": "business",
+      "slug": "business-guide",
+      "segments": [
+        "business-guide"
+      ],
+      "importPath": "Business-Guide",
+      "title": "Kynseed 사업 가이드: 선술집, 약방, 대장간"
     },
     {
       "locale": "en",
@@ -151,6 +191,16 @@
       "title": "Kynseedのビジネス管理：安定したゴールドを得るための最適なショップ"
     },
     {
+      "locale": "ko",
+      "contentType": "business",
+      "slug": "business-management",
+      "segments": [
+        "business-management"
+      ],
+      "importPath": "Business-Management",
+      "title": "Kynseed 경영 관리: 꾸준한 골드를 위한 최고의 상점"
+    },
+    {
       "locale": "en",
       "contentType": "business",
       "slug": "business-upgrades",
@@ -179,6 +229,16 @@
       ],
       "importPath": "Business-Upgrades",
       "title": "Kynseed ビジネスアップグレード：装飾、レイアウト、効率化"
+    },
+    {
+      "locale": "ko",
+      "contentType": "business",
+      "slug": "business-upgrades",
+      "segments": [
+        "business-upgrades"
+      ],
+      "importPath": "Business-Upgrades",
+      "title": "Kynseed 상점 업그레이드: 장식, 배치, 효율성"
     },
     {
       "locale": "en",
@@ -211,6 +271,16 @@
       "title": "Kynseedの宝箱の場所：すべての宝箱を見つける完全ガイド"
     },
     {
+      "locale": "ko",
+      "contentType": "dungeons",
+      "slug": "chest-locations",
+      "segments": [
+        "chest-locations"
+      ],
+      "importPath": "ChestLocations",
+      "title": "Kynseed 상자 위치: 모든 보물 상자 찾기"
+    },
+    {
       "locale": "en",
       "contentType": "farming",
       "slug": "chicken-guide",
@@ -239,6 +309,16 @@
       ],
       "importPath": "Chicken-Guide",
       "title": "Kynseed 鶏ガイド：卵、飼育、そして利益"
+    },
+    {
+      "locale": "ko",
+      "contentType": "farming",
+      "slug": "chicken-guide",
+      "segments": [
+        "chicken-guide"
+      ],
+      "importPath": "Chicken-Guide",
+      "title": "Kynseed 닭 가이드: 알, 관리 및 수익"
     },
     {
       "locale": "en",
@@ -271,6 +351,16 @@
       "title": "Kynseed 戦闘ガイド：近接、遠距離、スキルツリー"
     },
     {
+      "locale": "ko",
+      "contentType": "combat",
+      "slug": "combat-guide",
+      "segments": [
+        "combat-guide"
+      ],
+      "importPath": "Combat-Guide",
+      "title": "Kynseed 전투 가이드: 근접, 원거리, 그리고 스킬 트리"
+    },
+    {
       "locale": "en",
       "contentType": "combat",
       "slug": "combat-strategy",
@@ -299,6 +389,16 @@
       ],
       "importPath": "Combat-Strategy",
       "title": "Kynseedの戦闘戦略：ボス戦と敵の戦術"
+    },
+    {
+      "locale": "ko",
+      "contentType": "combat",
+      "slug": "combat-strategy",
+      "segments": [
+        "combat-strategy"
+      ],
+      "importPath": "Combat-Strategy",
+      "title": "Kynseed 전투 전략: 보스전과 적 대응 전술"
     },
     {
       "locale": "en",
@@ -331,6 +431,16 @@
       "title": "Kynseedの戦闘スタイル：防具、装備、ダメージ計算のコツ"
     },
     {
+      "locale": "ko",
+      "contentType": "combat",
+      "slug": "combat-styles",
+      "segments": [
+        "combat-styles"
+      ],
+      "importPath": "Combat-Styles",
+      "title": "Kynseed 전투 스타일: 방어구, 장비 및 피해 팁"
+    },
+    {
       "locale": "en",
       "contentType": "guides",
       "slug": "complete-guide",
@@ -359,6 +469,16 @@
       ],
       "importPath": "CompleteGuide",
       "title": "Kynseed完全ガイド：徹底攻略ウォークスルー"
+    },
+    {
+      "locale": "ko",
+      "contentType": "guides",
+      "slug": "complete-guide",
+      "segments": [
+        "complete-guide"
+      ],
+      "importPath": "CompleteGuide",
+      "title": "Kynseed 완전 가이드: 전체 공략"
     },
     {
       "locale": "en",
@@ -391,6 +511,16 @@
       "title": "Kynseed クラフトガイド — 創造の技を極める"
     },
     {
+      "locale": "ko",
+      "contentType": "crafting",
+      "slug": "crafting-guide",
+      "segments": [
+        "crafting-guide"
+      ],
+      "importPath": "Crafting-Guide",
+      "title": "Kynseed 제작 가이드 — 창조의 기술을 마스터하세요"
+    },
+    {
       "locale": "en",
       "contentType": "lore",
       "slug": "creatures-guide",
@@ -419,6 +549,16 @@
       ],
       "importPath": "Creatures-Guide",
       "title": "クリーチャーガイド"
+    },
+    {
+      "locale": "ko",
+      "contentType": "lore",
+      "slug": "creatures-guide",
+      "segments": [
+        "creatures-guide"
+      ],
+      "importPath": "Creatures-Guide",
+      "title": "생물체 가이드"
     },
     {
       "locale": "en",
@@ -451,6 +591,16 @@
       "title": "Kynseed 開発者アップデート：コミュニティニュース"
     },
     {
+      "locale": "ko",
+      "contentType": "updates",
+      "slug": "dev-updates",
+      "segments": [
+        "dev-updates"
+      ],
+      "importPath": "DevUpdates",
+      "title": "Kynseed 개발자 업데이트: 커뮤니티 소식"
+    },
+    {
       "locale": "en",
       "contentType": "relationships",
       "slug": "dialogue-guide",
@@ -479,6 +629,16 @@
       ],
       "importPath": "Dialogue-Guide",
       "title": "Kynseed会話ガイド：完璧なセリフでデートを勝ち取る"
+    },
+    {
+      "locale": "ko",
+      "contentType": "relationships",
+      "slug": "dialogue-guide",
+      "segments": [
+        "dialogue-guide"
+      ],
+      "importPath": "Dialogue-Guide",
+      "title": "Kynseed 대화 가이드: 완벽한 대사로 연애 성공하기"
     },
     {
       "locale": "en",
@@ -511,6 +671,16 @@
       "title": "Kynseedダンジョンガイド：洞窟探索の極意"
     },
     {
+      "locale": "ko",
+      "contentType": "dungeons",
+      "slug": "dungeon-guide",
+      "segments": [
+        "dungeon-guide"
+      ],
+      "importPath": "DungeonGuide",
+      "title": "Kynseed 던전 가이드: 동굴 탐험 마스터하기"
+    },
+    {
       "locale": "en",
       "contentType": "farming",
       "slug": "efficient-farming",
@@ -539,6 +709,16 @@
       ],
       "importPath": "Efficient-Farming",
       "title": "Kynseedの効率的な農業：レイアウト、灌漑、肥料"
+    },
+    {
+      "locale": "ko",
+      "contentType": "farming",
+      "slug": "efficient-farming",
+      "segments": [
+        "efficient-farming"
+      ],
+      "importPath": "Efficient-Farming",
+      "title": "Kynseed 효율적 농사: 배치, 관개, 비료"
     },
     {
       "locale": "en",
@@ -571,6 +751,16 @@
       "title": "Kynseed敵リスト：ステータス、強さ、敏捷性データ"
     },
     {
+      "locale": "ko",
+      "contentType": "combat",
+      "slug": "enemy-list",
+      "segments": [
+        "enemy-list"
+      ],
+      "importPath": "Enemy-List",
+      "title": "Kynseed 적 목록: 능력치, 힘, 민첩 데이터"
+    },
+    {
       "locale": "en",
       "contentType": "relationships",
       "slug": "family-guide",
@@ -599,6 +789,16 @@
       ],
       "importPath": "Family-Guide",
       "title": "Kynseed 家族ガイド：遺産、継承、そして世代"
+    },
+    {
+      "locale": "ko",
+      "contentType": "relationships",
+      "slug": "family-guide",
+      "segments": [
+        "family-guide"
+      ],
+      "importPath": "Family-Guide",
+      "title": "Kynseed 가족 가이드: 유산, 상속, 그리고 세대"
     },
     {
       "locale": "en",
@@ -631,6 +831,16 @@
       "title": "Kynseed農業ガイド：効率的な農業経営"
     },
     {
+      "locale": "ko",
+      "contentType": "farming",
+      "slug": "farming-guide",
+      "segments": [
+        "farming-guide"
+      ],
+      "importPath": "Farming-Guide",
+      "title": "Kynseed 농사 가이드: 효율적인 농업"
+    },
+    {
       "locale": "en",
       "contentType": "lore",
       "slug": "folklore-guide",
@@ -659,6 +869,16 @@
       ],
       "importPath": "Folklore-Guide",
       "title": "Kynseed伝承ガイド：ダークな童話と世界イベント"
+    },
+    {
+      "locale": "ko",
+      "contentType": "lore",
+      "slug": "folklore-guide",
+      "segments": [
+        "folklore-guide"
+      ],
+      "importPath": "Folklore-Guide",
+      "title": "Kynseed 민담 가이드: 어두운 이야기와 세계 이벤트"
     },
     {
       "locale": "en",
@@ -691,6 +911,16 @@
       "title": "Kynseedの料理レシピ：ドリンク、クラフト、ショップレイアウト"
     },
     {
+      "locale": "ko",
+      "contentType": "business",
+      "slug": "food-recipes",
+      "segments": [
+        "food-recipes"
+      ],
+      "importPath": "Food-Recipes",
+      "title": "Kynseed 음식 레시피: 음료, 제작, 상점 배치"
+    },
+    {
       "locale": "en",
       "contentType": "relationships",
       "slug": "friendship-guide",
@@ -719,6 +949,16 @@
       ],
       "importPath": "Friendship-Guide",
       "title": "Kynseed友情ガイド：すべての村人への最高の贈り物"
+    },
+    {
+      "locale": "ko",
+      "contentType": "relationships",
+      "slug": "friendship-guide",
+      "segments": [
+        "friendship-guide"
+      ],
+      "importPath": "Friendship-Guide",
+      "title": "Kynseed 우정 가이드: 모든 주민을 위한 최고의 선물"
     },
     {
       "locale": "en",
@@ -751,6 +991,16 @@
       "title": "Kynseedゲームガイド：完全解説"
     },
     {
+      "locale": "ko",
+      "contentType": "guides",
+      "slug": "game-guide",
+      "segments": [
+        "game-guide"
+      ],
+      "importPath": "GameGuide",
+      "title": "Kynseed 게임 가이드: 전체 개요"
+    },
+    {
       "locale": "en",
       "contentType": "updates",
       "slug": "game-version",
@@ -779,6 +1029,16 @@
       ],
       "importPath": "Game-Version",
       "title": "Kynseedのゲームバージョン：最新リリースと変更ログ情報"
+    },
+    {
+      "locale": "ko",
+      "contentType": "updates",
+      "slug": "game-version",
+      "segments": [
+        "game-version"
+      ],
+      "importPath": "Game-Version",
+      "title": "Kynseed 게임 버전: 현재 릴리스 및 변경 로그 정보"
     },
     {
       "locale": "en",
@@ -811,6 +1071,16 @@
       "title": "Kynseedのゲーム世界：村の歴史と妖精物語"
     },
     {
+      "locale": "ko",
+      "contentType": "lore",
+      "slug": "game-world",
+      "segments": [
+        "game-world"
+      ],
+      "importPath": "Game-World",
+      "title": "Kynseed 게임 세계: 마을의 역사와 동화"
+    },
+    {
       "locale": "en",
       "contentType": "guides",
       "slug": "gameplay-basics",
@@ -839,6 +1109,16 @@
       ],
       "importPath": "GameplayBasics",
       "title": "Kynseedの基本ゲームプレイ：操作ガイド"
+    },
+    {
+      "locale": "ko",
+      "contentType": "guides",
+      "slug": "gameplay-basics",
+      "segments": [
+        "gameplay-basics"
+      ],
+      "importPath": "GameplayBasics",
+      "title": "Kynseed 게임플레이 기본 가이드: 조작법 안내"
     },
     {
       "locale": "en",
@@ -871,6 +1151,16 @@
       "title": "Kynseedダンジョン装備チェックリスト"
     },
     {
+      "locale": "ko",
+      "contentType": "dungeons",
+      "slug": "gear-check",
+      "segments": [
+        "gear-check"
+      ],
+      "importPath": "GearCheck",
+      "title": "Kynseed 던전 장비 체크리스트"
+    },
+    {
       "locale": "en",
       "contentType": "crafting",
       "slug": "gem-guide",
@@ -899,6 +1189,16 @@
       ],
       "importPath": "Gem-Guide",
       "title": "Kynseed 宝石ガイド — 種類、用途、クラフト"
+    },
+    {
+      "locale": "ko",
+      "contentType": "crafting",
+      "slug": "gem-guide",
+      "segments": [
+        "gem-guide"
+      ],
+      "importPath": "Gem-Guide",
+      "title": "Kynseed 보석 가이드 — 종류, 용도 및 제작"
     },
     {
       "locale": "en",
@@ -931,6 +1231,16 @@
       "title": "Kynseed 健康ガイド：HPとダメージシステム"
     },
     {
+      "locale": "ko",
+      "contentType": "combat",
+      "slug": "health-guide",
+      "segments": [
+        "health-guide"
+      ],
+      "importPath": "Health-Guide",
+      "title": "Kynseed 건강 가이드: HP 및 피해 시스템"
+    },
+    {
       "locale": "en",
       "contentType": "farming",
       "slug": "horse-guide",
@@ -959,6 +1269,16 @@
       ],
       "importPath": "Horse-Guide",
       "title": "Kynseed 馬ガイド：ペット、犬、猫、そして農場収入"
+    },
+    {
+      "locale": "ko",
+      "contentType": "farming",
+      "slug": "horse-guide",
+      "segments": [
+        "horse-guide"
+      ],
+      "importPath": "Horse-Guide",
+      "title": "Kynseed 말 가이드: 애완동물, 개, 고양이, 그리고 농장 수입"
     },
     {
       "locale": "en",
@@ -991,6 +1311,16 @@
       "title": "Kynseed素材ガイド：採取、採掘、釣り"
     },
     {
+      "locale": "ko",
+      "contentType": "crafting",
+      "slug": "ingredient-guide",
+      "segments": [
+        "ingredient-guide"
+      ],
+      "importPath": "Ingredient-Guide",
+      "title": "Kynseed 재료 가이드: 채집, 채광, 낚시"
+    },
+    {
       "locale": "en",
       "contentType": "guides",
       "slug": "kynseed-introduction",
@@ -1019,6 +1349,16 @@
       ],
       "importPath": "KynseedIntroduction",
       "title": "Kynseed入門：ライフサイクルRPG"
+    },
+    {
+      "locale": "ko",
+      "contentType": "guides",
+      "slug": "kynseed-introduction",
+      "segments": [
+        "kynseed-introduction"
+      ],
+      "importPath": "KynseedIntroduction",
+      "title": "Kynseed 소개: 세대를 잇는 라이프 사이클 RPG"
     },
     {
       "locale": "en",
@@ -1051,6 +1391,16 @@
       "title": "Kynseedの世界観と物語 – 総合ガイド"
     },
     {
+      "locale": "ko",
+      "contentType": "lore",
+      "slug": "lore-guide",
+      "segments": [
+        "lore-guide"
+      ],
+      "importPath": "Lore-Guide",
+      "title": "카인시드의 세계관과 스토리 – 종합 가이드"
+    },
+    {
       "locale": "en",
       "contentType": "combat",
       "slug": "magic-combat",
@@ -1079,6 +1429,16 @@
       ],
       "importPath": "Magic-Combat",
       "title": "Kynseed魔法戦闘：スペルガイド"
+    },
+    {
+      "locale": "ko",
+      "contentType": "combat",
+      "slug": "magic-combat",
+      "segments": [
+        "magic-combat"
+      ],
+      "importPath": "Magic-Combat",
+      "title": "Kynseed 마법 전투: 주문 가이드"
     },
     {
       "locale": "en",
@@ -1111,6 +1471,16 @@
       "title": "Kynseedでお金を稼ぐ：価格設定、顧客、スタッフのコツ"
     },
     {
+      "locale": "ko",
+      "contentType": "business",
+      "slug": "making-money",
+      "segments": [
+        "making-money"
+      ],
+      "importPath": "Making-Money",
+      "title": "Kynseed 돈 벌기: 가격 책정, 고객, 직원 팁"
+    },
+    {
       "locale": "en",
       "contentType": "lore",
       "slug": "mystical-guide",
@@ -1139,6 +1509,16 @@
       ],
       "importPath": "Mystical-Guide",
       "title": "Kynseed神秘ガイド：魔法、神々、そして妖精の精霊"
+    },
+    {
+      "locale": "ko",
+      "contentType": "lore",
+      "slug": "mystical-guide",
+      "segments": [
+        "mystical-guide"
+      ],
+      "importPath": "Mystical-Guide",
+      "title": "Kynseed 신비 가이드: 마법, 신, 그리고 요정 정령"
     },
     {
       "locale": "en",
@@ -1171,6 +1551,16 @@
       "title": "KynseedのNPCスケジュール：毎日のルーティンと居場所"
     },
     {
+      "locale": "ko",
+      "contentType": "relationships",
+      "slug": "npc-schedules",
+      "segments": [
+        "npc-schedules"
+      ],
+      "importPath": "Npc-Schedules",
+      "title": "Kynseed NPC 일정: 일상 루틴과 위치"
+    },
+    {
       "locale": "en",
       "contentType": "updates",
       "slug": "patch-notes",
@@ -1199,6 +1589,16 @@
       ],
       "importPath": "Patch-Notes",
       "title": "Kynseed パッチノート：2024年の最新アップデートと新コンテンツ"
+    },
+    {
+      "locale": "ko",
+      "contentType": "updates",
+      "slug": "patch-notes",
+      "segments": [
+        "patch-notes"
+      ],
+      "importPath": "Patch-Notes",
+      "title": "Kynseed 패치 노트: 최신 업데이트 및 2024년 신규 콘텐츠"
     },
     {
       "locale": "en",
@@ -1231,6 +1631,16 @@
       "title": "Kynseedのポーション作成 — 初心者のための錬金術ガイド"
     },
     {
+      "locale": "ko",
+      "contentType": "crafting",
+      "slug": "potion-making",
+      "segments": [
+        "potion-making"
+      ],
+      "importPath": "Potion-Making",
+      "title": "Kynseed 물약 제조 — 초보자를 위한 연금술"
+    },
+    {
       "locale": "en",
       "contentType": "business",
       "slug": "profit-maximization",
@@ -1259,6 +1669,16 @@
       ],
       "importPath": "Profit-Maximization",
       "title": "Kynseedの利益最大化：交易、市場、販売のコツ"
+    },
+    {
+      "locale": "ko",
+      "contentType": "business",
+      "slug": "profit-maximization",
+      "segments": [
+        "profit-maximization"
+      ],
+      "importPath": "Profit-Maximization",
+      "title": "Kynseed 수익 극대화: 거래, 시장, 판매 팁"
     },
     {
       "locale": "en",
@@ -1291,6 +1711,16 @@
       "title": "Kynseed 生活の質：改善点"
     },
     {
+      "locale": "ko",
+      "contentType": "updates",
+      "slug": "quality-of-life",
+      "segments": [
+        "quality-of-life"
+      ],
+      "importPath": "QualityOfLife",
+      "title": "Kynseed 삶의 질 개선: 향상된 편의성"
+    },
+    {
       "locale": "en",
       "contentType": "guides",
       "slug": "quest-walkthrough",
@@ -1319,6 +1749,16 @@
       ],
       "importPath": "Quest-Walkthrough",
       "title": "Kynseed クエスト攻略：メインストーリーを最初から最後まで"
+    },
+    {
+      "locale": "ko",
+      "contentType": "guides",
+      "slug": "quest-walkthrough",
+      "segments": [
+        "quest-walkthrough"
+      ],
+      "importPath": "Quest-Walkthrough",
+      "title": "Kynseed 퀘스트 공략: 시작부터 끝까지 메인 스토리"
     },
     {
       "locale": "en",
@@ -1351,6 +1791,16 @@
       "title": "Kynseed ダンジョン地域：完全地域ガイド"
     },
     {
+      "locale": "ko",
+      "contentType": "dungeons",
+      "slug": "regions-guide",
+      "segments": [
+        "regions-guide"
+      ],
+      "importPath": "RegionsGuide",
+      "title": "Kynseed 던전 지역: 전체 지역 가이드"
+    },
+    {
       "locale": "en",
       "contentType": "relationships",
       "slug": "relationship-guide",
@@ -1379,6 +1829,16 @@
       ],
       "importPath": "Relationship-Guide",
       "title": "Kynseed 人間関係ガイド：NPC、結婚、そして子供"
+    },
+    {
+      "locale": "ko",
+      "contentType": "relationships",
+      "slug": "relationship-guide",
+      "segments": [
+        "relationship-guide"
+      ],
+      "importPath": "Relationship-Guide",
+      "title": "Kynseed 관계 가이드: NPC, 결혼, 그리고 자녀"
     },
     {
       "locale": "en",
@@ -1411,6 +1871,16 @@
       "title": "Kynseedリソースガイド — 採取と管理"
     },
     {
+      "locale": "ko",
+      "contentType": "crafting",
+      "slug": "resource-guide",
+      "segments": [
+        "resource-guide"
+      ],
+      "importPath": "Resource-Guide",
+      "title": "Kynseed 자원 가이드 — 채집 및 관리"
+    },
+    {
       "locale": "en",
       "contentType": "updates",
       "slug": "roadmap",
@@ -1439,6 +1909,16 @@
       ],
       "importPath": "Roadmap",
       "title": "Kynseedロードマップ：今後の計画"
+    },
+    {
+      "locale": "ko",
+      "contentType": "updates",
+      "slug": "roadmap",
+      "segments": [
+        "roadmap"
+      ],
+      "importPath": "Roadmap",
+      "title": "Kynseed 로드맵: 향후 계획"
     },
     {
       "locale": "en",
@@ -1471,6 +1951,16 @@
       "title": "Kynseed遺跡ガイド：古代建造物を探索しよう"
     },
     {
+      "locale": "ko",
+      "contentType": "dungeons",
+      "slug": "ruins-guide",
+      "segments": [
+        "ruins-guide"
+      ],
+      "importPath": "RuinsGuide",
+      "title": "Kynseed 유적 가이드: 고대 구조물 탐험"
+    },
+    {
       "locale": "en",
       "contentType": "dungeons",
       "slug": "safe-zones",
@@ -1499,6 +1989,16 @@
       ],
       "importPath": "SafeZones",
       "title": "Kynseed 安全地帯ガイド：ダンジョンの休息エリア"
+    },
+    {
+      "locale": "ko",
+      "contentType": "dungeons",
+      "slug": "safe-zones",
+      "segments": [
+        "safe-zones"
+      ],
+      "importPath": "SafeZones",
+      "title": "Kynseed 안전 구역 가이드: 던전 휴식 공간"
     },
     {
       "locale": "en",
@@ -1531,6 +2031,16 @@
       "title": "Kynseedセーブガイド：進行状況の保存方法"
     },
     {
+      "locale": "ko",
+      "contentType": "guides",
+      "slug": "save-guide",
+      "segments": [
+        "save-guide"
+      ],
+      "importPath": "SaveGuide",
+      "title": "Kynseed 저장 가이드: 진행 상황 저장 방법"
+    },
+    {
       "locale": "en",
       "contentType": "farming",
       "slug": "seasons-guide",
@@ -1559,6 +2069,16 @@
       ],
       "importPath": "Seasons-Guide",
       "title": "Kynseedシーズンガイド：春から冬までの作物計画"
+    },
+    {
+      "locale": "ko",
+      "contentType": "farming",
+      "slug": "seasons-guide",
+      "segments": [
+        "seasons-guide"
+      ],
+      "importPath": "Seasons-Guide",
+      "title": "Kynseed 계절 가이드: 봄부터 겨울까지 작물 계획"
     },
     {
       "locale": "en",
@@ -1591,6 +2111,16 @@
       "title": "Kynseedの種リスト：果樹、養蜂、ヤギの世話"
     },
     {
+      "locale": "ko",
+      "contentType": "farming",
+      "slug": "seed-list",
+      "segments": [
+        "seed-list"
+      ],
+      "importPath": "Seed-List",
+      "title": "Kynseed 씨앗 목록: 과일나무, 벌, 염소 돌보기"
+    },
+    {
       "locale": "en",
       "contentType": "guides",
       "slug": "side-quest-guide",
@@ -1619,6 +2149,16 @@
       ],
       "importPath": "SideQuestGuide",
       "title": "Kynseed サイドクエストガイド：全サイドクエスト一覧"
+    },
+    {
+      "locale": "ko",
+      "contentType": "guides",
+      "slug": "side-quest-guide",
+      "segments": [
+        "side-quest-guide"
+      ],
+      "importPath": "SideQuestGuide",
+      "title": "Kynseed 사이드 퀘스트 가이드: 모든 사이드 퀘스트"
     },
     {
       "locale": "en",
@@ -1651,6 +2191,16 @@
       "title": "Kynseedの特殊NPC"
     },
     {
+      "locale": "ko",
+      "contentType": "relationships",
+      "slug": "special-npcs",
+      "segments": [
+        "special-npcs"
+      ],
+      "importPath": "Special-Npcs",
+      "title": "Kynseed의 특별 NPC"
+    },
+    {
       "locale": "en",
       "contentType": "lore",
       "slug": "thornborough",
@@ -1679,6 +2229,16 @@
       ],
       "importPath": "Thornborough",
       "title": "Kynseedソーンボロの伝承：伝説、年表、祭り"
+    },
+    {
+      "locale": "ko",
+      "contentType": "lore",
+      "slug": "thornborough",
+      "segments": [
+        "thornborough"
+      ],
+      "importPath": "Thornborough",
+      "title": "Kynseed 쏜버러 세계관: 전설, 연대기, 축제"
     },
     {
       "locale": "en",
@@ -1711,6 +2271,16 @@
       "title": "Kynseedのコツと裏技：プロ向け戦略ガイド"
     },
     {
+      "locale": "ko",
+      "contentType": "guides",
+      "slug": "tips-and-tricks",
+      "segments": [
+        "tips-and-tricks"
+      ],
+      "importPath": "TipsAndTricks",
+      "title": "Kynseed 팁과 요령: 프로 전략"
+    },
+    {
       "locale": "en",
       "contentType": "guides",
       "slug": "what-to-do-first",
@@ -1741,6 +2311,16 @@
       "title": "Kynseed：最初にやるべきこと - 序盤ガイド"
     },
     {
+      "locale": "ko",
+      "contentType": "guides",
+      "slug": "what-to-do-first",
+      "segments": [
+        "what-to-do-first"
+      ],
+      "importPath": "WhatToDoFirst",
+      "title": "Kynseed: 처음에 무엇을 해야 하나 - 초반 가이드"
+    },
+    {
       "locale": "en",
       "contentType": "crafting",
       "slug": "workbench-guide",
@@ -1769,6 +2349,16 @@
       ],
       "importPath": "Workbench-Guide",
       "title": "Kynseed 作業台ガイド — クラフトの中心拠点"
+    },
+    {
+      "locale": "ko",
+      "contentType": "crafting",
+      "slug": "workbench-guide",
+      "segments": [
+        "workbench-guide"
+      ],
+      "importPath": "Workbench-Guide",
+      "title": "Kynseed 작업대 가이드 — 당신의 제작 허브"
     }
   ],
   "tocMap": {
@@ -6780,6 +7370,1676 @@
       {
         "id": "よくある質問",
         "text": "よくある質問"
+      }
+    ],
+    "guides:ko:beginner-guide": [
+      {
+        "id": "첫날이-여러-세대의-분위기를-결정하는-이유",
+        "text": "첫날이 여러 세대의 분위기를 결정하는 이유"
+      },
+      {
+        "id": "생활-기술-무엇을-우선시하고-왜-그런지",
+        "text": "생활 기술: 무엇을 우선시하고 왜 그런지"
+      },
+      {
+        "id": "첫날-임무-체크리스트-단계별-계획",
+        "text": "첫날 임무 체크리스트: 단계별 계획"
+      },
+      {
+        "id": "흔한-첫날-실수와-피하는-방법",
+        "text": "흔한 첫날 실수와 피하는 방법"
+      },
+      {
+        "id": "상점을-유산-자산으로-구축하기",
+        "text": "상점을 유산 자산으로 구축하기"
+      },
+      {
+        "id": "하루-동안-시간과-에너지-관리",
+        "text": "하루 동안 시간과 에너지 관리"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "guides:ko:beginner-walkthrough": [
+      {
+        "id": "kynseed-생애-주기와-오프닝-시간-이해하기",
+        "text": "Kynseed 생애 주기와 오프닝 시간 이해하기"
+      },
+      {
+        "id": "1세대-이정표-kynseed-시작-가이드-로드맵",
+        "text": "1세대 이정표: Kynseed 시작 가이드 로드맵"
+      },
+      {
+        "id": "계절별-시간과-에너지-관리",
+        "text": "계절별 시간과 에너지 관리"
+      },
+      {
+        "id": "관계-구축과-가족-시작하기",
+        "text": "관계 구축과 가족 시작하기"
+      },
+      {
+        "id": "흔한-1세대-실수와-피하는-방법",
+        "text": "흔한 1세대 실수와 피하는 방법"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "guides:ko:complete-guide": [
+      {
+        "id": "시작하기-첫-번째-계절",
+        "text": "시작하기: 첫 번째 계절"
+      },
+      {
+        "id": "농사와-생명-주기",
+        "text": "농사와 생명 주기"
+      },
+      {
+        "id": "제작-요리-기술-시스템",
+        "text": "제작, 요리, 기술 시스템"
+      },
+      {
+        "id": "전투와-던전",
+        "text": "전투와 던전"
+      },
+      {
+        "id": "관계-결혼-가족",
+        "text": "관계, 결혼, 가족"
+      },
+      {
+        "id": "고급-팁과-엔드게임-콘텐츠",
+        "text": "고급 팁과 엔드게임 콘텐츠"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      },
+      {
+        "id": "결론",
+        "text": "결론"
+      }
+    ],
+    "guides:ko:game-guide": [
+      {
+        "id": "kynseed-소개",
+        "text": "Kynseed 소개"
+      },
+      {
+        "id": "시작하기-캐릭터-생성과-kynseed",
+        "text": "시작하기: 캐릭터 생성과 Kynseed"
+      },
+      {
+        "id": "농사와-채집",
+        "text": "농사와 채집"
+      },
+      {
+        "id": "전투와-탐험",
+        "text": "전투와 탐험"
+      },
+      {
+        "id": "관계-결혼-가문-유산",
+        "text": "관계, 결혼, 가문 유산"
+      },
+      {
+        "id": "고급-게임플레이-메커니즘",
+        "text": "고급 게임플레이 메커니즘"
+      },
+      {
+        "id": "경제-시스템과-부-축적",
+        "text": "경제 시스템과 부 축적"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "guides:ko:gameplay-basics": [
+      {
+        "id": "kynseed에-오신-것을-환영합니다-살아있는-유산",
+        "text": "Kynseed에 오신 것을 환영합니다: 살아있는 유산"
+      },
+      {
+        "id": "핵심-조작법과-인터페이스",
+        "text": "핵심 조작법과 인터페이스"
+      },
+      {
+        "id": "시간-관리와-생애-주기",
+        "text": "시간 관리와 생애 주기"
+      },
+      {
+        "id": "신규-플레이어를-위한-필수-시스템",
+        "text": "신규 플레이어를 위한 필수 시스템"
+      },
+      {
+        "id": "관계와-커뮤니티-유대",
+        "text": "관계와 커뮤니티 유대"
+      },
+      {
+        "id": "첫-시즌을-위한-팁",
+        "text": "첫 시즌을 위한 팁"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "guides:ko:kynseed-introduction": [
+      {
+        "id": "kynseed만의-독특한-점",
+        "text": "Kynseed만의 독특한 점"
+      },
+      {
+        "id": "라이프-사이클-메커니즘-상세-분석",
+        "text": "라이프 사이클 메커니즘 상세 분석"
+      },
+      {
+        "id": "게임-시스템-개요",
+        "text": "게임 시스템 개요"
+      },
+      {
+        "id": "pixelcount-studios-fable과의-연결고리",
+        "text": "PixelCount Studios: Fable과의 연결고리"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "guides:ko:quest-walkthrough": [
+      {
+        "id": "kynseed-메인-스토리-구조-이해하기",
+        "text": "Kynseed 메인 스토리 구조 이해하기"
+      },
+      {
+        "id": "kynseed-시작-방법-첫-걸음",
+        "text": "Kynseed 시작 방법: 첫 걸음"
+      },
+      {
+        "id": "메인-스토리-퀘스트-순서",
+        "text": "메인 스토리 퀘스트 순서"
+      },
+      {
+        "id": "사이드-콘텐츠와-탐험-시작-위치",
+        "text": "사이드 콘텐츠와 탐험 시작 위치"
+      },
+      {
+        "id": "세대-전략-구축",
+        "text": "세대 전략 구축"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "guides:ko:save-guide": [
+      {
+        "id": "kynseed-저장-시스템-이해하기",
+        "text": "Kynseed 저장 시스템 이해하기"
+      },
+      {
+        "id": "저장-시점-모범-사례",
+        "text": "저장 시점: 모범 사례"
+      },
+      {
+        "id": "세이브-슬롯과-파일-관리",
+        "text": "세이브 슬롯과 파일 관리"
+      },
+      {
+        "id": "일반적인-저장-문제-해결",
+        "text": "일반적인 저장 문제 해결"
+      },
+      {
+        "id": "진행-상황-손실-방지-팁",
+        "text": "진행 상황 손실 방지 팁"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "guides:ko:side-quest-guide": [
+      {
+        "id": "kynseed-사이드-퀘스트-이해하기",
+        "text": "Kynseed 사이드 퀘스트 이해하기"
+      },
+      {
+        "id": "초반-사이드-퀘스트",
+        "text": "초반 사이드 퀘스트"
+      },
+      {
+        "id": "중반-사이드-퀘스트",
+        "text": "중반 사이드 퀘스트"
+      },
+      {
+        "id": "후반-및-세대-퀘스트",
+        "text": "후반 및 세대 퀘스트"
+      },
+      {
+        "id": "보상-및-진행",
+        "text": "보상 및 진행"
+      },
+      {
+        "id": "효율적인-퀘스트-수행-팁",
+        "text": "효율적인 퀘스트 수행 팁"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "guides:ko:tips-and-tricks": [
+      {
+        "id": "생애-주기-이해하기-유산-계획하기",
+        "text": "생애 주기 이해하기: 유산 계획하기"
+      },
+      {
+        "id": "농사-마스터하기-기본을-넘어서",
+        "text": "농사 마스터하기: 기본을 넘어서"
+      },
+      {
+        "id": "전투와-던전-전략",
+        "text": "전투와 던전 전략"
+      },
+      {
+        "id": "부-축적-kynseed의-경제",
+        "text": "부 축적: Kynseed의 경제"
+      },
+      {
+        "id": "관계와-커뮤니티",
+        "text": "관계와 커뮤니티"
+      },
+      {
+        "id": "시간-관리와-일상-루틴",
+        "text": "시간 관리와 일상 루틴"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      },
+      {
+        "id": "결론",
+        "text": "결론"
+      }
+    ],
+    "guides:ko:what-to-do-first": [
+      {
+        "id": "kynseed에서-첫-몇-시간이-중요한-이유",
+        "text": "Kynseed에서 첫 몇 시간이 중요한 이유"
+      },
+      {
+        "id": "첫날-필수-체크리스트",
+        "text": "첫날: 필수 체크리스트"
+      },
+      {
+        "id": "초반에-마스터해야-할-핵심-시스템",
+        "text": "초반에 마스터해야 할 핵심 시스템"
+      },
+      {
+        "id": "첫-주-우선순위-정하기",
+        "text": "첫 주 우선순위 정하기"
+      },
+      {
+        "id": "피해야-할-초반-게임-흔한-실수",
+        "text": "피해야 할 초반 게임 흔한 실수"
+      },
+      {
+        "id": "결론-현명하게-시작하고-오래-플레이하세요",
+        "text": "결론: 현명하게 시작하고 오래 플레이하세요"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "combat:ko:combat-guide": [
+      {
+        "id": "kynseed-전투-시스템-기본-이해하기",
+        "text": "Kynseed 전투 시스템 기본 이해하기"
+      },
+      {
+        "id": "kynseed-근접-전투-기술-마스터하기",
+        "text": "Kynseed 근접 전투 기술 마스터하기"
+      },
+      {
+        "id": "원거리-전투-및-무기-옵션",
+        "text": "원거리 전투 및 무기 옵션"
+      },
+      {
+        "id": "전투를-위한-kynseed-스킬-트리-탐색하기",
+        "text": "전투를 위한 Kynseed 스킬 트리 탐색하기"
+      },
+      {
+        "id": "고급-전투-전략-및-적-전술",
+        "text": "고급 전투 전략 및 적 전술"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "combat:ko:combat-strategy": [
+      {
+        "id": "모든-kynseed-적-유형을-위한-핵심-전투-기본기",
+        "text": "모든 Kynseed 적 유형을 위한 핵심 전투 기본기"
+      },
+      {
+        "id": "던전-보스-전투와-아레나-전술",
+        "text": "던전 보스 전투와 아레나 전술"
+      },
+      {
+        "id": "고급-적-전술과-대응-전략",
+        "text": "고급 적 전술과 대응 전략"
+      },
+      {
+        "id": "보스-중심-로드아웃-구축",
+        "text": "보스 중심 로드아웃 구축"
+      },
+      {
+        "id": "흔한-실수와-피하는-방법",
+        "text": "흔한 실수와 피하는 방법"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "combat:ko:combat-styles": [
+      {
+        "id": "핵심-전투-스타일-및-장비-요구-사항",
+        "text": "핵심 전투 스타일 및 장비 요구 사항"
+      },
+      {
+        "id": "전투-스타일별-방어구-세트-순위",
+        "text": "전투 스타일별 방어구 세트 순위"
+      },
+      {
+        "id": "피해-계산-장비-능력치가-출력으로-변환되는-방식",
+        "text": "피해 계산: 장비 능력치가 출력으로 변환되는 방식"
+      },
+      {
+        "id": "진행-단계별-실용적인-장비-권장-사항",
+        "text": "진행 단계별 실용적인 장비 권장 사항"
+      },
+      {
+        "id": "고급-시너지-스킬과-장비-결합",
+        "text": "고급 시너지: 스킬과 장비 결합"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "combat:ko:enemy-list": [
+      {
+        "id": "모든-kynseed-적-목록-항목-뒤에-있는-핵심-능력치-이해하기",
+        "text": "모든 Kynseed 적 목록 항목 뒤에 있는 핵심 능력치 이해하기"
+      },
+      {
+        "id": "능력치-분석이-포함된-전체-kynseed-적-목록",
+        "text": "능력치 분석이 포함된 전체 Kynseed 적 목록"
+      },
+      {
+        "id": "힘과-민첩-능력치가-전투-접근-방식을-결정하는-방법",
+        "text": "힘과 민첩 능력치가 전투 접근 방식을 결정하는 방법"
+      },
+      {
+        "id": "적-능력치-지식을-활용한-실용-전투-전술",
+        "text": "적 능력치 지식을 활용한 실용 전투 전술"
+      },
+      {
+        "id": "고급-적-조우와-능력치-스케일링",
+        "text": "고급 적 조우와 능력치 스케일링"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "combat:ko:health-guide": [
+      {
+        "id": "kynseed-건강-시스템-이해하기",
+        "text": "Kynseed 건강 시스템 이해하기"
+      },
+      {
+        "id": "피해-유형-및-원인",
+        "text": "피해 유형 및 원인"
+      },
+      {
+        "id": "회복-방법",
+        "text": "회복 방법"
+      },
+      {
+        "id": "어려운-전투에서-살아남기",
+        "text": "어려운 전투에서 살아남기"
+      },
+      {
+        "id": "hp-성장과-강화",
+        "text": "HP 성장과 강화"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      },
+      {
+        "id": "마지막-생각",
+        "text": "마지막 생각"
+      }
+    ],
+    "combat:ko:magic-combat": [
+      {
+        "id": "마나-시스템-이해하기",
+        "text": "마나 시스템 이해하기"
+      },
+      {
+        "id": "원소-마법-학파",
+        "text": "원소 마법 학파"
+      },
+      {
+        "id": "주문-조합-및-시너지",
+        "text": "주문 조합 및 시너지"
+      },
+      {
+        "id": "전투를-위한-비전-전략",
+        "text": "전투를 위한 비전 전략"
+      },
+      {
+        "id": "마법-장비-및-장비",
+        "text": "마법 장비 및 장비"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      },
+      {
+        "id": "결론",
+        "text": "결론"
+      }
+    ],
+    "farming:ko:chicken-guide": [
+      {
+        "id": "kynseed-닭-가이드가-초반-게임을-바꾸는-이유",
+        "text": "Kynseed 닭 가이드가 초반 게임을 바꾸는 이유"
+      },
+      {
+        "id": "kynseed-닭-키우기-닭장-설치-및-일일-루틴",
+        "text": "Kynseed 닭 키우기: 닭장 설치 및 일일 루틴"
+      },
+      {
+        "id": "kynseed-가금류-농업-달걀-생산-및-수익",
+        "text": "Kynseed 가금류 농업: 달걀 생산 및 수익"
+      },
+      {
+        "id": "kynseed-닭-관리-건강-계절-및-문제-해결",
+        "text": "Kynseed 닭 관리: 건강, 계절 및 문제 해결"
+      },
+      {
+        "id": "고급-kynseed-가금류-농업-전략",
+        "text": "고급 Kynseed 가금류 농업 전략"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "farming:ko:efficient-farming": [
+      {
+        "id": "농장-배치가-효율성의-한계를-결정하는-이유",
+        "text": "농장 배치가 효율성의 한계를 결정하는 이유"
+      },
+      {
+        "id": "실제-시간을-절약하는-관개-시스템",
+        "text": "실제 시간을 절약하는 관개 시스템"
+      },
+      {
+        "id": "토양-준비와-비료-루틴",
+        "text": "토양 준비와 비료 루틴"
+      },
+      {
+        "id": "씨앗-선택과-심기-일정",
+        "text": "씨앗 선택과 심기 일정"
+      },
+      {
+        "id": "연중-최대-생산량을-위한-계절별-전략",
+        "text": "연중 최대 생산량을 위한 계절별 전략"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "farming:ko:farming-guide": [
+      {
+        "id": "kynseed-농사의-기본-이해하기",
+        "text": "Kynseed 농사의 기본 이해하기"
+      },
+      {
+        "id": "계절별-작물-계획과-순환",
+        "text": "계절별 작물 계획과 순환"
+      },
+      {
+        "id": "토양-관리와-비료",
+        "text": "토양 관리와 비료"
+      },
+      {
+        "id": "고급-농사-기술",
+        "text": "고급 농사 기술"
+      },
+      {
+        "id": "계절별-계획과-작물-순환",
+        "text": "계절별 계획과 작물 순환"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "farming:ko:horse-guide": [
+      {
+        "id": "첫-번째-말-선택-능력치-품종-구매-시기",
+        "text": "첫 번째 말 선택: 능력치, 품종, 구매 시기"
+      },
+      {
+        "id": "애완동물-메커니즘-심층-분석-개-고양이-그리고-그들의-독특한-역할",
+        "text": "애완동물 메커니즘 심층 분석: 개, 고양이, 그리고 그들의 독특한 역할"
+      },
+      {
+        "id": "동물-번식과-세대-부",
+        "text": "동물 번식과 세대 부"
+      },
+      {
+        "id": "농장-수입-전략에-동물-통합하기",
+        "text": "농장 수입 전략에 동물 통합하기"
+      },
+      {
+        "id": "후반-게임을-위한-고급-동물-전략",
+        "text": "후반 게임을 위한 고급 동물 전략"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "farming:ko:seasons-guide": [
+      {
+        "id": "kynseed-계절-주기-이해하기",
+        "text": "Kynseed 계절 주기 이해하기"
+      },
+      {
+        "id": "봄-작물-기반-다지기",
+        "text": "봄 작물: 기반 다지기"
+      },
+      {
+        "id": "여름-작물-열기-잠재력-극대화",
+        "text": "여름 작물: 열기 잠재력 극대화"
+      },
+      {
+        "id": "가을-작물과-수확-준비",
+        "text": "가을 작물과 수확 준비"
+      },
+      {
+        "id": "겨울-작물과-실내-농사",
+        "text": "겨울 작물과 실내 농사"
+      },
+      {
+        "id": "계절별-동물-돌보기",
+        "text": "계절별 동물 돌보기"
+      },
+      {
+        "id": "계절-전략과-장기-계획",
+        "text": "계절 전략과 장기 계획"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "farming:ko:seed-list": [
+      {
+        "id": "kynseed-씨앗-목록-모든-작물-씨앗과-구매처",
+        "text": "Kynseed 씨앗 목록: 모든 작물 씨앗과 구매처"
+      },
+      {
+        "id": "kynseed-과일나무-심기-접목-과수원-배치",
+        "text": "Kynseed 과일나무: 심기, 접목, 과수원 배치"
+      },
+      {
+        "id": "kynseed-양봉-벌통-설치와-꿀-수확",
+        "text": "Kynseed 양봉: 벌통 설치와 꿀 수확"
+      },
+      {
+        "id": "kynseed-염소-가이드-일일-돌보기-먹이-주기-제품-가치",
+        "text": "Kynseed 염소 가이드: 일일 돌보기, 먹이 주기, 제품 가치"
+      },
+      {
+        "id": "고급-과수원-전략-과일나무-생산량-극대화",
+        "text": "고급 과수원 전략: 과일나무 생산량 극대화"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "business:ko:business-guide": [
+      {
+        "id": "첫-kynseed-사업-선택하기",
+        "text": "첫 Kynseed 사업 선택하기"
+      },
+      {
+        "id": "선술집-운영-및-고객-만족도",
+        "text": "선술집 운영 및 고객 만족도"
+      },
+      {
+        "id": "약방-제작-및-재고-관리",
+        "text": "약방 제작 및 재고 관리"
+      },
+      {
+        "id": "대장간-단조-및-자원-전환",
+        "text": "대장간 단조 및 자원 전환"
+      },
+      {
+        "id": "일일-루틴-및-수익-최적화",
+        "text": "일일 루틴 및 수익 최적화"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "business:ko:business-management": [
+      {
+        "id": "플레이-스타일에-맞는-상점-선택하기",
+        "text": "플레이 스타일에 맞는 상점 선택하기"
+      },
+      {
+        "id": "수입-비교-어떤-상점이-가장-빠르게-골드를-버나",
+        "text": "수입 비교: 어떤 상점이 가장 빠르게 골드를 버나"
+      },
+      {
+        "id": "최대-수익을-위한-일일-루틴-최적화",
+        "text": "최대 수익을 위한 일일 루틴 최적화"
+      },
+      {
+        "id": "확장-업그레이드-장식-그리고-확장",
+        "text": "확장: 업그레이드, 장식, 그리고 확장"
+      },
+      {
+        "id": "장기-부를-위한-고급-전략",
+        "text": "장기 부를 위한 고급 전략"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "business:ko:business-upgrades": [
+      {
+        "id": "kynseed-상점-업그레이드-작동-방식",
+        "text": "Kynseed 상점 업그레이드 작동 방식"
+      },
+      {
+        "id": "kynseed-장식-가이드-실제로-중요한-것",
+        "text": "Kynseed 장식 가이드: 실제로 중요한 것"
+      },
+      {
+        "id": "최대-수익을-위한-최적-배치-전략",
+        "text": "최대 수익을 위한 최적 배치 전략"
+      },
+      {
+        "id": "고급-효율성-기술",
+        "text": "고급 효율성 기술"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "business:ko:food-recipes": [
+      {
+        "id": "kynseed-레시피-목록과-제작-기본-사항-이해하기",
+        "text": "Kynseed 레시피 목록과 제작 기본 사항 이해하기"
+      },
+      {
+        "id": "선술집을-위한-최고의-kynseed-음료-레시피",
+        "text": "선술집을 위한 최고의 Kynseed 음료 레시피"
+      },
+      {
+        "id": "고객-만족을-위한-필수-kynseed-음식-레시피",
+        "text": "고객 만족을 위한 필수 Kynseed 음식 레시피"
+      },
+      {
+        "id": "최적의-kynseed-선술집-배치-설계",
+        "text": "최적의 Kynseed 선술집 배치 설계"
+      },
+      {
+        "id": "다른-사업을-위한-kynseed-상점-배치-원칙",
+        "text": "다른 사업을 위한 Kynseed 상점 배치 원칙"
+      },
+      {
+        "id": "일일-수익-극대화를-위한-고급-사업-팁",
+        "text": "일일 수익 극대화를 위한 고급 사업 팁"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "business:ko:making-money": [
+      {
+        "id": "kynseed-가격-책정-가이드-기본-이해하기",
+        "text": "Kynseed 가격 책정 가이드 기본 이해하기"
+      },
+      {
+        "id": "반복-거래를-위한-kynseed-고객-가이드-구축하기",
+        "text": "반복 거래를 위한 Kynseed 고객 가이드 구축하기"
+      },
+      {
+        "id": "kynseed-직원-가이드-필수-요소-관리하기",
+        "text": "Kynseed 직원 가이드 필수 요소 관리하기"
+      },
+      {
+        "id": "이익을-위한-kynseed-레시피-가이드-제작하기",
+        "text": "이익을 위한 Kynseed 레시피 가이드 제작하기"
+      },
+      {
+        "id": "사업-확장을-위한-고급-전략",
+        "text": "사업 확장을 위한 고급 전략"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "business:ko:profit-maximization": [
+      {
+        "id": "kynseed-수익-극대화를-위한-시장-주기-이해하기",
+        "text": "Kynseed 수익 극대화를 위한 시장 주기 이해하기"
+      },
+      {
+        "id": "kynseed-거래-가이드-마스터하기-싸게-사서-비싸게-팔기",
+        "text": "Kynseed 거래 가이드 마스터하기: 싸게 사서 비싸게 팔기"
+      },
+      {
+        "id": "kynseed-상점-업그레이드-코인-투자처",
+        "text": "Kynseed 상점 업그레이드: 코인 투자처"
+      },
+      {
+        "id": "kynseed-수익-극대화를-위한-고급-판매-전략",
+        "text": "Kynseed 수익 극대화를 위한 고급 판매 전략"
+      },
+      {
+        "id": "흔한-수익-실수와-이를-피하는-방법",
+        "text": "흔한 수익 실수와 이를 피하는 방법"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "relationships:ko:dialogue-guide": [
+      {
+        "id": "kynseed-대화-메커니즘의-실제-작동-방식",
+        "text": "Kynseed 대화 메커니즘의 실제 작동 방식"
+      },
+      {
+        "id": "성격-유형과-선호하는-대화-분기",
+        "text": "성격 유형과 선호하는 대화 분기"
+      },
+      {
+        "id": "연애를-위한-최고의-데이트-대화-선택",
+        "text": "연애를 위한 최고의 데이트 대화 선택"
+      },
+      {
+        "id": "장기-관계를-위한-고급-대화-전략",
+        "text": "장기 관계를 위한 고급 대화 전략"
+      },
+      {
+        "id": "흔한-대화-실수와-피하는-방법",
+        "text": "흔한 대화 실수와 피하는 방법"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "relationships:ko:family-guide": [
+      {
+        "id": "kynseed-세대-시스템-작동-방식",
+        "text": "Kynseed 세대 시스템 작동 방식"
+      },
+      {
+        "id": "세대-간-이전되는-것",
+        "text": "세대 간 이전되는 것"
+      },
+      {
+        "id": "후계자의-성격과-특성-계획하기",
+        "text": "후계자의 성격과 특성 계획하기"
+      },
+      {
+        "id": "승계를-위한-자녀-준비",
+        "text": "승계를 위한 자녀 준비"
+      },
+      {
+        "id": "피해야-할-일반적인-승계-실수",
+        "text": "피해야 할 일반적인 승계 실수"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "relationships:ko:friendship-guide": [
+      {
+        "id": "kynseed-호감도-시스템이-실제로-작동하는-방식",
+        "text": "Kynseed 호감도 시스템이 실제로 작동하는 방식"
+      },
+      {
+        "id": "주민-선호도별-완전한-kynseed-선물-목록",
+        "text": "주민 선호도별 완전한 Kynseed 선물 목록"
+      },
+      {
+        "id": "우정을-위한-효율적인-kynseed-일상-루틴-구축",
+        "text": "우정을 위한 효율적인 Kynseed 일상 루틴 구축"
+      },
+      {
+        "id": "고급-호감도-전략과-흔한-함정",
+        "text": "고급 호감도 전략과 흔한 함정"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "relationships:ko:npc-schedules": [
+      {
+        "id": "kynseed-npc-일정이-진행에-중요한-이유",
+        "text": "Kynseed NPC 일정이 진행에 중요한 이유"
+      },
+      {
+        "id": "아침-루틴-정오-이전에-주민을-찾을-수-있는-위치",
+        "text": "아침 루틴: 정오 이전에 주민을 찾을 수 있는 위치"
+      },
+      {
+        "id": "오후-및-저녁-일정-사교-시간으로의-전환",
+        "text": "오후 및 저녁 일정: 사교 시간으로의 전환"
+      },
+      {
+        "id": "요일별-변동과-특별-이벤트",
+        "text": "요일별 변동과 특별 이벤트"
+      },
+      {
+        "id": "퀘스트와-관계를-위한-일정-지식-활용",
+        "text": "퀘스트와 관계를 위한 일정 지식 활용"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "relationships:ko:relationship-guide": [
+      {
+        "id": "kynseed-npc-목록과-사회적-역학-이해하기",
+        "text": "Kynseed NPC 목록과 사회적 역학 이해하기"
+      },
+      {
+        "id": "kynseed에서-결혼하는-방법-구애-과정",
+        "text": "Kynseed에서 결혼하는 방법: 구애 과정"
+      },
+      {
+        "id": "올바른-배우자-선택-결혼-후보자-비교",
+        "text": "올바른 배우자 선택: 결혼 후보자 비교"
+      },
+      {
+        "id": "자녀-양육과-가족-유산-구축",
+        "text": "자녀 양육과 가족 유산 구축"
+      },
+      {
+        "id": "고급-관계-전략과-장기-계획",
+        "text": "고급 관계 전략과 장기 계획"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "relationships:ko:special-npcs": [
+      {
+        "id": "특별-npc-소개",
+        "text": "특별 NPC 소개"
+      },
+      {
+        "id": "주요-상인-및-거래상",
+        "text": "주요 상인 및 거래상"
+      },
+      {
+        "id": "퀘스트-제공-npc",
+        "text": "퀘스트 제공 NPC"
+      },
+      {
+        "id": "가족-관련-npc",
+        "text": "가족 관련 NPC"
+      },
+      {
+        "id": "우정-보상-개요",
+        "text": "우정 보상 개요"
+      },
+      {
+        "id": "특별-npc-위치-및-일정",
+        "text": "특별 NPC 위치 및 일정"
+      },
+      {
+        "id": "npc-유형별-선물-선호도",
+        "text": "NPC 유형별 선물 선호도"
+      },
+      {
+        "id": "npc-관계-구축-팁",
+        "text": "NPC 관계 구축 팁"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "crafting:ko:crafting-guide": [
+      {
+        "id": "kynseed에서-제작-시작하기",
+        "text": "Kynseed에서 제작 시작하기"
+      },
+      {
+        "id": "필수-제작-자원",
+        "text": "필수 제작 자원"
+      },
+      {
+        "id": "레시피-카테고리-이해하기",
+        "text": "레시피 카테고리 이해하기"
+      },
+      {
+        "id": "제작-품질과-자원-효율성",
+        "text": "제작 품질과 자원 효율성"
+      },
+      {
+        "id": "고급-제작-기술",
+        "text": "고급 제작 기술"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "crafting:ko:gem-guide": [
+      {
+        "id": "kynseed의-보석-소개",
+        "text": "Kynseed의 보석 소개"
+      },
+      {
+        "id": "일반-보석-종류와-특성",
+        "text": "일반 보석 종류와 특성"
+      },
+      {
+        "id": "희귀-및-전설-보석",
+        "text": "희귀 및 전설 보석"
+      },
+      {
+        "id": "보석-획득-방법",
+        "text": "보석 획득 방법"
+      },
+      {
+        "id": "보석을-이용한-장신구-제작",
+        "text": "보석을 이용한 장신구 제작"
+      },
+      {
+        "id": "전략적-보석-선택",
+        "text": "전략적 보석 선택"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "crafting:ko:ingredient-guide": [
+      {
+        "id": "일상-재료를-위한-채집-경로",
+        "text": "일상 재료를 위한 채집 경로"
+      },
+      {
+        "id": "채광-가이드-광석-노드와-보석-광맥",
+        "text": "채광 가이드: 광석 노드와 보석 광맥"
+      },
+      {
+        "id": "약초-채취-가이드-계절-생성과-희귀-식물",
+        "text": "약초 채취 가이드: 계절 생성과 희귀 식물"
+      },
+      {
+        "id": "사냥-가이드-동물-드롭과-추적",
+        "text": "사냥 가이드: 동물 드롭과 추적"
+      },
+      {
+        "id": "낚시-가이드-핫스팟과-미끼-선택",
+        "text": "낚시 가이드: 핫스팟과 미끼 선택"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "crafting:ko:potion-making": [
+      {
+        "id": "kynseed-연금술-소개",
+        "text": "Kynseed 연금술 소개"
+      },
+      {
+        "id": "필수-양조-재료",
+        "text": "필수 양조 재료"
+      },
+      {
+        "id": "기본-양조-기술",
+        "text": "기본 양조 기술"
+      },
+      {
+        "id": "고급-물약-레시피",
+        "text": "고급 물약 레시피"
+      },
+      {
+        "id": "지망-연금술사를-위한-팁",
+        "text": "지망 연금술사를 위한 팁"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "crafting:ko:resource-guide": [
+      {
+        "id": "kynseed의-자원-이해하기",
+        "text": "Kynseed의 자원 이해하기"
+      },
+      {
+        "id": "채광-및-광물-자원",
+        "text": "채광 및 광물 자원"
+      },
+      {
+        "id": "식물-자원과-채집",
+        "text": "식물 자원과 채집"
+      },
+      {
+        "id": "동물성-제품과-사냥",
+        "text": "동물성 제품과 사냥"
+      },
+      {
+        "id": "자원-관리-전략",
+        "text": "자원 관리 전략"
+      },
+      {
+        "id": "효율적인-채집-기술",
+        "text": "효율적인 채집 기술"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "crafting:ko:workbench-guide": [
+      {
+        "id": "작업대--당신의-중심-제작-스테이션",
+        "text": "작업대 — 당신의 중심 제작 스테이션"
+      },
+      {
+        "id": "기본-도구와-장비",
+        "text": "기본 도구와 장비"
+      },
+      {
+        "id": "레시피-카테고리와-구성",
+        "text": "레시피 카테고리와 구성"
+      },
+      {
+        "id": "제작-품질과-성공",
+        "text": "제작 품질과 성공"
+      },
+      {
+        "id": "고급-작업대-기술",
+        "text": "고급 작업대 기술"
+      },
+      {
+        "id": "유지보수와-업그레이드",
+        "text": "유지보수와 업그레이드"
+      },
+      {
+        "id": "작업대-마스터리를-위한-팁",
+        "text": "작업대 마스터리를 위한 팁"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "dungeons:ko:chest-locations": [
+      {
+        "id": "kynseed-상자-유형-이해하기",
+        "text": "Kynseed 상자 유형 이해하기"
+      },
+      {
+        "id": "광산-첫-번째-보물-공급원",
+        "text": "광산: 첫 번째 보물 공급원"
+      },
+      {
+        "id": "페이-야생지-상자-위치",
+        "text": "페이 야생지 상자 위치"
+      },
+      {
+        "id": "늪-던전-상자",
+        "text": "늪 던전 상자"
+      },
+      {
+        "id": "거울의-탑-상자",
+        "text": "거울의 탑 상자"
+      },
+      {
+        "id": "효율적인-보물-사냥-전략",
+        "text": "효율적인 보물 사냥 전략"
+      },
+      {
+        "id": "플레이-스타일별-상자-농사",
+        "text": "플레이 스타일별 상자 농사"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "dungeons:ko:dungeon-guide": [
+      {
+        "id": "첫-던전-탐험을-위한-준비",
+        "text": "첫 던전 탐험을 위한 준비"
+      },
+      {
+        "id": "버려진-광산-층별-상세-분석",
+        "text": "버려진 광산: 층별 상세 분석"
+      },
+      {
+        "id": "전투-기초와-적-전술",
+        "text": "전투 기초와 적 전술"
+      },
+      {
+        "id": "보물-전리품-자원-수집",
+        "text": "보물, 전리품, 자원 수집"
+      },
+      {
+        "id": "던전-성공을-위한-팁",
+        "text": "던전 성공을 위한 팁"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "dungeons:ko:gear-check": [
+      {
+        "id": "kynseed-던전에서-장비가-중요한-이유",
+        "text": "Kynseed 던전에서 장비가 중요한 이유"
+      },
+      {
+        "id": "던전-공략을-위한-핵심-무기와-방어구",
+        "text": "던전 공략을 위한 핵심 무기와 방어구"
+      },
+      {
+        "id": "물약-음식-소모품",
+        "text": "물약, 음식, 소모품"
+      },
+      {
+        "id": "도구와-유틸리티-아이템",
+        "text": "도구와 유틸리티 아이템"
+      },
+      {
+        "id": "던전별-장비-구성",
+        "text": "던전별 장비 구성"
+      },
+      {
+        "id": "후반-및-엔드게임-장비-구성",
+        "text": "후반 및 엔드게임 장비 구성"
+      },
+      {
+        "id": "비상-회복-아이템",
+        "text": "비상 회복 아이템"
+      },
+      {
+        "id": "장비-내구도와-수리",
+        "text": "장비 내구도와 수리"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "dungeons:ko:regions-guide": [
+      {
+        "id": "kynseed-던전-지역-한눈에-보기",
+        "text": "Kynseed 던전 지역 한눈에 보기"
+      },
+      {
+        "id": "광산-첫-번째-하강",
+        "text": "광산: 첫 번째 하강"
+      },
+      {
+        "id": "깊은-숲-동굴-자연의-가틀렛",
+        "text": "깊은 숲 동굴: 자연의 가틀렛"
+      },
+      {
+        "id": "늪지대-흐릿한-깊이",
+        "text": "늪지대: 흐릿한 깊이"
+      },
+      {
+        "id": "거울의-탑-퍼즐과-전투의-융합",
+        "text": "거울의 탑: 퍼즐과 전투의 융합"
+      },
+      {
+        "id": "요정-야생지-신비로운-위험",
+        "text": "요정 야생지: 신비로운 위험"
+      },
+      {
+        "id": "지하세계-엔드게임-영역",
+        "text": "지하세계: 엔드게임 영역"
+      },
+      {
+        "id": "지역-비교-표",
+        "text": "지역 비교 표"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "dungeons:ko:ruins-guide": [
+      {
+        "id": "kynseed의-유적-이해하기",
+        "text": "Kynseed의 유적 이해하기"
+      },
+      {
+        "id": "첫-원정-준비하기",
+        "text": "첫 원정 준비하기"
+      },
+      {
+        "id": "유적-안전하게-탐험하기",
+        "text": "유적 안전하게 탐험하기"
+      },
+      {
+        "id": "전리품과-보상",
+        "text": "전리품과 보상"
+      },
+      {
+        "id": "유적-비밀과-이스터-에그",
+        "text": "유적 비밀과 이스터 에그"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      },
+      {
+        "id": "마지막-생각",
+        "text": "마지막 생각"
+      }
+    ],
+    "dungeons:ko:safe-zones": [
+      {
+        "id": "kynseed의-안전-구역-이해하기",
+        "text": "Kynseed의 안전 구역 이해하기"
+      },
+      {
+        "id": "버려진-광산의-주요-안전-구역",
+        "text": "버려진 광산의 주요 안전 구역"
+      },
+      {
+        "id": "요정-숲의-안전-구역",
+        "text": "요정 숲의 안전 구역"
+      },
+      {
+        "id": "안전-구역-메커니즘과-휴식-시스템",
+        "text": "안전 구역 메커니즘과 휴식 시스템"
+      },
+      {
+        "id": "고급-안전-구역-전략",
+        "text": "고급 안전 구역 전략"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "lore:ko:creatures-guide": [
+      {
+        "id": "kynseed-생물체-소개",
+        "text": "Kynseed 생물체 소개"
+      },
+      {
+        "id": "일반-생물체",
+        "text": "일반 생물체"
+      },
+      {
+        "id": "보스-생물체",
+        "text": "보스 생물체"
+      },
+      {
+        "id": "길들여진-생물체와-동료",
+        "text": "길들여진 생물체와 동료"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "lore:ko:folklore-guide": [
+      {
+        "id": "kynseed-스토리라인의-어두운-동화적-뿌리",
+        "text": "Kynseed 스토리라인의 어두운 동화적 뿌리"
+      },
+      {
+        "id": "베일의-역사-건국에서-몰락까지",
+        "text": "베일의 역사: 건국에서 몰락까지"
+      },
+      {
+        "id": "세계-이벤트와-계절-축제-설명",
+        "text": "세계 이벤트와 계절 축제 설명"
+      },
+      {
+        "id": "요정족-거래와-그-결과",
+        "text": "요정족 거래와 그 결과"
+      },
+      {
+        "id": "민속이-게임플레이와-유산을-형성하는-방식",
+        "text": "민속이 게임플레이와 유산을 형성하는 방식"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "lore:ko:game-world": [
+      {
+        "id": "땅의-모습-kynseed-게임-세계-탐험하기",
+        "text": "땅의 모습: Kynseed 게임 세계 탐험하기"
+      },
+      {
+        "id": "발밑의-역사-kynseed-역사-가이드",
+        "text": "발밑의 역사: Kynseed 역사 가이드"
+      },
+      {
+        "id": "동화와-요정-거래-세계를-지배하는-마법",
+        "text": "동화와 요정 거래: 세계를 지배하는 마법"
+      },
+      {
+        "id": "마을-생활과-공동체-kynseed-배경-설정의-심장",
+        "text": "마을 생활과 공동체: Kynseed 배경 설정의 심장"
+      },
+      {
+        "id": "세계-지식이-플레이에-미치는-개선-효과",
+        "text": "세계 지식이 플레이에 미치는 개선 효과"
+      },
+      {
+        "id": "살아있는-유산-kynseed-세계관-가이드가-중요한-이유",
+        "text": "살아있는 유산: Kynseed 세계관 가이드가 중요한 이유"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "lore:ko:lore-guide": [
+      {
+        "id": "카인시드의-세계관과-스토리--종합-가이드",
+        "text": "카인시드의 세계관과 스토리 – 종합 가이드"
+      },
+      {
+        "id": "카인스드의-세계와-배경",
+        "text": "카인스드의 세계와 배경"
+      },
+      {
+        "id": "메인-스토리라인과-퀘스트",
+        "text": "메인 스토리라인과 퀘스트"
+      },
+      {
+        "id": "세력과-등장인물",
+        "text": "세력과 등장인물"
+      },
+      {
+        "id": "고대-역사와-신화",
+        "text": "고대 역사와 신화"
+      },
+      {
+        "id": "마법과-신비한-요소",
+        "text": "마법과 신비한 요소"
+      },
+      {
+        "id": "주요-장소와-그-중요성",
+        "text": "주요 장소와 그 중요성"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "lore:ko:mystical-guide": [
+      {
+        "id": "kynseed-마법-시스템의-기초",
+        "text": "Kynseed 마법 시스템의 기초"
+      },
+      {
+        "id": "신들의-판테온-신과-그들의-영역",
+        "text": "신들의 판테온: 신과 그들의 영역"
+      },
+      {
+        "id": "요정-궁정-계약과-결과",
+        "text": "요정 궁정: 계약과 결과"
+      },
+      {
+        "id": "땅의-정령-유령-수호자-그리고-떠도는-영혼들",
+        "text": "땅의 정령: 유령, 수호자, 그리고 떠도는 영혼들"
+      },
+      {
+        "id": "유산을-위한-실용적인-신비-전략",
+        "text": "유산을 위한 실용적인 신비 전략"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "lore:ko:thornborough": [
+      {
+        "id": "쏜버러의-건국-전설과-신화적-뿌리",
+        "text": "쏜버러의 건국 전설과 신화적 뿌리"
+      },
+      {
+        "id": "kynseed-연대기-건국부터-현재까지",
+        "text": "Kynseed 연대기: 건국부터 현재까지"
+      },
+      {
+        "id": "쏜버러의-축제-계절별-축제와-그-기원",
+        "text": "쏜버러의 축제: 계절별 축제와 그 기원"
+      },
+      {
+        "id": "쏜버러의-주요-명소와-숨겨진-이야기",
+        "text": "쏜버러의 주요 명소와 숨겨진 이야기"
+      },
+      {
+        "id": "쏜버러의-세계관이-게임플레이-결정을-형성하는-방식",
+        "text": "쏜버러의 세계관이 게임플레이 결정을 형성하는 방식"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "updates:ko:added-content": [
+      {
+        "id": "얼리-액세스에서-정식-출시까지의-여정",
+        "text": "얼리 액세스에서 정식 출시까지의 여정"
+      },
+      {
+        "id": "주요-콘텐츠-확장",
+        "text": "주요 콘텐츠 확장"
+      },
+      {
+        "id": "게임플레이-시스템-개편",
+        "text": "게임플레이 시스템 개편"
+      },
+      {
+        "id": "삶의-질-향상",
+        "text": "삶의 질 향상"
+      },
+      {
+        "id": "계절-이벤트와-한정-콘텐츠",
+        "text": "계절 이벤트와 한정 콘텐츠"
+      },
+      {
+        "id": "커뮤니티-주도-업데이트",
+        "text": "커뮤니티 주도 업데이트"
+      },
+      {
+        "id": "kynseed의-미래",
+        "text": "Kynseed의 미래"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "updates:ko:dev-updates": [
+      {
+        "id": "kynseed-개발의-진화",
+        "text": "Kynseed 개발의 진화"
+      },
+      {
+        "id": "주요-업데이트-이정표",
+        "text": "주요 업데이트 이정표"
+      },
+      {
+        "id": "pixelcount-studios의-피드백-수집-방식",
+        "text": "PixelCount Studios의 피드백 수집 방식"
+      },
+      {
+        "id": "로드맵의-다음-단계",
+        "text": "로드맵의 다음 단계"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "updates:ko:game-version": [
+      {
+        "id": "kynseed-게임-버전-역사-및-전체-릴리스-타임라인",
+        "text": "Kynseed 게임 버전 역사 및 전체 릴리스 타임라인"
+      },
+      {
+        "id": "kynseed-현재-버전-확인-방법",
+        "text": "Kynseed 현재 버전 확인 방법"
+      },
+      {
+        "id": "kynseed-전체-릴리스에서-변경된-사항",
+        "text": "Kynseed 전체 릴리스에서 변경된 사항"
+      },
+      {
+        "id": "kynseed-최신-버전-및-최근-업데이트-하이라이트",
+        "text": "Kynseed 최신 버전 및 최근 업데이트 하이라이트"
+      },
+      {
+        "id": "kynseed-변경-로그가-플레이-계획에-도움이-되는-방법",
+        "text": "Kynseed 변경 로그가 플레이 계획에 도움이 되는 방법"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "updates:ko:patch-notes": [
+      {
+        "id": "kynseed-패치-노트-개요-2024년-업데이트가-제공한-것",
+        "text": "Kynseed 패치 노트 개요: 2024년 업데이트가 제공한 것"
+      },
+      {
+        "id": "최신-kynseed-업데이트의-주요-기능-추가",
+        "text": "최신 Kynseed 업데이트의 주요 기능 추가"
+      },
+      {
+        "id": "kynseed-신규-콘텐츠-계절-이벤트와-세계-확장",
+        "text": "Kynseed 신규 콘텐츠: 계절 이벤트와 세계 확장"
+      },
+      {
+        "id": "최근-패치의-밸런스-변경-및-게임플레이-조정",
+        "text": "최근 패치의 밸런스 변경 및 게임플레이 조정"
+      },
+      {
+        "id": "향후-kynseed-릴리스-노트를-계속-확인하는-방법",
+        "text": "향후 Kynseed 릴리스 노트를 계속 확인하는 방법"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      }
+    ],
+    "updates:ko:quality-of-life": [
+      {
+        "id": "kynseed-사용자-인터페이스의-진화",
+        "text": "Kynseed 사용자 인터페이스의 진화"
+      },
+      {
+        "id": "농사-및-제작-다듬기",
+        "text": "농사 및 제작 다듬기"
+      },
+      {
+        "id": "전투-및-던전-삶의-질",
+        "text": "전투 및 던전 삶의 질"
+      },
+      {
+        "id": "생애-주기-및-관계-간소화",
+        "text": "생애 주기 및 관계 간소화"
+      },
+      {
+        "id": "커뮤니티-주도-개선",
+        "text": "커뮤니티 주도 개선"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
+      },
+      {
+        "id": "결론",
+        "text": "결론"
+      }
+    ],
+    "updates:ko:roadmap": [
+      {
+        "id": "kynseed-로드맵의-진화-과정",
+        "text": "Kynseed 로드맵의 진화 과정"
+      },
+      {
+        "id": "향후-개발의-핵심-기둥",
+        "text": "향후 개발의 핵심 기둥"
+      },
+      {
+        "id": "커뮤니티-피드백과-로드맵",
+        "text": "커뮤니티 피드백과 로드맵"
+      },
+      {
+        "id": "다가올-기능-한눈에-보기",
+        "text": "다가올 기능 한눈에 보기"
+      },
+      {
+        "id": "다음-주요-업데이트에서-기대할-점",
+        "text": "다음 주요 업데이트에서 기대할 점"
+      },
+      {
+        "id": "일정과-이정표",
+        "text": "일정과 이정표"
+      },
+      {
+        "id": "정보를-얻는-방법",
+        "text": "정보를 얻는 방법"
+      },
+      {
+        "id": "자주-묻는-질문",
+        "text": "자주 묻는 질문"
       }
     ]
   }
